@@ -10,9 +10,7 @@
 #ifndef __cLevelDisplay_H
 #define __cLevelDisplay_H
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
+#include "vstgui.h"
 
 #define DEF_LIGHTEST 120
 #define DEF_DARKEST 50

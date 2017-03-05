@@ -11,7 +11,7 @@
 #include "cADSRDisplay.h"
 #endif
 
-cADSRDisplay::cADSRDisplay(const CRect &size, CControlListener *listener, long tag, CBitmap *pBackground) :
+cADSRDisplay::cADSRDisplay(const CRect &size, IControlListener *listener, long tag, CBitmap *pBackground) :
 CControl(size, listener, tag, pBackground) {
   m_attack_x = m_attack_y = 0;
   m_decay_x = m_decay_y = 0;
@@ -25,10 +25,10 @@ cADSRDisplay::~cADSRDisplay() {
 }
 
 void cADSRDisplay::draw(CDrawContext *pContext) {
-  CColor lcolor = {200, 200, 200, 255};
+  CColor lcolor (200, 200, 200, 255);
   pContext->setFrameColor(lcolor);
   pContext->setLineWidth(1);
-  pContext->setDrawMode(kAntialias);
+  pContext->setDrawMode(kAntiAliasing);
   
   CPoint point(size.left, size.bottom);
   pContext->moveTo(point);
@@ -78,13 +78,13 @@ int cADSRDisplay::distance(int x1, int y1, int x2, int y2) const {
 void cADSRDisplay::mouse(CDrawContext *pContext, CPoint &where, long buttons) {
   CView::mouse(pContext, where, buttons);
 
-  if(distance(where.h, where.v, m_attack_x, m_attack_y) < DEF_MOUSE_TOLERANCE) {
+  if(distance(where.x, where.y, m_attack_x, m_attack_y) < DEF_MOUSE_TOLERANCE) {
     setValue(1);
   }
-  else if(distance(where.h, where.v, m_decay_x, m_decay_y) < DEF_MOUSE_TOLERANCE) {
+  else if(distance(where.x, where.y, m_decay_x, m_decay_y) < DEF_MOUSE_TOLERANCE) {
     setValue(2);
   }
-  else if(distance(where.h, where.v, m_sustain_x, m_sustain_y) < DEF_MOUSE_TOLERANCE) {
+  else if(distance(where.x, where.y, m_sustain_x, m_sustain_y) < DEF_MOUSE_TOLERANCE) {
     setValue(3);
   }
   else {

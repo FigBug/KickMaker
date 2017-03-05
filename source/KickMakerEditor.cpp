@@ -12,9 +12,7 @@
 #include "defaults.h"
 #endif
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
+#include "vstgui.h"
 
 // VSTGUI Stuff //////////////////////////////////////////////////////////
 #if PLUGGUI

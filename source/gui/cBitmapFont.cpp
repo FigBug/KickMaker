@@ -13,13 +13,13 @@
 
 // Takes in a bitmap filmstrip in the following format:
 // 0-9 A-Z a-z . *
-cBitmapFont::cBitmapFont(const CRect &size, CControlListener *listener, long tag,
+cBitmapFont::cBitmapFont(const CRect &size, IControlListener *listener, long tag,
                          CBitmap *background, int spacing, int characters) :
 CControl(size, listener, tag, background) {
   setTransparency(true);
   m_num_chars = 0;
   m_is_hidden = false;
-  m_max_chars = (int)((float)size.width() / (float)(background->getWidth() + spacing));
+  m_max_chars = (int)((float)size.getWidth() / (float)(background->getWidth() + spacing));
   m_font_height = (int)((float)background->getHeight() / (float)characters);
   memset(m_orig_text, 0x0, sizeof(char) * MAX_BUFFER_CHARS);
   m_text = NULL;
@@ -65,8 +65,8 @@ void cBitmapFont::draw(CDrawContext *pContext) {
   if(!m_is_hidden) {
     CPoint where(0, 0);
     for(int i = 0; i < m_num_chars; ++i) {
-      where.v = m_font_height * m_char_index[i];
-      pBackground->drawTransparent(pContext, m_sizes[i], where);
+      where.y = m_font_height * m_char_index[i];
+      getBackground()->drawTransparent(pContext, m_sizes[i], where);
     }
   }
   setDirty(false);

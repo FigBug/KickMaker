@@ -25,7 +25,7 @@
 
 class cADSRDisplay : public CControl {
 public:
-  cADSRDisplay(const CRect &size, CControlListener *listener, long tag, CBitmap *pBackground);
+  cADSRDisplay(const CRect &size, IControlListener *listener, long tag, CBitmap *pBackground);
   ~cADSRDisplay();
   
   virtual void draw(CDrawContext *pContext);
@@ -38,7 +38,7 @@ public:
   void setReleaseCoords(float amount, float amp);
 protected:
 private:
-    CDragContainer *dc;
+    CDragContainerHelper *dc;
   int m_attack_x, m_attack_y;
   int m_decay_x, m_decay_y;
   int m_sustain_x, m_sustain_y;

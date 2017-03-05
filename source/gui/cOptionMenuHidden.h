@@ -10,9 +10,7 @@
 #ifndef __cOptionMenuHidden_H
 #define __cOptionMenuHidden_H
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
+#include "vstgui.h"
 
 #include <vector>
 

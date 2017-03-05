@@ -67,10 +67,6 @@
 #include "vstgui.h"
 #endif
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
-
 #ifdef USE_PC_AU
 #include <Carbon/Carbon.h>
 #include "AUCarbonViewBase.h"

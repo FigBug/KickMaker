@@ -284,17 +284,7 @@
 		24E458750F9B6D65008F34CE /* audioeffect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4561B0F9B6B40008F34CE /* audioeffect.cpp */; };
 		24E458760F9B6D65008F34CE /* audioeffectx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4561D0F9B6B40008F34CE /* audioeffectx.cpp */; };
 		24E458770F9B6D65008F34CE /* vstplugmain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4561F0F9B6B40008F34CE /* vstplugmain.cpp */; };
-		24E458780F9B6D79008F34CE /* aeffguieditor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4565A0F9B6B41008F34CE /* aeffguieditor.cpp */; };
-		24E458790F9B6D79008F34CE /* cfileselector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4565C0F9B6B41008F34CE /* cfileselector.cpp */; };
-		24E4587A0F9B6D79008F34CE /* cscrollview.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4565F0F9B6B41008F34CE /* cscrollview.cpp */; };
-		24E4587B0F9B6D79008F34CE /* ctabview.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E456610F9B6B41008F34CE /* ctabview.cpp */; };
-		24E4587D0F9B6D79008F34CE /* vstcontrols.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4578B0F9B6B42008F34CE /* vstcontrols.cpp */; };
 		24E4587E0F9B6D79008F34CE /* vstgui.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4578D0F9B6B42008F34CE /* vstgui.cpp */; };
-		24E458800F9B6D79008F34CE /* cfileselector.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4565C0F9B6B41008F34CE /* cfileselector.cpp */; };
-		24E458810F9B6D79008F34CE /* cscrollview.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4565F0F9B6B41008F34CE /* cscrollview.cpp */; };
-		24E458820F9B6D79008F34CE /* ctabview.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E456610F9B6B41008F34CE /* ctabview.cpp */; };
-		24E458830F9B6D79008F34CE /* plugguieditor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E457890F9B6B42008F34CE /* plugguieditor.cpp */; };
-		24E458840F9B6D79008F34CE /* vstcontrols.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4578B0F9B6B42008F34CE /* vstcontrols.cpp */; };
 		24E458850F9B6D79008F34CE /* vstgui.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24E4578D0F9B6B42008F34CE /* vstgui.cpp */; };
 		7883C0951E6C692F00D4A318 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7883C0941E6C692F00D4A318 /* Cocoa.framework */; };
 /* End PBXBuildFile section */
@@ -453,25 +443,8 @@
 		24E4561D0F9B6B40008F34CE /* audioeffectx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = audioeffectx.cpp; sourceTree = "<group>"; };
 		24E4561E0F9B6B40008F34CE /* audioeffectx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = audioeffectx.h; sourceTree = "<group>"; };
 		24E4561F0F9B6B40008F34CE /* vstplugmain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vstplugmain.cpp; sourceTree = "<group>"; };
-		24E4565A0F9B6B41008F34CE /* aeffguieditor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = aeffguieditor.cpp; sourceTree = "<group>"; };
-		24E4565B0F9B6B41008F34CE /* aeffguieditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = aeffguieditor.h; sourceTree = "<group>"; };
-		24E4565C0F9B6B41008F34CE /* cfileselector.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cfileselector.cpp; sourceTree = "<group>"; };
-		24E4565D0F9B6B41008F34CE /* cfileselector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cfileselector.h; sourceTree = "<group>"; };
-		24E4565F0F9B6B41008F34CE /* cscrollview.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cscrollview.cpp; sourceTree = "<group>"; };
-		24E456600F9B6B41008F34CE /* cscrollview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cscrollview.h; sourceTree = "<group>"; };
-		24E456610F9B6B41008F34CE /* ctabview.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ctabview.cpp; sourceTree = "<group>"; };
-		24E456620F9B6B41008F34CE /* ctabview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ctabview.h; sourceTree = "<group>"; };
-		24E457890F9B6B42008F34CE /* plugguieditor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = plugguieditor.cpp; sourceTree = "<group>"; };
-		24E4578A0F9B6B42008F34CE /* plugguieditor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = plugguieditor.h; sourceTree = "<group>"; };
-		24E4578B0F9B6B42008F34CE /* vstcontrols.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vstcontrols.cpp; sourceTree = "<group>"; };
-		24E4578C0F9B6B42008F34CE /* vstcontrols.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstcontrols.h; sourceTree = "<group>"; };
 		24E4578D0F9B6B42008F34CE /* vstgui.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = vstgui.cpp; sourceTree = "<group>"; };
 		24E4578E0F9B6B42008F34CE /* vstgui.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstgui.h; sourceTree = "<group>"; };
-		24E4578F0F9B6B42008F34CE /* vstkeycode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstkeycode.h; sourceTree = "<group>"; };
-		24E457900F9B6B42008F34CE /* vstplugscarbon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstplugscarbon.h; sourceTree = "<group>"; };
-		24E457910F9B6B42008F34CE /* vstplugsmac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstplugsmac.h; sourceTree = "<group>"; };
-		24E457920F9B6B42008F34CE /* vstplugsmacho.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstplugsmacho.h; sourceTree = "<group>"; };
-		24E457930F9B6B42008F34CE /* vstplugsquartz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vstplugsquartz.h; sourceTree = "<group>"; };
 		24E457BF0F9B6B87008F34CE /* cADSRDisplay.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = cADSRDisplay.cpp; path = source/gui/cADSRDisplay.cpp; sourceTree = "<group>"; };
 		24E457C00F9B6B87008F34CE /* cADSRDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = cADSRDisplay.h; path = source/gui/cADSRDisplay.h; sourceTree = "<group>"; };
 		24E457C10F9B6B87008F34CE /* cBitmapFont.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = cBitmapFont.cpp; path = source/gui/cBitmapFont.cpp; sourceTree = "<group>"; };
@@ -960,25 +933,8 @@
 		24E456590F9B6B41008F34CE /* vstgui */ = {
 			isa = PBXGroup;
 			children = (
-				24E4565A0F9B6B41008F34CE /* aeffguieditor.cpp */,
-				24E4565C0F9B6B41008F34CE /* cfileselector.cpp */,
-				24E4565F0F9B6B41008F34CE /* cscrollview.cpp */,
-				24E456610F9B6B41008F34CE /* ctabview.cpp */,
-				24E457890F9B6B42008F34CE /* plugguieditor.cpp */,
-				24E4578B0F9B6B42008F34CE /* vstcontrols.cpp */,
 				24E4578D0F9B6B42008F34CE /* vstgui.cpp */,
-				24E4565B0F9B6B41008F34CE /* aeffguieditor.h */,
-				24E4565D0F9B6B41008F34CE /* cfileselector.h */,
-				24E456600F9B6B41008F34CE /* cscrollview.h */,
-				24E456620F9B6B41008F34CE /* ctabview.h */,
-				24E4578A0F9B6B42008F34CE /* plugguieditor.h */,
-				24E4578C0F9B6B42008F34CE /* vstcontrols.h */,
 				24E4578E0F9B6B42008F34CE /* vstgui.h */,
-				24E4578F0F9B6B42008F34CE /* vstkeycode.h */,
-				24E457900F9B6B42008F34CE /* vstplugscarbon.h */,
-				24E457910F9B6B42008F34CE /* vstplugsmac.h */,
-				24E457920F9B6B42008F34CE /* vstplugsmacho.h */,
-				24E457930F9B6B42008F34CE /* vstplugsquartz.h */,
 			);
 			path = vstgui;
 			sourceTree = "<group>";
@@ -1444,11 +1400,6 @@
 				24E4586C0F9B6BAD008F34CE /* fxSinewave.cpp in Sources */,
 				24E4586D0F9B6BAD008F34CE /* fxSquarewave.cpp in Sources */,
 				24E4586E0F9B6BAD008F34CE /* fxTriangle.cpp in Sources */,
-				24E458800F9B6D79008F34CE /* cfileselector.cpp in Sources */,
-				24E458810F9B6D79008F34CE /* cscrollview.cpp in Sources */,
-				24E458820F9B6D79008F34CE /* ctabview.cpp in Sources */,
-				24E458830F9B6D79008F34CE /* plugguieditor.cpp in Sources */,
-				24E458840F9B6D79008F34CE /* vstcontrols.cpp in Sources */,
 				24E458850F9B6D79008F34CE /* vstgui.cpp in Sources */,
 				24A59EB5122FBB1B00EA0751 /* AUCarbonViewBase.cpp in Sources */,
 				24A59EF9122FBE9600EA0751 /* appMac.cpp in Sources */,
@@ -1513,11 +1464,6 @@
 				24E458750F9B6D65008F34CE /* audioeffect.cpp in Sources */,
 				24E458760F9B6D65008F34CE /* audioeffectx.cpp in Sources */,
 				24E458770F9B6D65008F34CE /* vstplugmain.cpp in Sources */,
-				24E458780F9B6D79008F34CE /* aeffguieditor.cpp in Sources */,
-				24E458790F9B6D79008F34CE /* cfileselector.cpp in Sources */,
-				24E4587A0F9B6D79008F34CE /* cscrollview.cpp in Sources */,
-				24E4587B0F9B6D79008F34CE /* ctabview.cpp in Sources */,
-				24E4587D0F9B6D79008F34CE /* vstcontrols.cpp in Sources */,
 				24E4587E0F9B6D79008F34CE /* vstgui.cpp in Sources */,
 				24A59F07122FBE9600EA0751 /* appMac.cpp in Sources */,
 				24A59F09122FBE9600EA0751 /* auLoader.cpp in Sources */,

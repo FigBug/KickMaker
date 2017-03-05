@@ -14,9 +14,7 @@
 #include "eventManager.h"
 #endif
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
+#include "vstgui.h"
 
 #include <stdio.h>
 

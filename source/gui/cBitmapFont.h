@@ -10,13 +10,7 @@
 #ifndef __cBitmapFont_H
 #define __cBitmapFont_H
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
-
-#ifndef __vstkeycode__
-#include "vstkeycode.h"
-#endif
+#include "vstgui.h"
 
 #define MAX_BUFFER_CHARS 64
 // Number of characters expected in filmstrip
@@ -24,7 +18,7 @@
 
 class cBitmapFont : public CControl {
 public:
-  cBitmapFont(const CRect &size, CControlListener *listener, long tag, CBitmap *background,
+  cBitmapFont(const CRect &size, IControlListener *listener, long tag, CBitmap *background,
               int spacing, int characters);
   ~cBitmapFont();
   

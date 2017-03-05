@@ -10,9 +10,7 @@
 #ifndef __cTextEditLockable_H
 #define __cTextEditLockable_H
 
-#ifndef __vstcontrols__
-#include "vstcontrols.h"
-#endif
+#include "vstgui.h"
 
 class cTextEditLockable : public CTextEdit {
 public:
