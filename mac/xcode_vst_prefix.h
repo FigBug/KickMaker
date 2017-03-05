@@ -1,8 +1,8 @@
 #define MAC 1
 #define MACX 1
 #define XML_STATIC 1
-#define QUARTZ 1
-#define TARGET_API_MAC_CARBON 1
+//#define QUARTZ 1
+//#define TARGET_API_MAC_CARBON 1
 #define USENAVSERVICES 1
 
 #define __CF_USE_FRAMEWORK_INCLUDES__

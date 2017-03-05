@@ -2,8 +2,8 @@
 #define MACX 1
 #define XML_STATIC 1
 #define PLUGGUI 1
-#define QUARTZ 1
-#define TARGET_API_MAC_CARBON 1
+//#define QUARTZ 1
+//#define TARGET_API_MAC_CARBON 1
 #define USENAVSERVICES 1
 
 #if __ppc__

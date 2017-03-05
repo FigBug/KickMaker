@@ -5,7 +5,7 @@
  */
 
 #ifndef __defaults_h
-#define __defaults_H
+#define __defaults_h
 
 #define DEF_PRODUCT "KickMaker"
 #define MAJ_VERSION 2
