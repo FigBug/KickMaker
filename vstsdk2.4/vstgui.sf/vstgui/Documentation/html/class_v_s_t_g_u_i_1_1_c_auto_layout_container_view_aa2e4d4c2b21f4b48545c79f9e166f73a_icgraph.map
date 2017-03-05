@@ -1,0 +1,7 @@
+<map id="layoutViews" name="layoutViews">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="167,5,234,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="157,55,244,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a5bf9c24c3fa1c7b4596596d29e0cc4ae" title="add a child view " alt="" coords="167,104,234,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a0a4c38fc43ad87d5ef21f0e7361d4f25" title="remove a child view " alt="" coords="157,153,244,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#a5921267a54329874cba0b7547b7618e6" title="change view z order position " alt="" coords="138,203,263,228"/>
+</map>

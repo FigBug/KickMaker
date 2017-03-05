@@ -1,0 +1,7 @@
+<map id="advanceNextFocusView" name="advanceNextFocusView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="203,63,289,88"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa5f22633746119816576e24fa9698978" title="called when the platform view/window is activated/deactivated " alt="" coords="208,116,285,142"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aadc463bebcfcce932306475d35f75d64" title="platformOnKeyDown" alt="" coords="337,5,469,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a6fe3b1173ddcfc768a77a358ea46698f" title="VSTGUI::CTextEdit::\lplatformOnKeyDown" alt="" coords="337,56,469,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae32a34c72cf4bcd0fb350b1a54929d37" title="platformOnActivate" alt="" coords="342,120,465,146"/>
+</map>

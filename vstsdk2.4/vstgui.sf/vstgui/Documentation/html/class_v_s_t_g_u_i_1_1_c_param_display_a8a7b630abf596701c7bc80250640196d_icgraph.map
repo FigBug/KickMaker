@@ -1,0 +1,7 @@
+<map id="drawPlatformText" name="drawPlatformText">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="167,5,314,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="217,70,264,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aebe78d93f70dda070f2b6fe54e97f24c" title="drawText" alt="" coords="206,119,275,145"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="174,169,307,209"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="362,176,519,202"/>
+</map>

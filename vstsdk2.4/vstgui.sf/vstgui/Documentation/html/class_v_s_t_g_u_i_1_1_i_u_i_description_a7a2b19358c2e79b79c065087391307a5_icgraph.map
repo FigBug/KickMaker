@@ -1,0 +1,7 @@
+<map id="getVariable" name="getVariable">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#ae8f98a5b61edf8478725bd924b6f7386" title="VSTGUI::UIViewFactory\l::evaluateAttributesAndRemember" alt="" coords="134,69,339,109"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a029774db62b9070edfcdd78068a31407" title="VSTGUI::UIViewFactory\l::createViewByName" alt="" coords="414,5,565,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a58bbe2c420f746ffce58fc206e7db5ff" title="VSTGUI::UIViewFactory\l::applyAttributeValues" alt="" coords="414,69,565,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#ab311dd687ea212eccd65b6237dc8eb61" title="VSTGUI::UIViewFactory\l::applyCustomViewAttributeValues" alt="" coords="387,133,592,173"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a14a05eaacca7a2254708dd9032c9a80f" title="VSTGUI::UIViewFactory\l::createView" alt="" coords="640,5,790,45"/>
+</map>

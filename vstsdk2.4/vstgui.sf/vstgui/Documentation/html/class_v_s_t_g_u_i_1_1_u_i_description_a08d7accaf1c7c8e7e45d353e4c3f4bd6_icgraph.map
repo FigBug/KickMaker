@@ -1,0 +1,34 @@
+<map id="findChildNodeByNameAttribute" name="findChildNodeByNameAttribute">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a4d20a5578f2b8cf3f247e5e9726dff75" title="getTagForName" alt="" coords="277,29,384,55"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a0fbbc231900c1d5f9daed9ca8efad954" title="getVariable" alt="" coords="683,55,764,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ac7c583613c5364949d57973f92938343" title="hasColorName" alt="" coords="280,131,381,156"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#aa68a4e564f76814a544c62e5de7fe591" title="hasTagName" alt="" coords="284,180,376,206"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#afd0da33c501f3c035429bcd9901e2e68" title="hasFontName" alt="" coords="282,229,379,255"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ac00c28475882ec89a0e0f966de75cdab" title="hasBitmapName" alt="" coords="275,279,385,304"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ab221248a3d8a546463c59f4d8b08facc" title="hasGradientName" alt="" coords="271,328,390,354"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a1cda45c6bd6405eee0ae5eeecab815e7" title="getBitmap" alt="" coords="498,428,573,454"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2f93c44997643f81cbb783807a5b7c50" title="getFont" alt="" coords="299,429,361,455"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#af43ec4cfad6c07c09ef94b352ac44305" title="getColor" alt="" coords="297,479,364,504"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a28c1687552fa3af1359456f2ddbaec1c" title="getGradient" alt="" coords="288,528,372,554"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a3e3a9b663172fd54dab4cba64fe6dd73" title="changeNodeName" alt="" coords="270,577,391,603"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ac11c8cba1ea3bcd87b7d5bfbb5abc6e6" title="changeColor" alt="" coords="286,627,375,652"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a5a6b5a46e0d056aaedba4d5515944cd5" title="changeFont" alt="" coords="288,676,373,702"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#af16e33b03a5cb6fa0b5bb99249158590" title="changeGradient" alt="" coords="277,725,384,751"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a7266855dbffe17dba4a30cc853befbf3" title="changeBitmap" alt="" coords="281,775,379,800"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a99fdff2902aa4e355c2f7c772ec0936e" title="changeBitmapFilters" alt="" coords="265,824,396,850"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a92545d0a54dfaa1b55f71f9c4d5ef0a1" title="collectBitmapFilters" alt="" coords="268,873,393,899"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a36fb2f3cfa09ec6dcddc81a2d0def80a" title="changeAlternativeFontNames" alt="" coords="241,923,420,948"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ae72809f783e1ae4f987b2e7e1f36a584" title="getAlternativeFontNames" alt="" coords="252,972,409,998"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ac237dfa6ff8a6ff7c9afcc9ff98d6cee" title="addNewTemplate" alt="" coords="273,1021,387,1047"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a22036058bc03f873a6fd05bf85ae7a13" title="removeTemplate" alt="" coords="275,1071,385,1096"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a91448ffe9496f7b3a1ee3597de7a5eb0" title="changeTemplateName" alt="" coords="260,1120,401,1146"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a5271ad056595e3aeb229d7425c0aa021" title="duplicateTemplate" alt="" coords="271,1169,389,1195"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a45b170582d6bcf9dc4f0c7df52a42ba2" title="setCustomAttributes" alt="" coords="266,1219,395,1244"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#acf467182cd141f5d3e4960883f14a1ec" title="getCustomAttributes" alt="" coords="470,1244,600,1270"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a8ceba4012e4796f53f6872b0a1a39153" title="getControlTagString" alt="" coords="267,1320,394,1346"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a5cb8e5508b0cd37abc3581190e7f8732" title="changeControlTagString" alt="" coords="255,1369,406,1395"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a11aba1ada0a2c98a219d73804984b61f" title="calculateStringValue" alt="" coords="470,29,600,55"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a977b6c3e0f12ec3c4c719e2b6fb8846e" title="lookupControlTagName" alt="" coords="650,5,797,31"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="VSTGUI::VST3Editor\l::init" alt="" coords="468,1014,602,1054"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a6da6f7fa1358e3bb29b45dbb29a1311d" title="VSTGUI::VST3Editor\l::VST3Editor" alt="" coords="657,1014,791,1054"/>
+</map>

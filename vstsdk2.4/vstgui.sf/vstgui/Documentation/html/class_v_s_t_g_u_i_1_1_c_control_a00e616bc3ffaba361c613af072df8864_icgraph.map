@@ -1,0 +1,8 @@
+<map id="setMax" name="setMax">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a0b6b12d61cfa8438b6a71497d2901194" title="VSTGUI::CAutoAnimation\l::CAutoAnimation" alt="" coords="119,5,279,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="124,69,274,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a641d8bf24f6db83d5a124783e4a71fdd" title="VSTGUI::CKnob::setMax" alt="" coords="122,134,276,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html#a6b635daac807f3f8318f62008b5a54b0" title="VSTGUI::CSpecialDigit\l::CSpecialDigit" alt="" coords="127,184,271,224"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de" title="VSTGUI::CRockerSwitch\l::CRockerSwitch" alt="" coords="122,248,276,288"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ab64ef94f7a9dc8a13f3f0815f0c99cca" title="VSTGUI::CXYPad::CXYPad" alt="" coords="113,312,285,338"/>
+</map>

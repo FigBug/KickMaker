@@ -1,0 +1,4 @@
+<map id="drawRect" name="drawRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="160,5,208,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a13531c5a9bf691d4ec9a71fee3fda3df" title="platformDrawRect" alt="" coords="125,55,243,80"/>
+</map>

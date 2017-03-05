@@ -1,0 +1,21 @@
+<map id="drawCorona" name="drawCorona">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a674489a3852313daca850240742481c6" title="create a graphics path object, you need to forget it after usage " alt="" coords="154,5,305,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a32320fc5e467ce8e8c96278099957190" title="VSTGUI::CControl::getValue\lNormalized" alt="" coords="143,69,316,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="140,134,320,159"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a67f221f80f18e8bc5eaf06aa6d82aace" title="VSTGUI::CRect::inset" alt="" coords="161,183,299,209"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_knob.html#abe926cde1a64068622db9c835dd0ce2b" title="addArc" alt="" coords="200,232,260,258"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae44181e37622cc3aeb857617ee21f595" title="set current stroke color " alt="" coords="154,283,305,322"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_line_style.html#aab80703459df03fd5028b6a1f659a68b" title="VSTGUI::CLineStyle\l::setLineCap" alt="" coords="164,347,295,386"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_line_style.html#a0edc7d7d809221760efb94d838663457" title="VSTGUI::CLineStyle\l::getDashLengths" alt="" coords="164,411,295,450"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a622734e81b6fc1a89480d47fc4dc6f01" title="set the current line style " alt="" coords="154,475,305,514"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9901bb437bd3a1c196eb2f7b0d5bfa44" title="set the current line width " alt="" coords="154,539,305,578"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="154,603,305,642"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a3f16731acd9e86412d7b36e293ee0f5e" title="VSTGUI::CDrawContext\l::drawGraphicsPath" alt="" coords="154,667,305,706"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="596,52,759,78"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#a915896492f6bd2608f80ca2f0a440562" title="VSTGUI::CControl::getRange" alt="" coords="368,102,546,127"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="594,102,760,127"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="377,183,537,209"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="375,232,539,258"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a" title="VSTGUI::CGraphicsPath\l::addArc" alt="" coords="380,283,534,322"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#af1cb1b3449a77dab0724c0698a81ca2c" title="platform object should be released " alt="" coords="600,283,754,322"/>
+</map>

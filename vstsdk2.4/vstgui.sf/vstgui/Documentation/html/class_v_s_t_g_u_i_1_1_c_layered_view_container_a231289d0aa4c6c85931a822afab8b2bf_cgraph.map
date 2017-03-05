@@ -1,0 +1,6 @@
+<map id="setAlphaValue" name="setAlphaValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a231289d0aa4c6c85931a822afab8b2bf" title="set alpha value which will be applied when drawing this view " alt="" coords="151,55,341,80"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="393,29,566,55"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="389,79,569,104"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="617,29,787,55"/>
+</map>

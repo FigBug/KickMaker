@@ -1,0 +1,8 @@
+<map id="ViewListenerCall" name="ViewListenerCall">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_attached.html" title="ViewAttached" alt="" coords="5,79,100,105"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_lost_focus.html" title="ViewLostFocus" alt="" coords="124,79,226,105"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_removed.html" title="ViewRemoved" alt="" coords="250,79,348,105"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_size_changed.html" title="ViewSizeChanged" alt="" coords="373,79,492,105"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_took_focus.html" title="ViewTookFocus" alt="" coords="516,79,621,105"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_view_private_1_1_view_will_delete.html" title="ViewWillDelete" alt="" coords="645,79,746,105"/>
+</map>

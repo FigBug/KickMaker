@@ -1,0 +1,8 @@
+<map id="getAutosizeFlags" name="getAutosizeFlags">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="167,5,365,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#ad3561a0c13cf9120d316e062da592eaa" title="VSTGUI::UIViewSwitchContainer\l::setCurrentViewIndex" alt="" coords="167,56,365,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a735597df0f43568cb501ebe71efa5d6d" title="VSTGUI::VST3Editor\l::enableEditing" alt="" coords="199,120,333,159"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::UIDescriptionView\lSwitchController::notify" alt="" coords="413,56,583,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a93bd431f3ff3c9d4b70eb58b30219499" title="VSTGUI::UIDescriptionView\lSwitchController::switchContainer\lAttached" alt="" coords="631,49,832,102"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a8d50a70febc6d3b3a8c55f7783ed4962" title="should return 1 if no further key down processing should apply, otherwise &#45;1 " alt="" coords="431,120,565,159"/>
+</map>

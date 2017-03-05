@@ -1,0 +1,16 @@
+<map id="advanceNextFocusView" name="advanceNextFocusView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8702ff2f7885f8d7a93bde675d32f1dc" title="VSTGUI::CFrame::setModalView" alt="" coords="203,144,400,170"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a073394468f30821dc263cd47a845adce" title="VSTGUI::CFrame::advanceNext\lFocusView" alt="" coords="205,290,398,330"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad1bf70520cdd1e1663d122f8a84d017b" title="VSTGUI::CFrame::~CFrame" alt="" coords="684,5,857,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="454,55,630,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CSplashScreen\l::unSplash" alt="" coords="464,105,620,145"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CAnimationSplash\lScreen::unSplash" alt="" coords="456,169,628,209"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CAnimationSplash\lScreen::notify" alt="" coords="456,233,628,273"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca" title="closes the frame and calls forget " alt="" coords="695,55,846,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CSplashScreen\l::valueChanged" alt="" coords="692,105,848,145"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="448,297,636,323"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa5f22633746119816576e24fa9698978" title="called when the platform view/window is activated/deactivated " alt="" coords="453,353,631,379"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aadc463bebcfcce932306475d35f75d64" title="VSTGUI::CFrame::platform\lOnKeyDown" alt="" coords="687,226,853,266"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a6fe3b1173ddcfc768a77a358ea46698f" title="VSTGUI::CTextEdit::\lplatformOnKeyDown" alt="" coords="704,290,836,330"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae32a34c72cf4bcd0fb350b1a54929d37" title="VSTGUI::CFrame::platform\lOnActivate" alt="" coords="687,354,853,394"/>
+</map>

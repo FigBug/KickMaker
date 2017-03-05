@@ -1,0 +1,5 @@
+<map id="getSubmenu" name="getSubmenu">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a0b57415326cfa32606f6f08e1a59a0d2" title="CMenuItem" alt="" coords="174,5,258,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="143,56,289,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ac1aeff3548ad19e10a0dfbe75ec54215" title="get a submenu " alt="" coords="143,120,289,159"/>
+</map>

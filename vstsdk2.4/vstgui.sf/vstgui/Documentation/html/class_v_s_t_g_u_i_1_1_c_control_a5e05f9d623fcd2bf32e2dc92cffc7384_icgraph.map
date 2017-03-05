@@ -1,0 +1,7 @@
+<map id="setMin" name="setMin">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a0b6b12d61cfa8438b6a71497d2901194" title="VSTGUI::CAutoAnimation\l::CAutoAnimation" alt="" coords="110,5,269,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="114,69,265,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a5664c9617ae5cec35626edd388f9d724" title="VSTGUI::CKnob::setMin" alt="" coords="114,134,265,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html#a6b635daac807f3f8318f62008b5a54b0" title="VSTGUI::CSpecialDigit\l::CSpecialDigit" alt="" coords="117,184,262,224"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de" title="VSTGUI::CRockerSwitch\l::CRockerSwitch" alt="" coords="112,248,267,288"/>
+</map>

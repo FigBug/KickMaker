@@ -1,0 +1,14 @@
+<map id="lookupControlTagName" name="lookupControlTagName">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a11aba1ada0a2c98a219d73804984b61f" title="calculateStringValue" alt="" coords="200,176,330,202"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_u_i_description_private.html#ad3175ed8533444130c009f857c2f1c36" title="VSTGUI::UIDescriptionPrivate\l::tokenizeString" alt="" coords="378,58,560,98"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a4d20a5578f2b8cf3f247e5e9726dff75" title="getTagForName" alt="" coords="415,200,523,226"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a0fbbc231900c1d5f9daed9ca8efad954" title="getVariable" alt="" coords="428,151,510,176"/>
+<area shape="rect" id="node13" href="$namespace_v_s_t_g_u_i_1_1_u_i_description_private.html#aa88f16dcc11608f2b8118778f9e1f3f0" title="VSTGUI::UIDescriptionPrivate\l::computeTokens" alt="" coords="378,250,560,290"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#ade2221adf6e7b993124a882b984d4564" title="VSTGUI::UTF8CharacterIterator\l::getByteLength" alt="" coords="863,29,1056,69"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a0bb7394b3cd98cdf7b65bd5105121109" title="VSTGUI::UTF8CharacterIterator\l::back" alt="" coords="1117,29,1311,69"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#aea0742f4dc1c44734017c5b0c21d0413" title="VSTGUI::UTF8CharacterIterator\l::next" alt="" coords="608,86,801,126"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a03dc55107bee72cd1fccd0fa44d9d211" title="VSTGUI::UTF8CharacterIterator::end" alt="" coords="849,144,1069,170"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a08d7accaf1c7c8e7e45d353e4c3f4bd6" title="findChildNodeByNameAttribute" alt="" coords="611,151,798,176"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2b0f673945c12c2dbf13ecdb4d768bf1" title="getBaseNode" alt="" coords="658,200,752,226"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_controller.html#a1f450d51458c8ad435c72f8050e75845" title="VSTGUI::IController\l::getTagForName" alt="" coords="641,250,769,290"/>
+</map>

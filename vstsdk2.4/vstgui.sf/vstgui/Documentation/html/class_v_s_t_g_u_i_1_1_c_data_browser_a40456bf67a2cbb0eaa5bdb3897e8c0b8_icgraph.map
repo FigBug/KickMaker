@@ -1,0 +1,10 @@
+<map id="makeRowVisible" name="makeRowVisible">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ab34f0a4b957ee62e17d92fb5fec75fcb" title="set the exclusive selected row " alt="" coords="184,63,293,88"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="163,113,314,153"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229" title="add row to selection " alt="" coords="432,5,508,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a8d3d20437b7b1debc1262c465d2152c7" title="VSTGUI::GenericStringList\lDataBrowserSource::dbOnKeyDown" alt="" coords="362,56,578,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="395,120,545,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="626,56,777,95"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="626,120,777,159"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="626,184,777,223"/>
+</map>

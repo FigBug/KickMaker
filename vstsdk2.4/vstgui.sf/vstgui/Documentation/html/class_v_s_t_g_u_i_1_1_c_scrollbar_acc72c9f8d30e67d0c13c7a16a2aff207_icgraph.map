@@ -1,0 +1,17 @@
+<map id="calculateScrollerLength" name="calculateScrollerLength">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a908b80e01bc16854755cee316f41b751" title="CScrollbar" alt="" coords="204,94,281,119"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a943751763fe1c3e3a6a6da8e0f6c4daf" title="set views size " alt="" coords="199,143,286,169"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a0c7d0965f74fbf027d40ed0e787e2f40" title="setScrollSize" alt="" coords="358,203,449,229"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a0c6d1dd9bc1cbe653d7eacaf4362e06e" title="VSTGUI::CScrollView\l::recalculateSubViews" alt="" coords="334,133,473,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a0c6d1dd9bc1cbe653d7eacaf4362e06e" title="VSTGUI::CDataBrowser\l::recalculateSubViews" alt="" coords="521,5,672,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a921dad1b65204e0e6c501e64b83dcc02" title="VSTGUI::CScrollView\l::setStyle" alt="" coords="528,69,665,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#acbd5b76dbb00098b28f173f7f0276312" title="VSTGUI::CScrollView\l::setScrollbarWidth" alt="" coords="528,133,665,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a76a87a4f5faa6bd93a3503c31225d654" title="set the virtual size of this container " alt="" coords="528,197,665,237"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="720,229,870,269"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="727,165,864,205"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="944,165,1095,205"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="944,229,1095,269"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a65aa599f5c20dcb98d48e49ef5114946" title="VSTGUI::GenericStringList\lDataBrowserSource::setStringList" alt="" coords="918,293,1120,333"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a721c0ed5144b9f9d50e5dc7fe4976492" title="VSTGUI::GenericStringList\lDataBrowserSource::setupUI" alt="" coords="931,357,1108,397"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="1168,357,1319,397"/>
+</map>

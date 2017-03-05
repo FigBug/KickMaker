@@ -1,0 +1,7 @@
+<map id="layoutViews" name="layoutViews">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a711c104609272c5630d992a2aa12b653" title="setStyle" alt="" coords="156,5,221,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a04736dc8adf5632e628ea88644498a5e" title="setSpacing" alt="" coords="148,55,229,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a468a649668393d93bca4830d74c14b44" title="setMargin" alt="" coords="151,104,226,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a2c0f4707eb103811cdebaaf3fe25a323" title="setLayoutStyle" alt="" coords="138,153,239,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="163,203,214,228"/>
+</map>

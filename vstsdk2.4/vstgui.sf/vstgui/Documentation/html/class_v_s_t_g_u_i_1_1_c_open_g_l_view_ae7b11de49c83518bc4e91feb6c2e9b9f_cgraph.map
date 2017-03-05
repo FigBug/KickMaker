@@ -1,0 +1,8 @@
+<map id="setVisible" name="setVisible">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="129,7,287,32"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ae7b11de49c83518bc4e91feb6c2e9b9f" title="set visibility state " alt="" coords="126,56,291,82"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="958,81,1127,107"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="339,56,487,82"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="535,5,689,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="737,56,910,82"/>
+</map>

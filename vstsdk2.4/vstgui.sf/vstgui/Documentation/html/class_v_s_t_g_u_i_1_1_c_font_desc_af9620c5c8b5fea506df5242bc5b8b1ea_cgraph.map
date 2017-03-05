@@ -1,0 +1,12 @@
+<map id="operator=" name="operator=">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf978b047fcbf0bfa03cb052111105" title="set the name of the font " alt="" coords="127,29,196,55"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#ad0f04ff2d50f6eb1af4101aee459bcd8" title="get the name of the font " alt="" coords="126,79,196,104"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a628f10b3308511e5cc29f9ed76ef8b07" title="set the height of the font " alt="" coords="131,128,192,154"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a41e097ceebffe54a8ed361d006164fc6" title="get the height of the font " alt="" coords="131,177,192,203"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a921dad1b65204e0e6c501e64b83dcc02" title="set the style of the font " alt="" coords="129,227,193,252"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8258f5208a5d8e941b3018bf004e6367" title="get the style of the font " alt="" coords="129,276,194,302"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="273,5,404,31"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="244,55,432,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8320c1ae5fc44c383e96220707f3654c" title="freePlatformFont" alt="" coords="283,128,394,154"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="480,48,640,87"/>
+</map>

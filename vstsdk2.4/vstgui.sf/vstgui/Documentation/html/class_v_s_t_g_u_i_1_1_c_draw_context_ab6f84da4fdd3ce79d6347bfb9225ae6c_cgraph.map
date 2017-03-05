@@ -1,0 +1,5 @@
+<map id="drawString" name="drawString">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae02f4a64e6c2b077988f56ed305ec140" title="getDrawString" alt="" coords="137,5,234,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae0c5f28e389dcccd7e49d8474846a016" title="clearDrawString" alt="" coords="132,55,239,80"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_string.html#a84ea5d1858d74fdd5fa820c5a3d7667a" title="VSTGUI::CString::setUTF8\lString" alt="" coords="287,24,452,63"/>
+</map>

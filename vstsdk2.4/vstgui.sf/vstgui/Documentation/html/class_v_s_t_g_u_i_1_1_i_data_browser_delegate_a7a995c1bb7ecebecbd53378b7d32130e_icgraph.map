@@ -1,0 +1,16 @@
+<map id="dbGetNumRows" name="dbGetNumRows">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="394,119,545,158"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ab34f0a4b957ee62e17d92fb5fec75fcb" title="set the exclusive selected row " alt="" coords="163,327,313,366"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229" title="add row to selection " alt="" coords="394,219,545,258"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aa5f9d70cda4c5abd5a1ee159ce289a9b" title="remove row from selection " alt="" coords="163,263,313,302"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a95a2ffde3fd65da2332565015cdab941" title="VSTGUI::CDataBrowser\l::validateSelection" alt="" coords="163,97,313,137"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="651,133,802,173"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="651,5,802,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a65aa599f5c20dcb98d48e49ef5114946" title="VSTGUI::GenericStringList\lDataBrowserSource::setStringList" alt="" coords="625,69,827,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a721c0ed5144b9f9d50e5dc7fe4976492" title="VSTGUI::GenericStringList\lDataBrowserSource::setupUI" alt="" coords="638,197,815,237"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="875,227,1026,266"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a8d3d20437b7b1debc1262c465d2152c7" title="VSTGUI::GenericStringList\lDataBrowserSource::dbOnKeyDown" alt="" coords="361,376,577,416"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="394,312,545,352"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="651,376,802,416"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="651,312,802,352"/>
+</map>

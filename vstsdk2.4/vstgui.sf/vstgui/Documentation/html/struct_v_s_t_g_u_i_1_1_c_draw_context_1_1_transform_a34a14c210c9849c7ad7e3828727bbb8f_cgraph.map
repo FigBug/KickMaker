@@ -1,0 +1,5 @@
+<map id="Transform" name="Transform">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#afcc46c0bde3d67917b1259fba60513cf" title="VSTGUI::CGraphicsTransform\l::isInvariant" alt="" coords="129,5,312,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#accc4eb8710cad9dd06c16d7f17c43cd7" title="VSTGUI::CDrawContext\l::pushTransform" alt="" coords="145,69,296,109"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="360,5,544,45"/>
+</map>

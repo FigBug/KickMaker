@@ -1,0 +1,7 @@
+<map id="convertValueToString" name="convertValueToString">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a838ba0753537ab62e6b68c810b5b1f41" title="addControl" alt="" coords="330,63,410,88"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a15d7fd9f3fca1dcd4b76465e5e1c2c8d" title="valueToString" alt="" coords="188,88,282,114"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="ParameterChangeListener" alt="" coords="458,5,620,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="467,56,611,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="472,120,606,159"/>
+</map>

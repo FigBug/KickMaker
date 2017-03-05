@@ -1,0 +1,25 @@
+<map id="sizeToFit" name="sizeToFit">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#ac6e61de369e994009e36f344f99c15ad" title="VSTGUI::UTF8String\l::empty" alt="" coords="166,5,300,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#aa075f49db14f11f28c735bd3fdac075f" title="VSTGUI::CFontDesc::\lgetFontPainter" alt="" coords="164,69,303,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="143,134,323,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#afa1488e0de4da81a4892c3288f9a4f01" title="VSTGUI::CView::getDrawBackground" alt="" coords="122,183,345,209"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="154,232,313,258"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="417,283,578,309"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="152,334,315,359"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="651,384,815,410"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="151,435,316,461"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="144,536,323,562"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#aaf7594f7b73a027e5895469cbce92103" title="set the area in which the view reacts to the mouse " alt="" coords="126,586,340,611"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af97b831edbd57148720d11f0aeacd378" title="VSTGUI::CFontDesc::\lgetPlatformFont" alt="" coords="428,69,567,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="393,183,603,209"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="427,232,568,258"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="653,258,813,283"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="425,334,570,359"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="424,536,572,562"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="656,486,810,511"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="402,586,594,611"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="427,635,569,661"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="429,685,567,725"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="863,511,1036,537"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1084,511,1253,537"/>
+</map>

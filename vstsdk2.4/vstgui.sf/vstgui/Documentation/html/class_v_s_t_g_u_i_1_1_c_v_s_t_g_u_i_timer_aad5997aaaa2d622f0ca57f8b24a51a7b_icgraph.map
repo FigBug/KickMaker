@@ -1,0 +1,38 @@
+<map id="start" name="start">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a8d3d20437b7b1debc1262c465d2152c7" title="VSTGUI::GenericStringList\lDataBrowserSource::dbOnKeyDown" alt="" coords="98,148,314,188"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="142,212,270,252"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="129,276,283,316"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#abc8b4794c3c3b8761b387d51d9fbd075" title="VSTGUI::CTooltipSupport\l::onMouseEntered" alt="" coords="362,307,520,346"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a8f43f21fc087ee3670f58784a1d2af0c" title="VSTGUI::CTooltipSupport\l::onMouseExited" alt="" coords="362,371,520,410"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a4130580a3fd7186e8106954ca9b50cb8" title="VSTGUI::CTooltipSupport\l::onMouseMoved" alt="" coords="362,627,520,666"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a667beef48dad9beacb4688458ec86da8" title="CVSTGUITimer" alt="" coords="154,543,258,569"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="164,442,248,467"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="VSTGUI::CFrame::checkMouse\lViews" alt="" coords="830,188,1020,228"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="1090,194,1278,219"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="1080,464,1288,490"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="1099,144,1269,170"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8702ff2f7885f8d7a93bde675d32f1dc" title="VSTGUI::CFrame::setModalView" alt="" coords="1086,243,1283,269"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a0ce3c0d56e9d044ab559159dfdd1acf7" title="VSTGUI::CFrame::platform\lOnMouseUp" alt="" coords="1341,5,1507,45"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a51e758d815b647a1ec3e322d127c184d" title="VSTGUI::CFrame::platform\lOnMouseMoved" alt="" coords="1341,451,1507,490"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad1bf70520cdd1e1663d122f8a84d017b" title="VSTGUI::CFrame::~CFrame" alt="" coords="1560,312,1733,338"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="1336,375,1512,401"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CSplashScreen\l::unSplash" alt="" coords="1346,69,1502,109"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CAnimationSplash\lScreen::unSplash" alt="" coords="1338,197,1510,237"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CAnimationSplash\lScreen::notify" alt="" coords="1338,133,1510,173"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca" title="closes the frame and calls forget " alt="" coords="1571,444,1722,470"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CSplashScreen\l::valueChanged" alt="" coords="1569,69,1725,109"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adeac5973a837902933978d7d5a1eee61" title="VSTGUI::CFrame::clearMouse\lViews" alt="" coords="577,349,762,389"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f5328af153c0e2cfff397131857b139" title="VSTGUI::CFrame::removeFrom\lMouseViews" alt="" coords="574,531,765,570"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_frame.html#abd65f32a227f0bafe16b9f6befbf8251" title="called when the mouse leaves this view " alt="" coords="823,356,1028,382"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6142100cdd30e679d505c78e27f0d577" title="VSTGUI::CFrame::platform\lOnMouseExited" alt="" coords="1101,349,1267,389"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a062fdd8e28c1cbaeffa9e5ce6ca8f5ec" title="VSTGUI::CFrame::onViewRemoved" alt="" coords="819,540,1032,566"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="1104,604,1264,630"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="1355,565,1493,605"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="1348,629,1500,669"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="1346,693,1502,733"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CScrollbar\l::notify" alt="" coords="377,435,505,474"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a3a7c9c7c383203c3fc260f6b88dd6b81" title="VSTGUI::CTooltipSupport\l::onMouseDown" alt="" coords="362,563,520,602"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adf7a90a05ccc2d119ba9f4a81697b5d0" title="VSTGUI::CTooltipSupport\l::notify" alt="" coords="362,499,520,538"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="568,595,771,621"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a507648489acc6bca8cec757b94f1256d" title="VSTGUI::CFrame::platform\lOnMouseDown" alt="" coords="842,591,1008,630"/>
+</map>

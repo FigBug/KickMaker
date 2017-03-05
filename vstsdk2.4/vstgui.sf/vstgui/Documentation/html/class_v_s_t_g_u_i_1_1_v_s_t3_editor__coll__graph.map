@@ -1,0 +1,19 @@
+<map id="VST3Editor" name="VST3Editor">
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_controller.html" title="extension to IControlListener used by UIDescription " alt="" coords="193,428,270,454"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_description.html" title="XML description parser and view creator. " alt="" coords="505,275,598,300"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="5,428,111,454"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="459,531,645,556"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_mouse_observer.html" title="generic mouse observer interface for CFrame " alt="" coords="497,580,607,606"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_keyboard_hook.html" title="generic keyboard hook interface for CFrame " alt="" coords="500,629,604,655"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="185,5,277,31"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_u_i_description.html" title="IUIDescription" alt="" coords="183,55,280,80"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_xml_1_1_i_handler.html" title="IHandler" alt="" coords="198,104,265,130"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="185,153,277,179"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="161,203,302,228"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_xml_1_1_i_content_provider.html" title="IContentProvider" alt="" coords="176,252,287,278"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_i_view_factory.html" title="IViewFactory" alt="" coords="186,301,277,327"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_i_bitmap_creator.html" title="IBitmapCreator" alt="" coords="180,351,282,376"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="523,679,580,704"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor_delegate.html" title="delegate extension to Steinberg::Vst::EditController for a VST3 Editor " alt="" coords="486,728,617,754"/>
+<area shape="rect" id="node20" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="524,777,579,803"/>
+</map>

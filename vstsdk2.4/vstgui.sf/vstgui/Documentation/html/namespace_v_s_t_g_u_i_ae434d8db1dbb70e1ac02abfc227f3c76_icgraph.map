@@ -1,0 +1,8 @@
+<map id="getCreatorRegistry" name="getCreatorRegistry">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a029774db62b9070edfcdd78068a31407" title="VSTGUI::UIViewFactory\l::createViewByName" alt="" coords="202,5,353,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a58bbe2c420f746ffce58fc206e7db5ff" title="VSTGUI::UIViewFactory\l::applyAttributeValues" alt="" coords="202,69,353,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#ab311dd687ea212eccd65b6237dc8eb61" title="VSTGUI::UIViewFactory\l::applyCustomViewAttributeValues" alt="" coords="175,133,380,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#aa8bd27c0b05d0759c648959863ad3cef" title="VSTGUI::UIViewFactory\l::registerViewCreator" alt="" coords="202,197,353,237"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a319fc52127401456b018e4174d221b5e" title="VSTGUI::UIViewFactory\l::unregisterViewCreator" alt="" coords="202,261,353,301"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a14a05eaacca7a2254708dd9032c9a80f" title="VSTGUI::UIViewFactory\l::createView" alt="" coords="428,5,578,45"/>
+</map>

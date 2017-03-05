@@ -1,0 +1,11 @@
+<map id="setText" name="setText">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="setValue" alt="" coords="119,76,186,102"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#aa82b02c80ace5d87a049c6ef8278ccf7" title="updateText" alt="" coords="113,138,193,163"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="439,5,590,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="241,69,391,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="439,69,590,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="439,133,590,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a3f22012681c740d847b45b1d88888d9f" title="platformTextDidChange" alt="" coords="243,138,389,163"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="275,194,357,219"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="472,198,558,223"/>
+</map>

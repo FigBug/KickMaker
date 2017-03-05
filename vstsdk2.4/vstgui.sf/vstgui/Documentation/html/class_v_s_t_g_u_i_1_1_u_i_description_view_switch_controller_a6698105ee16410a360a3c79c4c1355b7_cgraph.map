@@ -1,0 +1,5 @@
+<map id="switchContainerRemoved" name="switchContainerRemoved">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9baf913d87e853d1935fe7a63dde1811" title="VSTGUI::IDependency\l::removeDependency" alt="" coords="211,5,355,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="211,69,355,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="403,69,546,109"/>
+</map>

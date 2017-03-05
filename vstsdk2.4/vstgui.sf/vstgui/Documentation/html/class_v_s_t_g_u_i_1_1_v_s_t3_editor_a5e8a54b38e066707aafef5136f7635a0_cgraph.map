@@ -1,0 +1,7 @@
+<map id="findParameter" name="findParameter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="151,5,362,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="411,149,574,175"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#aaa24c4a270ef198d4acfb45f191d2119" title="VSTGUI::ParameterChangeListener\l::containsControl" alt="" coords="150,106,363,146"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#aed242334ff913e65d2cb4b6974b96551" title="VSTGUI::ParameterChangeListener\l::getParameter" alt="" coords="150,170,363,210"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a1df8e4a77b7ed4681e97a609a840e26d" title="VSTGUI::ParameterChangeListener\l::getParameterID" alt="" coords="150,234,363,274"/>
+</map>

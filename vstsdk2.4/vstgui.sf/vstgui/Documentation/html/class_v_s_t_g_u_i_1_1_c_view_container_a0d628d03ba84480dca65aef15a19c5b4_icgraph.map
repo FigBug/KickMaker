@@ -1,0 +1,6 @@
+<map id="registerViewContainerListener" name="registerViewContainerListener">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a98a0b9d11aa7258fcdd7273bc7077748" title="VSTGUI::CLayeredViewContainer\l::registerListeners" alt="" coords="235,37,438,77"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#af20982221f241e08beb9f136edf7cafe" title="VSTGUI::CShadowViewContainer\l::CShadowViewContainer" alt="" coords="235,101,438,141"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="486,5,688,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="486,69,688,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="draw" name="draw">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="104,5,268,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="101,69,272,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a99dd83697de62a7f21167d886a94414f" title="called if the view should draw itself " alt="" coords="150,134,222,159"/>
+</map>

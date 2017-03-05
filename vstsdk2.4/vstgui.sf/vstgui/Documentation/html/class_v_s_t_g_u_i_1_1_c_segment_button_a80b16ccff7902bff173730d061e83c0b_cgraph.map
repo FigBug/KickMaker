@@ -1,0 +1,10 @@
+<map id="attached" name="attached">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="121,104,281,130"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="342,5,512,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="344,55,509,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a736d9acf1c3f5e81925cd1e49945682b" title="VSTGUI::CFrame::onViewAdded" alt="" coords="329,104,525,130"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a86713586f8b116e72a385e1deb193a57" title="returns if the view wants idle callback or not " alt="" coords="345,153,509,179"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="358,204,496,243"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5da46825e83d457ad72d4e98d51fd5e3" title="VSTGUI::CFrame::getViewAdded\lRemovedObserver" alt="" coords="573,65,773,105"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html#abd6594800fec5778c4c1e3006f29d684" title="VSTGUI::IViewAddedRemoved\lObserver::onViewAdded" alt="" coords="579,129,767,169"/>
+</map>

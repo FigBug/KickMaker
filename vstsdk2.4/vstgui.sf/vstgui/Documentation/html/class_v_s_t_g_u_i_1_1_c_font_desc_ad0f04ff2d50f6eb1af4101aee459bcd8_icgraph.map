@@ -1,0 +1,8 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af9620c5c8b5fea506df5242bc5b8b1ea" title="operator=" alt="" coords="162,5,235,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#aaa01de3ec437604dde2e44183bb053b5" title="operator==" alt="" coords="159,55,239,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="123,105,274,145"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="322,41,473,81"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="322,105,473,145"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="322,169,473,209"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="enableEditing" name="enableEditing">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a9f099f38b6d6d1057bbd3e6bac0db433" title="get autosize flags " alt="" coords="147,5,324,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b132bc89c5168ff1601ac77aad7afbb" title="set autosize flags " alt="" coords="148,69,324,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="155,134,316,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="153,183,318,209"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a23dccef5325b1c8b8409bbd96449ee2e" title="add a new entry " alt="" coords="393,239,539,278"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a9a8e0a706e76bb8c2adf5ac1a3b16403" title="set keycode and key modifiers of menu item " alt="" coords="165,348,306,388"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a9eb257c26848669f9ff071a568294eb0" title="add a new separator entry " alt="" coords="162,284,309,324"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="164,412,307,452"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a80dddbc022b66698cf7a00620efbcd88" title="VSTGUI::UIAttributes\l::getAttributeValue" alt="" coords="168,476,303,516"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a6080c68ac82148bc668e9218b1d39854" title="VSTGUI::UIAttributes\l::setAttribute" alt="" coords="168,540,303,580"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ac1e94a1974bc1493e99e586e11349054" title="VSTGUI::UIAttributes\l::removeAttribute" alt="" coords="168,604,303,644"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="386,134,546,159"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="384,183,548,209"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#adee7672985693efe9c38a8897f12936d" title="get number of entries " alt="" coords="615,239,761,278"/>
+<area shape="rect" id="node11" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="400,308,532,334"/>
+<area shape="rect" id="node12" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="372,358,560,383"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="608,351,768,390"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="394,412,538,452"/>
+</map>

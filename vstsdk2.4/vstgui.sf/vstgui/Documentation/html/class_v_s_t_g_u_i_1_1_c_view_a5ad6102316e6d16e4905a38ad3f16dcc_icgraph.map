@@ -1,0 +1,51 @@
+<map id="getViewSize" name="getViewSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html#a4d55efefecb3e5377a428a5e13eb1565" title="animation starts " alt="" coords="173,5,356,59"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html#aad1ec675e50d5dbdc0b59b400ab75b6b" title="animation ended " alt="" coords="173,83,356,136"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_animation_1_1_view_size_animation.html#ae39b9b451e6e7c5b8fa0186a3b516c2b" title="pos is a normalized value between zero and one " alt="" coords="162,160,366,200"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="VSTGUI::Animation::\lExchangeViewAnimation::init" alt="" coords="443,436,619,476"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#acf2fe54ba915a2a5c5baf79eb99f754d" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInFromLeft" alt="" coords="187,275,341,328"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a8a6fb646d3572a926d841cdacac1df2d" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInFromRight" alt="" coords="187,352,341,405"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#aed3495cde756b45f50be655402cc2308" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInFromTop" alt="" coords="187,429,341,483"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a09b9175cff6b667cf85f7b41e3ef97a1" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInFromBottom" alt="" coords="187,507,341,560"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#a458feb800c9a9e417ce2e46cd0bc5b7e" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInOutFromLeft" alt="" coords="187,584,341,637"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#aadd2a714eb20cd21fbf3b1b876c8dafc" title="VSTGUI::Animation::\lExchangeViewAnimation\l::doPushInOutFromRight" alt="" coords="187,661,341,715"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#af86a80bfd117dff62795a262a39480fc" title="VSTGUI::IMultiBitmapControl\l::autoComputeHeightOfOneImage" alt="" coords="163,739,366,778"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="189,803,340,842"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab427ac1aad7cc92ef96213f7963296a7" title="get the view at point where " alt="" coords="176,867,353,893"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_frame.html#afad739b99a0d5e2367dda3ecc80cb5c7" title="get the container at point where " alt="" coords="163,916,366,942"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="674,986,877,1025"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a0fefdf6fe81e54814252ae986cc66bd3" title="VSTGUI::CRowColumnView\l::resizeSubView" alt="" coords="178,1119,351,1158"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#ae7c563dcda3ecdb30511be705b188314" title="VSTGUI::CRowColumnView\l::layoutViewsEqualSize" alt="" coords="445,1183,618,1222"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a82ab61c920653e54d5721c2915810353" title="VSTGUI::CRowColumnView\l::getMaxChildViewSize" alt="" coords="178,1183,351,1222"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="196,1247,333,1286"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#abcfec030c5bf75459519047cdd1763cf" title="VSTGUI::CAnimationSplash\lScreen::getSplashRect" alt="" coords="179,1311,350,1350"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="179,1375,350,1414"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ad6ece4580634fc04e425a521c327125d" title="VSTGUI::CSplitView\l::resizeFirstView" alt="" coords="466,1472,597,1512"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a7d515066dd3e7c3d0960c3da1502f64c" title="VSTGUI::CSplitView\l::resizeSecondView" alt="" coords="466,1600,597,1640"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a54f2ef725a3284c7cadc1cc0c7dcc527" title="VSTGUI::CSplitView\l::resizeLastView" alt="" coords="466,1664,597,1704"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ac98cefe207ff01ac2532c39dd3a85619" title="VSTGUI::CSplitView\l::resizeViewsEqual" alt="" coords="466,1408,597,1448"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a5bf9c24c3fa1c7b4596596d29e0cc4ae" title="add a child view " alt="" coords="199,1706,330,1745"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="199,1770,330,1809"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a129ba2469954235dd9ad1eb7f9c5ca4c" title="VSTGUI::CSplitView\l::requestNewSeparatorSize" alt="" coords="180,1540,348,1580"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a73195afa396240ad593e6a07dc412528" title="draw the background " alt="" coords="140,1834,388,1860"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="165,1883,364,1909"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="getGlobalTransform" alt="" coords="201,1018,328,1044"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2d7bcbdffb29bc607222c4d41fd53d2b" title="VSTGUI::UIDescription\l::updateAttributesForView" alt="" coords="185,1934,344,1973"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ab056dfd92492a3566d61f0e150d02ff2" title="VSTGUI::Animation::\lExchangeViewAnimation\l::ExchangeViewAnimation" alt="" coords="695,429,856,483"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#ae39b9b451e6e7c5b8fa0186a3b516c2b" title="pos is a normalized value between zero and one " alt="" coords="454,507,608,560"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_animation_1_1_exchange_view_animation.html#aad1ec675e50d5dbdc0b59b400ab75b6b" title="animation ended " alt="" coords="699,507,853,560"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="VSTGUI::CFrame::checkMouse\lViews" alt="" coords="436,860,626,900"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="682,867,869,893"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="927,890,1130,929"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="925,954,1132,993"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="927,1018,1130,1057"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="927,1082,1130,1121"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#aee750e4cb39c719d39954430dd89ad5c" title="VSTGUI::CRowColumnView\l::layoutViews" alt="" coords="689,1183,862,1222"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="710,1536,841,1576"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#aed7070f25de97fc661a06bdb43613f08" title="add a child view " alt="" coords="466,1728,597,1768"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d" title="set the width of the separators " alt="" coords="466,1536,597,1576"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="466,1068,597,1108"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="translateToGlobal" alt="" coords="474,1018,589,1044"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_view.html#a701d6a482c7f94c8988bb495b5388e31" title="translates a local coordinate to a global one using parent transforms " alt="" coords="477,1132,586,1158"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9c533dcd11cce036d6cc856a2d1c9cc4" title="VSTGUI::UIDescription\l::updateViewDescription" alt="" coords="456,1934,607,1973"/>
+</map>

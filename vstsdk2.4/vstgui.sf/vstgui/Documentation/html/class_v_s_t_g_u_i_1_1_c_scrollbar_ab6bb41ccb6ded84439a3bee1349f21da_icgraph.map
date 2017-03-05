@@ -1,0 +1,5 @@
+<map id="doStepping" name="doStepping">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="notify" alt="" coords="164,5,214,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="138,55,239,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="135,104,242,130"/>
+</map>

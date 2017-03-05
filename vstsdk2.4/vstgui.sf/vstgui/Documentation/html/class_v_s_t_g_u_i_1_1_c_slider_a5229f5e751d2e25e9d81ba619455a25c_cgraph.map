@@ -1,0 +1,20 @@
+<map id="onMouseCancel" name="onMouseCancel">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#ad66f409af3c387e166ff7ee95169b7b6" title="check if view is dirty " alt="" coords="183,70,343,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#ae57d02e392f1505445a7d83f1a18d96c" title="notifies listener and dependent objects " alt="" coords="161,191,365,217"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_control.html#ace186d3a60dee99bc2fd1bf6a5b35601" title="VSTGUI::CControl::endEdit" alt="" coords="180,283,347,309"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a252dc622e20dccbeb0d0321009a95973" title="VSTGUI::CControl::getOld\lValue" alt="" coords="415,5,577,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a4fea28bac5516879f343a5a905717337" title="check if view is dirty " alt="" coords="422,70,570,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a296f15a574e04152381eb01632abfec1" title="VSTGUI::IControlListener\l::valueChanged" alt="" coords="417,120,575,160"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="427,184,565,224"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="424,248,568,288"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="653,173,796,213"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="653,237,796,277"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="653,301,796,341"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="870,173,1013,213"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="870,301,1013,341"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1061,301,1205,341"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="413,312,579,338"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a71de5d264e5c0c8545565dd683cacbc2" title="VSTGUI::CFrame::endEdit" alt="" coords="414,362,578,387"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a7e0b1b3c474f75a085495f0c41f3ecf3" title="VSTGUI::IControlListener\l::controlEndEdit" alt="" coords="417,412,575,452"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a9971b48d1eddda8aa43073733539eb9e" title="VSTGUI::VSTGUIEditorInterface\l::endEdit" alt="" coords="627,365,822,405"/>
+</map>

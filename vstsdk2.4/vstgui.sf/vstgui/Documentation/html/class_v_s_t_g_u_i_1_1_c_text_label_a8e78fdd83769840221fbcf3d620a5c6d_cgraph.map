@@ -1,0 +1,29 @@
+<map id="CTextLabel" name="CTextLabel">
+<area shape="rect" id="node2" href="$group__controls.html#ga80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="135,498,194,523"/>
+<area shape="rect" id="node28" href="$group__controls.html#ga62320e8bea8a4b12b43da8f113b10b5f" title="read only access to text " alt="" coords="135,547,195,573"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a08d4454d8df3386292db51529ed140ab" title="calculateTruncatedText" alt="" coords="254,362,399,387"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="243,635,410,661"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#afc9d8b5b48d0fc9de0d28d292334c299" title="VSTGUI::UTF8String\l::getByteCount" alt="" coords="472,133,606,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af97b831edbd57148720d11f0aeacd378" title="VSTGUI::CFontDesc::\lgetPlatformFont" alt="" coords="708,5,847,45"/>
+<area shape="rect" id="node6" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#af5414ecdb0e7fbf883843fb8ff78758b" title="VSTGUI::CDrawMethods\l::createTruncatedText" alt="" coords="461,248,616,288"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#aa1cd19a5c26cb67e82216ddacf6e87db" title="VSTGUI::UTF8String::set" alt="" coords="699,363,856,389"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="458,412,619,438"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="467,495,610,534"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#ad4cb7844d8ca30afe9f9f483dd7761ec" title="VSTGUI::UTF8String\l::getPlatformString" alt="" coords="710,69,845,109"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a03dc55107bee72cd1fccd0fa44d9d211" title="VSTGUI::UTF8CharacterIterator::end" alt="" coords="667,134,888,159"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a15f1c80f5a4c7043d485c56916e07d85" title="VSTGUI::UTF8CharacterIterator\l::front" alt="" coords="681,184,874,224"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#ade2221adf6e7b993124a882b984d4564" title="VSTGUI::UTF8CharacterIterator\l::getByteLength" alt="" coords="681,248,874,288"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a0bb7394b3cd98cdf7b65bd5105121109" title="VSTGUI::UTF8CharacterIterator\l::back" alt="" coords="936,277,1129,317"/>
+<area shape="rect" id="node8" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="978,76,1086,102"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="697,412,858,438"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="706,463,849,502"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="706,527,849,566"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="706,591,849,630"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="961,463,1104,502"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="961,591,1104,630"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1177,591,1320,630"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="462,635,616,661"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_control.html#afc823b522376ef0a986cf37be77704d5" title="VSTGUI::CControl::setOld\lValue" alt="" coords="458,685,619,725"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="691,679,864,705"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="947,679,1117,705"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="getScrollerRect" name="getScrollerRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ab6bb41ccb6ded84439a3bee1349f21da" title="doStepping" alt="" coords="157,55,239,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="289,5,391,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="287,104,393,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="174,156,221,182"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="notify" alt="" coords="315,55,365,80"/>
+</map>

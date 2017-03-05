@@ -1,0 +1,10 @@
+<map id="CControl" name="CControl">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#aa5d991b079a9b01c1fbd08f47a730a00" title="set views transparent state " alt="" coords="126,5,328,31"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#adb7b432e84c46c24a78955eb7558b6d2" title="turn on/off mouse usage for this view " alt="" coords="122,104,332,130"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="130,55,324,80"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a98aa4626fd326017c96073613d0911c0" title="get views transparent state " alt="" coords="383,5,587,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="408,55,562,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="638,55,811,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="859,55,1029,80"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="380,104,590,130"/>
+</map>

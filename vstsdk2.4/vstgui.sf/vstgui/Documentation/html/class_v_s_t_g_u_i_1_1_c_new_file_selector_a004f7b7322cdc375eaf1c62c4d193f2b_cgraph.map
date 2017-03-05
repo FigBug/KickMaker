@@ -1,0 +1,5 @@
+<map id="run" name="run">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#add1b333f09c643945f8675bdbf094595" title="VSTGUI::CFrame::onStartLocal\lEventLoop" alt="" coords="92,5,282,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a0d9bfc299c653476e66e5d8b792906d5" title="runInternal" alt="" coords="148,70,226,95"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#adac116554b543b7c4228c018a85882f5" title="VSTGUI::CFrame::CollectInvalid\lRects::flush" alt="" coords="330,5,524,45"/>
+</map>

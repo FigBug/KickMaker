@@ -1,0 +1,11 @@
+<map id="invalidate" name="invalidate">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a49ae35002b7c79cb61cb06ab7eb04a78" title="mark rect as invalid " alt="" coords="125,76,285,116"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad0edc6d88e85109ad3bc7c1a7f64f59a" title="get bounds of a cell " alt="" coords="155,140,255,166"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7b36a55bd733ed49b370c6d6e2057111" title="return the line width and color " alt="" coords="333,5,526,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a302018b7876e6b43d7dc7602e78e3574" title="return height of one row " alt="" coords="333,69,526,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a1b8544e2a333509ebea48e20452e0ec0" title="return current width of index column " alt="" coords="333,133,526,173"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="358,198,500,223"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="350,247,509,273"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="574,247,715,273"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="763,247,923,273"/>
+</map>

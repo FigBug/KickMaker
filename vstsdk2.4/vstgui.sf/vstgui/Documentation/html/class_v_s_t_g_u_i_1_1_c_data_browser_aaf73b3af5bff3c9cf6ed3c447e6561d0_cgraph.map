@@ -1,0 +1,10 @@
+<map id="CDataBrowser" name="CDataBrowser">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#aa5d991b079a9b01c1fbd08f47a730a00" title="set views transparent state " alt="" coords="156,24,293,63"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a5bf9c24c3fa1c7b4596596d29e0cc4ae" title="add a child view " alt="" coords="156,88,293,127"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="153,152,296,191"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#aa5d991b079a9b01c1fbd08f47a730a00" title="set views transparent state " alt="" coords="344,31,547,56"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a98aa4626fd326017c96073613d0911c0" title="get views transparent state " alt="" coords="595,5,798,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="619,55,774,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="846,55,1019,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1067,55,1237,80"/>
+</map>

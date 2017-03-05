@@ -1,0 +1,12 @@
+<map id="platformGetFont" name="platformGetFont">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#ac2eea76d360a5063d37f075be0bb28ee" title="VSTGUI::CParamDisplay\l::getFont" alt="" coords="166,5,322,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a41e097ceebffe54a8ed361d006164fc6" title="get the height of the font " alt="" coords="174,69,314,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="161,133,327,173"/>
+<area shape="rect" id="node11" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="190,198,298,223"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="375,19,566,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="391,69,550,109"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="VSTGUI::CGraphicsTransform\l::translate" alt="" coords="379,133,562,173"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="381,198,560,223"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8283a5bcb281e300d94ac274dd79c4bb" title="VSTGUI::CRect::getTopLeft" alt="" coords="386,247,555,273"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="614,133,798,173"/>
+</map>

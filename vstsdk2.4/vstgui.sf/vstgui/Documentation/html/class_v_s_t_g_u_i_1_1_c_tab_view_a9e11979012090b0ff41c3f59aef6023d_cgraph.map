@@ -1,0 +1,8 @@
+<map id="valueChanged" name="valueChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a8a472d37c66a9e917c1494bf8ef9e06b" title="select tab at index " alt="" coords="197,76,269,102"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="152,126,315,151"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a6e5b4c3e7d371c88ef8b9004a280ca35" title="setCurrentChild" alt="" coords="363,76,467,102"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="515,5,675,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="515,69,675,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="515,133,675,173"/>
+</map>

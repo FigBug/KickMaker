@@ -1,0 +1,5 @@
+<map id="drawBackgroundRect" name="drawBackgroundRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a05cbaf1e227e4ca42ea47df2a6b38c32" title="get current global alpha value " alt="" coords="194,5,344,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a4bb34e24ac4f435ab6d7f7be7bce9776" title="sets the global alpha value[0..1] " alt="" coords="194,69,344,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#afc4d46d80858d4dc4c5a38588ca0f2eb" title="draw the background " alt="" coords="189,133,349,173"/>
+</map>

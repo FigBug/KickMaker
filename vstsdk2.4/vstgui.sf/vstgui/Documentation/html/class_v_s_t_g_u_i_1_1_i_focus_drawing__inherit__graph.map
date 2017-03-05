@@ -1,0 +1,29 @@
+<map id="IFocusDrawing" name="IFocusDrawing">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="155,425,223,451"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html" title="CAutoAnimation" alt="" coords="277,5,385,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_check_box.html" title="a check box control with a title and 3 states " alt="" coords="289,55,373,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html" title="a horizontal switch control " alt="" coords="271,104,391,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html" title="CKickButton" alt="" coords="287,153,375,179"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_knob.html" title="a knob control " alt="" coords="302,203,360,228"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html" title="a bitmap view that displays different bitmaps according to its current value " alt="" coords="281,252,381,278"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html" title="a bi&#45;states button with 2 subbitmaps " alt="" coords="283,301,379,327"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_on_off_button.html" title="a button control with 2 states " alt="" coords="283,351,379,376"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_param_display.html" title="a parameter display " alt="" coords="279,400,383,426"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html" title="a switch control with 3 sub bitmaps " alt="" coords="279,449,383,475"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html" title="a scrollbar control " alt="" coords="292,499,370,524"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html" title="Control which draws a segmented button. " alt="" coords="275,548,387,574"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_slider.html" title="a slider control " alt="" coords="301,597,361,623"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html" title="special display with custom numbers (0...9) " alt="" coords="284,647,378,672"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html" title="CSplashScreen" alt="" coords="279,696,383,722"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_text_button.html" title="a button which renders without bitmaps " alt="" coords="288,745,374,771"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html" title="a vertical switch control " alt="" coords="279,795,383,820"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html" title="CVuMeter" alt="" coords="294,844,369,870"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html" title="a bitmap knob control " alt="" coords="475,203,560,228"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html" title="a popup menu control " alt="" coords="470,351,565,376"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_text_label.html" title="a text label " alt="" coords="477,400,558,426"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html" title="CXYPad" alt="" coords="484,449,551,475"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html" title="a text edit control " alt="" coords="645,400,718,426"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_horizontal_slider.html" title="a horizontal slider control " alt="" coords="460,573,575,599"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_vertical_slider.html" title="a vertical slider control " alt="" coords="468,623,568,648"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html" title="a splash screen which animates the opening and closing of the splash bitmap " alt="" coords="439,696,597,722"/>
+</map>

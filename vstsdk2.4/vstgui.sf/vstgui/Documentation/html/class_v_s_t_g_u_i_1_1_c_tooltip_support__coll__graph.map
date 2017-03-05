@@ -1,0 +1,16 @@
+<map id="CTooltipSupport" name="CTooltipSupport">
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="985,180,1049,205"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,218,130,244"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="1256,300,1312,325"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="416,9,539,35"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="443,290,512,316"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="287,165,392,191"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="1212,206,1356,232"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="1522,192,1630,217"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="1500,397,1653,436"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="990,401,1044,427"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="310,116,368,141"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="1254,157,1313,183"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="563,106,749,132"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,14,162,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="onMouseDown" name="onMouseDown">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="181,5,331,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="155,70,357,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a507648489acc6bca8cec757b94f1256d" title="VSTGUI::CFrame::platform\lOnMouseDown" alt="" coords="405,63,571,102"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ExchangeViewAnimation" name="ExchangeViewAnimation">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_animation_1_1_i_animation_target.html" title="Animation target interface. " alt="" coords="294,5,405,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,671,130,696"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="322,503,377,528"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="429,187,553,212"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="456,671,526,696"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1165,599,1272,624"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="297,785,402,811"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="983,488,1047,514"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="616,319,723,344"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="795,613,949,653"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="1147,467,1291,492"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="321,287,378,312"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="320,336,379,362"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,111,111,136"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="577,508,762,534"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,869,162,909"/>
+</map>

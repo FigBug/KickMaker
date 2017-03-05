@@ -1,0 +1,6 @@
+<map id="valueToPoint" name="valueToPoint">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a909d81efaadf43eafdbb35e862f372c1" title="drawHandleAsCircle" alt="" coords="143,5,273,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a6590df97b907472bc0c904ab7cbfd782" title="drawHandleAsLine" alt="" coords="147,55,269,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a8553dad65359a30fed274fc45f109013" title="drawHandle" alt="" coords="166,104,251,130"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="321,55,369,80"/>
+</map>

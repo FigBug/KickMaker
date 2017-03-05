@@ -1,0 +1,7 @@
+<map id="setMouseEnabled" name="setMouseEnabled">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#ae9b5e963e6d739e43fd95ff5673ae956" title="VSTGUI::CControl::CControl" alt="" coords="171,5,345,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CAnimationSplash\lScreen::unSplash" alt="" coords="393,49,564,89"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a9beea63c6531790e81680f1cf7cdaa16" title="VSTGUI::CAnimationSplash\lScreen::createAnimation" alt="" coords="172,106,343,146"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CAnimationSplash\lScreen::notify" alt="" coords="172,170,343,210"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="393,113,564,153"/>
+</map>

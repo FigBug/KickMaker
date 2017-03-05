@@ -1,0 +1,7 @@
+<map id="getDefaultValue" name="getDefaultValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a5b0ed7ded11a5b04a43b49dd15a85190" title="checkDefaultValue" alt="" coords="159,84,280,110"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="329,5,525,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_slider.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="328,55,526,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="349,105,505,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="342,169,512,209"/>
+</map>

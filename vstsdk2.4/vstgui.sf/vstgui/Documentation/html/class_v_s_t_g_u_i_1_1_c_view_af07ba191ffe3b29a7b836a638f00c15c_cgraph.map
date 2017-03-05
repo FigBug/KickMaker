@@ -1,0 +1,4 @@
+<map id="doDrag" name="doDrag">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="159,5,231,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a577df3af7ce61980ce0aaacd540b4f9c" title="start a drag operation. See CDropSource to create the source data package " alt="" coords="114,55,276,80"/>
+</map>

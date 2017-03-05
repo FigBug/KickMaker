@@ -1,0 +1,16 @@
+<map id="advanceNextFocusView" name="advanceNextFocusView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a60ad2aca49fcfc7cd997f5355b62b148" title="check if pView is a child view of this container " alt="" coords="203,5,362,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ac06cfb766955cd71c35364f5d18072dd" title="VSTGUI::CViewContainer\l::advanceNextFocusView" alt="" coords="203,69,362,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="410,83,602,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af51b9124a814e6fd82fb4680ac58cff3" title="setFocusView" alt="" coords="235,234,331,259"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1073,171,1243,197"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1aaf63d0b9cd4a8f27328f2239a9951c" title="check if view supports focus " alt="" coords="417,184,595,210"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="432,234,580,259"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="435,283,577,309"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab18c3bcc0cb674396848861dfd78a83a" title="translates a local coordinate to a global one using parent transforms " alt="" coords="427,333,586,373"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="419,398,594,423"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#af199268157650ebc6dd9248a0ca04550" title="called if view should take focus " alt="" coords="422,447,591,473"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="650,196,804,222"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="852,208,1025,234"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="658,415,796,454"/>
+</map>

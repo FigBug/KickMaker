@@ -1,0 +1,7 @@
+<map id="attached" name="attached">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a346862a374e9b89e0ca2ceb05028f4e2" title="view is attached to a parent view " alt="" coords="133,5,292,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a34b47c35a9d741b872eec12db613d23d" title="invalidateShadow" alt="" coords="155,70,270,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="130,119,295,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a4731bf4d4e3436a3482ec9f2c82023eb" title="VSTGUI::CFrame::register\lScaleFactorChangedListeneer" alt="" coords="121,169,304,209"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="352,63,511,102"/>
+</map>

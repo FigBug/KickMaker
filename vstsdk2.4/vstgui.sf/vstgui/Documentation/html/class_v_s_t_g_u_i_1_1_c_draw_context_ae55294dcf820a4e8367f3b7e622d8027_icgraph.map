@@ -1,0 +1,9 @@
+<map id="setFontColor" name="setFontColor">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="158,5,326,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a2764a494bfbadf5fd5bf3fead287d4d2" title="VSTGUI::GenericStringList\lDataBrowserSource::dbDrawCell" alt="" coords="143,56,341,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="223,120,261,146"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#a46d935bdf260519c07e691ec67dfdfb4" title="VSTGUI::CDrawMethods\l::drawIconAndText" alt="" coords="164,170,320,210"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="164,234,320,274"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="402,138,540,178"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="389,202,553,242"/>
+</map>

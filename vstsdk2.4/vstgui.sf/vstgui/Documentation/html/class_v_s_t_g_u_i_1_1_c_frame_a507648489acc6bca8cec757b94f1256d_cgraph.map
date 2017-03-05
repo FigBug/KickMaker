@@ -1,0 +1,35 @@
+<map id="platformOnMouseDown" name="platformOnMouseDown">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="201,519,302,545"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="625,5,784,45"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="613,69,796,109"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="613,133,796,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af51b9124a814e6fd82fb4680ac58cff3" title="setFocusView" alt="" coords="407,398,503,423"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a3a7c9c7c383203c3fc260f6b88dd6b81" title="VSTGUI::CTooltipSupport\l::onMouseDown" alt="" coords="376,512,534,552"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a87912616f0e7b0f1e88878f38bbd3ae2" title="callMouseObserverMouseDown" alt="" coords="360,134,551,159"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="377,576,534,602"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="350,626,561,651"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_view.html#a64e2c0bdb7ef05c4554f70217c675726" title="check if where hits this view " alt="" coords="381,707,530,733"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_view.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="358,756,552,782"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a68fbc6425a5c962c1f234bbaa5acaccb" title="called when a mouse down event occurs " alt="" coords="376,807,535,846"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1273,223,1443,249"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1aaf63d0b9cd4a8f27328f2239a9951c" title="check if view supports focus " alt="" coords="616,299,793,325"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="631,198,778,223"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="609,348,800,374"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="633,398,776,423"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab18c3bcc0cb674396848861dfd78a83a" title="translates a local coordinate to a global one using parent transforms " alt="" coords="625,448,784,488"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="617,512,792,538"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_view.html#af199268157650ebc6dd9248a0ca04550" title="called if view should take focus " alt="" coords="620,562,789,587"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="849,147,1004,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1052,198,1225,223"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="857,505,995,545"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f" title="VSTGUI::CTooltipSupport\l::hideTooltip" alt="" coords="625,676,783,716"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="626,612,783,652"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="848,633,1004,673"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="getPlatformFrame" alt="" coords="868,698,985,723"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="848,569,1004,609"/>
+<area shape="rect" id="node24" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="1085,576,1193,602"/>
+<area shape="rect" id="node29" href="$struct_v_s_t_g_u_i_1_1_c_point.html#abd7ec2f0cbad33b41c2758f8c7044ff1" title="VSTGUI::CPoint::offset" alt="" coords="632,740,777,766"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="615,790,794,815"/>
+<area shape="rect" id="node32" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#adebba9af3dc339149fd4622f4d4a5bac" title="Checks if point is inside this rect. " alt="" coords="619,839,790,865"/>
+<area shape="rect" id="node30" href="$struct_v_s_t_g_u_i_1_1_c_point.html#a95cc3c3bd97e11da6d8d056df3263c28" title="VSTGUI::CPoint::CPoint" alt="" coords="851,747,1002,773"/>
+</map>

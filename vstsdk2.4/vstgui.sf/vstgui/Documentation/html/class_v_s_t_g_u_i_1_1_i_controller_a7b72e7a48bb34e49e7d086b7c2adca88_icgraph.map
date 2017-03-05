@@ -1,0 +1,6 @@
+<map id="createView" name="createView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_delegation_controller.html#a73702745440967f2adc3fdcd5aa87f53" title="VSTGUI::DelegationController\l::createView" alt="" coords="134,5,316,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ad17c8f72c6bf19a6a8d873e8947a3359" title="VSTGUI::UIDescription\l::createViewFromNode" alt="" coords="152,69,297,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#acc6a9f590d7a896b92ea6b33cb6fdf44" title="VSTGUI::UIDescription\l::restoreViews" alt="" coords="364,5,509,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9b617a7d2bb805de4150cf2e65dade5d" title="VSTGUI::UIDescription\l::createView" alt="" coords="364,69,509,109"/>
+</map>

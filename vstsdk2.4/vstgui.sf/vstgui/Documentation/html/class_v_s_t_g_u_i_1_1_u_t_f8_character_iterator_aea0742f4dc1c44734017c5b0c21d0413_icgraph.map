@@ -1,0 +1,8 @@
+<map id="next" name="next">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#aa4d23cc1d1cb7345664cdc577f8b0a85" title="operator++" alt="" coords="148,19,228,45"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_u_i_description_private.html#ad3175ed8533444130c009f857c2f1c36" title="VSTGUI::UIDescriptionPrivate\l::tokenizeString" alt="" coords="97,69,279,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a11aba1ada0a2c98a219d73804984b61f" title="VSTGUI::UIDescription\l::calculateStringValue" alt="" coords="327,69,472,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a4d20a5578f2b8cf3f247e5e9726dff75" title="VSTGUI::UIDescription\l::getTagForName" alt="" coords="524,5,669,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a977b6c3e0f12ec3c4c719e2b6fb8846e" title="VSTGUI::UIDescription\l::lookupControlTagName" alt="" coords="520,69,673,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a0fbbc231900c1d5f9daed9ca8efad954" title="VSTGUI::UIDescription\l::getVariable" alt="" coords="524,133,669,173"/>
+</map>

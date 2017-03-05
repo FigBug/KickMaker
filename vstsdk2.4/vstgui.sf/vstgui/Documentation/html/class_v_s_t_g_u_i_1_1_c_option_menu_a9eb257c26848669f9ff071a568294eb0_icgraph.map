@@ -1,0 +1,6 @@
+<map id="addSeparator" name="addSeparator">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ac031c90d965c68fd215fe5887c4e5d96" title="add a new entry " alt="" coords="180,5,249,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="147,56,281,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a735597df0f43568cb501ebe71efa5d6d" title="VSTGUI::VST3Editor\l::enableEditing" alt="" coords="147,120,281,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a8d50a70febc6d3b3a8c55f7783ed4962" title="should return 1 if no further key down processing should apply, otherwise &#45;1 " alt="" coords="329,120,463,159"/>
+</map>

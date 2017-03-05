@@ -1,0 +1,12 @@
+<map id="freePlatformFont" name="freePlatformFont">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a83d9a9122e277d6a78a3fa056054b1b8" title="~CFontDesc" alt="" coords="321,5,410,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf978b047fcbf0bfa03cb052111105" title="set the name of the font " alt="" coords="164,112,233,138"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a628f10b3308511e5cc29f9ed76ef8b07" title="set the height of the font " alt="" coords="168,219,229,244"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a921dad1b65204e0e6c501e64b83dcc02" title="set the style of the font " alt="" coords="167,169,231,195"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a4b66d5e31b5dc18b314c8a68163263bd" title="cleanup" alt="" coords="167,268,230,294"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf6441bf1630045f60ddcdb82c467f" title="CFontDesc" alt="" coords="325,55,406,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af9620c5c8b5fea506df5242bc5b8b1ea" title="operator=" alt="" coords="329,169,402,195"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="290,105,441,145"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="290,220,441,259"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a66062c09de8cab0326f8374f6d2b5b2e" title="call this after the tabs are added. Tabs added after this call will have the default font style..." alt="" coords="281,284,450,323"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="requestNewSeparatorSize" name="requestNewSeparatorSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d" title="set the width of the separators " alt="" coords="215,5,335,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ad6ece4580634fc04e425a521c327125d" title="resizeFirstView" alt="" coords="224,55,326,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a7d515066dd3e7c3d0960c3da1502f64c" title="resizeSecondView" alt="" coords="215,104,335,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a54f2ef725a3284c7cadc1cc0c7dcc527" title="resizeLastView" alt="" coords="224,153,326,179"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ac98cefe207ff01ac2532c39dd3a85619" title="resizeViewsEqual" alt="" coords="217,203,333,228"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="383,129,470,155"/>
+</map>

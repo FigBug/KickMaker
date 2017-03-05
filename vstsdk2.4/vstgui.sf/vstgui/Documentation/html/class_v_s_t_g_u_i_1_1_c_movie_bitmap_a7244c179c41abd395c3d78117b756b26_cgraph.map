@@ -1,0 +1,12 @@
+<map id="CMovieBitmap" name="CMovieBitmap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#a307049d43a2dbda1418a94c88a6f47fb" title="VSTGUI::IMultiBitmapControl\l::setHeightOfOneImage" alt="" coords="153,5,330,45"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="159,70,323,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a9b7d3f338ca58886e0c5f67117a32545" title="setNumSubPixmaps" alt="" coords="176,119,306,145"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the image " alt="" coords="153,172,330,198"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#af4dd45b8bb9a650a255ab8d493edb3c6" title="VSTGUI::IMultiBitmapControl\l::setNumSubPixmaps" alt="" coords="383,55,560,94"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="398,119,545,145"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="613,94,767,119"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="815,119,988,145"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1036,119,1206,145"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="378,169,565,209"/>
+</map>

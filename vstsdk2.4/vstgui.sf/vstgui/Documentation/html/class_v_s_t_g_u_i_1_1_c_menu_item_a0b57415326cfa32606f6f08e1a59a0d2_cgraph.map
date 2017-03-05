@@ -1,0 +1,21 @@
+<map id="CMenuItem" name="CMenuItem">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of menu item " alt="" coords="348,12,407,38"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#aa8bdc75c2d4f44c022b5a15b04f5d1d1" title="returns the title of the item " alt="" coords="167,163,227,189"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a5642dfa9fc652661b47eadd05091c6a7" title="set menu item icon " alt="" coords="167,262,227,287"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a92daa9534314d8d10b78137386117636" title="returns the icon of the item " alt="" coords="167,311,228,337"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a32058672f3f9c5b1f848356bcf6f090d" title="returns the virtual keycode of the item " alt="" coords="137,360,258,386"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ae1c3aa963d0dc6203aeb9eb51f01f201" title="set virtual keycode and key modifiers of menu item " alt="" coords="151,62,243,87"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a9a8e0a706e76bb8c2adf5ac1a3b16403" title="set keycode and key modifiers of menu item " alt="" coords="349,62,407,87"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a159e09aa4b275facd4d26a6f5245f7b1" title="returns the key modifiers of the item " alt="" coords="144,410,251,435"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ae416011a675589378df9b38697d7bc81" title="returns the keycode of the item " alt="" coords="155,459,240,485"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a8adf6931b3da23bab76dac845c10b5ee" title="set menu item tag " alt="" coords="169,508,226,534"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a77b4a7b5e759eb8150d49c4330496423" title="returns the tag of the item " alt="" coords="169,558,226,583"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ad82def3068a469a676185f3d5de8bb4b" title="set submenu of menu item " alt="" coords="153,212,242,238"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a35205163b045ead4568470ece3aec41a" title="returns the submenu of the item " alt="" coords="153,607,242,633"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="526,62,657,87"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="497,12,685,38"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="733,5,893,45"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="306,199,449,238"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="306,263,449,302"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="520,199,663,238"/>
+</map>

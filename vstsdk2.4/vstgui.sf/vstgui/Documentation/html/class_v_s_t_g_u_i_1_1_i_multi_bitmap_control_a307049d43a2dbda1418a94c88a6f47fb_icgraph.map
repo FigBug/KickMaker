@@ -1,0 +1,11 @@
+<map id="setHeightOfOneImage" name="setHeightOfOneImage">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a0b6b12d61cfa8438b6a71497d2901194" title="VSTGUI::CAutoAnimation\l::CAutoAnimation" alt="" coords="200,5,359,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a5095b9dfa3ffbc29f542b225b97cc5a7" title="VSTGUI::CKickButton\l::CKickButton" alt="" coords="210,69,349,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#aa461070209a686c8b44059191be2a3a3" title="VSTGUI::CAnimKnob::\lsetHeightOfOneImage" alt="" coords="208,133,351,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a7244c179c41abd395c3d78117b756b26" title="VSTGUI::CMovieBitmap\l::CMovieBitmap" alt="" coords="204,197,355,237"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#a984cefdcb821e40134c505f9215f9953" title="VSTGUI::CMovieButton\l::CMovieButton" alt="" coords="205,261,353,301"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a902c9b1dd24b5fa94403f1f2cd6ef9c7" title="VSTGUI::CVerticalSwitch\l::CVerticalSwitch" alt="" coords="201,325,357,365"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a1c5f65d23c6ead3113ddd99a91e40852" title="VSTGUI::CHorizontalSwitch\l::CHorizontalSwitch" alt="" coords="194,389,365,429"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de" title="VSTGUI::CRockerSwitch\l::CRockerSwitch" alt="" coords="202,453,357,493"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#ae39bb45e08ab3c4a4cfd51e724b876d3" title="VSTGUI::CAnimKnob::\lCAnimKnob" alt="" coords="413,133,556,173"/>
+</map>

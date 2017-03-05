@@ -1,0 +1,34 @@
+<map id="platformOnMouseUp" name="platformOnMouseUp">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="185,639,271,665"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a4e27922f59eb45403b59ffdda5db9d38" title="called when a mouse up event occurs " alt="" coords="319,603,479,642"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="checkMouseViews" alt="" coords="339,667,459,693"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab427ac1aad7cc92ef96213f7963296a7" title="get the view at point where " alt="" coords="590,208,666,234"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a8f43f21fc087ee3670f58784a1d2af0c" title="VSTGUI::CTooltipSupport\l::onMouseExited" alt="" coords="795,425,953,465"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#abc8b4794c3c3b8761b387d51d9fbd075" title="VSTGUI::CTooltipSupport\l::onMouseEntered" alt="" coords="795,540,953,580"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adeac5973a837902933978d7d5a1eee61" title="clearMouseViews" alt="" coords="570,442,686,467"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f97b9b5fe74666c47d1c374f265e60d" title="callMouseObserverMouseExited" alt="" coords="777,490,971,515"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_view.html#a9ee172fcd9ca5d6ee196f270717341cf" title="conversion from frame coordinates to local view coordinates " alt="" coords="535,618,721,643"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view.html#aaf4840c33720f1498739f317d85a8cc4" title="called when the mouse leaves this view " alt="" coords="530,667,726,693"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="556,717,700,757"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a60ad2aca49fcfc7cd997f5355b62b148" title="check if pView is a child view of this container " alt="" coords="548,781,708,821"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab35a69018cf46b84c94f27b021b35fb7" title="conversion from frame coordinates to local view coordinates " alt="" coords="548,845,708,885"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="532,910,724,935"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="556,960,700,1000"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a1f4ce6bc02521efb056d04c427c77336" title="callMouseObserverMouseEntered" alt="" coords="527,1024,729,1050"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="795,297,954,337"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="783,361,966,401"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="783,5,966,45"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="785,70,964,95"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#adebba9af3dc339149fd4622f4d4a5bac" title="Checks if point is inside this rect. " alt="" coords="789,119,960,145"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_get_view_options.html#a7daa5c7887ffc0d68ab2ea398345e756" title="VSTGUI::GetViewOptions\l::deep" alt="" coords="795,169,954,209"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab5c037e08db39b2c5032eae7d2e4f47e" title="get the view at point where " alt="" coords="795,233,954,273"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f" title="VSTGUI::CTooltipSupport\l::hideTooltip" alt="" coords="1019,368,1177,408"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="1020,483,1177,522"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="1247,487,1403,526"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="1247,423,1403,462"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="getPlatformFrame" alt="" coords="1266,372,1383,398"/>
+<area shape="rect" id="node19" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="1472,494,1580,519"/>
+<area shape="rect" id="node21" href="$namespace_v_s_t_g_u_i.html#ab235b5451d2d91c04e4f8c5b23e2269c" title="VSTGUI::viewHasTooltip" alt="" coords="1022,598,1175,623"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#aca7d0f4f75760c54963621b67720d6a7" title="get the size of an attribute " alt="" coords="1225,598,1424,623"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="803,717,946,757"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="removeTab" name="removeTab">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="134,5,293,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a6e5b4c3e7d371c88ef8b9004a280ca35" title="setCurrentChild" alt="" coords="161,127,266,153"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="341,59,500,98"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="341,123,500,162"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="341,187,500,226"/>
+</map>

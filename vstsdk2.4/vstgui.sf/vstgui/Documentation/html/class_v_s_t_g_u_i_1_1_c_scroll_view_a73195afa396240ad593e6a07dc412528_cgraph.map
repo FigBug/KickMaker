@@ -1,0 +1,11 @@
+<map id="drawBackgroundRect" name="drawBackgroundRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="201,5,381,31"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#abc39ea75c12e9e3d19ff0d5a99bcc432" title="VSTGUI::CRect::originize" alt="" coords="212,55,370,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a98aa4626fd326017c96073613d0911c0" title="get views transparent state " alt="" coords="189,104,393,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="216,154,366,194"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a500577d63c24a75702a9e4cf45dbb67c" title="set current fill color " alt="" coords="216,218,366,258"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ac9c3a91724de57693bb7a353091db3bc" title="draw a rect " alt="" coords="216,282,366,322"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae44181e37622cc3aeb857617ee21f595" title="set current stroke color " alt="" coords="216,346,366,386"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9901bb437bd3a1c196eb2f7b0d5bfa44" title="set the current line width " alt="" coords="216,410,366,450"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="441,55,583,80"/>
+</map>

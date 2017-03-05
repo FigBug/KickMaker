@@ -1,0 +1,29 @@
+<map id="calculateByteCount" name="calculateByteCount">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="178,300,366,326"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#aa5673ef62cfb6a141319e96de817af40" title="endsWith" alt="" coords="236,350,308,375"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_file_extension.html#a67e2c86381c6b029159e5db978f033e3" title="VSTGUI::CFileExtension\l::init" alt="" coords="432,5,586,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of file selector " alt="" coords="425,69,593,109"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#ab41f599b1a51e1f384637f21a7770cc0" title="set initial directory (UTF8 string) " alt="" coords="425,133,593,173"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a8a6ffb70c424c6e5c03264c31ce366e3" title="set initial save name (UTF8 string) " alt="" coords="425,197,593,237"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf978b047fcbf0bfa03cb052111105" title="set the name of the font " alt="" coords="439,293,579,333"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of menu item " alt="" coords="438,453,580,493"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a9a8e0a706e76bb8c2adf5ac1a3b16403" title="set keycode and key modifiers of menu item " alt="" coords="438,549,580,589"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#af92a717d8d6b1c50c3ab0882b253ce58" title="VSTGUI::CCommandMenuItem\l::setCommandCategory" alt="" coords="414,805,604,845"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a1edf8e13e04f48933cdc7b624d5001de" title="VSTGUI::CCommandMenuItem\l::setCommandName" alt="" coords="414,741,604,781"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_file_extension.html#a381dd4d93e28d32a3db3c54f628a715e" title="VSTGUI::CFileExtension\l::CFileExtension" alt="" coords="670,5,824,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a5cb137e4a344a5380df782a210c8142d" title="VSTGUI::CNewFileSelector\l::~CNewFileSelector" alt="" coords="663,69,832,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a686e6c3e4128af1fd656944ae498dece" title="VSTGUI::VST3Editor\l::save" alt="" coords="680,133,814,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf6441bf1630045f60ddcdb82c467f" title="VSTGUI::CFontDesc::\lCFontDesc" alt="" coords="678,325,817,365"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a83d9a9122e277d6a78a3fa056054b1b8" title="VSTGUI::CFontDesc::\l~CFontDesc" alt="" coords="678,389,817,429"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af9620c5c8b5fea506df5242bc5b8b1ea" title="VSTGUI::CFontDesc::\loperator=" alt="" coords="678,197,817,237"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="672,261,823,301"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#af232a0a07684c270537a4f8d90b585b8" title="VSTGUI::CMenuItem::\lCMenuItem" alt="" coords="677,453,818,493"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a2c213e786574595c6f80a1e33fc47807" title="VSTGUI::CMenuItem::\l~CMenuItem" alt="" coords="677,517,818,557"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ae1c3aa963d0dc6203aeb9eb51f01f201" title="set virtual keycode and key modifiers of menu item " alt="" coords="677,581,818,621"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="680,645,814,685"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a735597df0f43568cb501ebe71efa5d6d" title="VSTGUI::VST3Editor\l::enableEditing" alt="" coords="680,709,814,749"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a0b57415326cfa32606f6f08e1a59a0d2" title="VSTGUI::CMenuItem::\lCMenuItem" alt="" coords="890,581,1032,621"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a8d50a70febc6d3b3a8c55f7783ed4962" title="should return 1 if no further key down processing should apply, otherwise &#45;1 " alt="" coords="894,709,1028,749"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#ae96e582f74778bc78f9f23b259c2ee3f" title="VSTGUI::CCommandMenuItem\l::CCommandMenuItem" alt="" coords="652,773,842,813"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a6fa1dbcbdc8d5fa8eb27378f59a52c97" title="VSTGUI::CCommandMenuItem\l::~CCommandMenuItem" alt="" coords="652,837,842,877"/>
+</map>

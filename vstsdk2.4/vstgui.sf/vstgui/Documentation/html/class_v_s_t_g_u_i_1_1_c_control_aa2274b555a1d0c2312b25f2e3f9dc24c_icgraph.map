@@ -1,0 +1,5 @@
+<map id="getListener" name="getListener">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c9fb71f0d54da21e258f44abe622f68" title="VSTGUI::VST3Editor\l::controlTagWillChange" alt="" coords="134,5,279,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="135,69,278,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="139,133,273,173"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="setLineCap" name="setLineCap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_knob.html#abe4b5425b2299465af3402b2a0fa5bb6" title="VSTGUI::CKnob::drawCorona\lOutline" alt="" coords="135,5,317,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a19d6ccb3f15df14fff47d42a80c40c4a" title="VSTGUI::CKnob::drawCorona" alt="" coords="135,70,317,95"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="365,42,507,67"/>
+</map>

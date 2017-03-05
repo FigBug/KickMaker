@@ -1,0 +1,6 @@
+<map id="removeAllAnimations" name="removeAllAnimations">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="245,5,317,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa7609ca92096612f85c0fa58058bd2f8" title="get animator for this frame " alt="" coords="187,55,375,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#aac58afa3975aa5e7e7e610d7987a0886" title="VSTGUI::Animation::\lAnimator::removeAnimations" alt="" coords="193,105,369,145"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="423,105,592,145"/>
+</map>

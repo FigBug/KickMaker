@@ -1,0 +1,4 @@
+<map id="removeControl" name="removeControl">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c9fb71f0d54da21e258f44abe622f68" title="VSTGUI::VST3Editor\l::controlTagWillChange" alt="" coords="153,5,298,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a854d81abf65f9ec14925ffd9abfcf818" title="VSTGUI::VST3Editor\l::onViewRemoved" alt="" coords="159,69,293,109"/>
+</map>

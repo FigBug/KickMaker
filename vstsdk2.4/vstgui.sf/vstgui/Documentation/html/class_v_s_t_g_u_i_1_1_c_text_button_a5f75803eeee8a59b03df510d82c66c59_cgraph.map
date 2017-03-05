@@ -1,0 +1,17 @@
+<map id="CTextButton" name="CTextButton">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a8bb2d9e1362a2b8d9047b2e895f794fd" title="setFont" alt="" coords="207,55,269,81"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ad0c3213f4680a20d3cb30112b5718fc2" title="setTextColor" alt="" coords="194,104,282,130"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#af51ec82e63406359e32eec98ae8daebe" title="setTextColorHighlighted" alt="" coords="164,154,312,179"/>
+<area shape="rect" id="node12" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="184,203,292,229"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_gradient.html#a6b56ed6810ffbcebd1d139eb790cf50c" title="VSTGUI::CGradient::\lcreate" alt="" coords="171,253,305,293"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae44181e37622cc3aeb857617ee21f595" title="setFrameColor" alt="" coords="188,318,288,343"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ab61e5de9ff4582ed9c4a46747dd82864" title="setFrameColorHighlighted" alt="" coords="158,367,318,393"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7c938477f787fe59b0eacb147a8c03a5" title="set focus support on/off " alt="" coords="140,416,336,442"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="386,5,530,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="386,69,530,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="384,154,532,179"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="585,5,729,45"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="580,128,734,154"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="782,154,955,179"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1003,154,1173,179"/>
+</map>

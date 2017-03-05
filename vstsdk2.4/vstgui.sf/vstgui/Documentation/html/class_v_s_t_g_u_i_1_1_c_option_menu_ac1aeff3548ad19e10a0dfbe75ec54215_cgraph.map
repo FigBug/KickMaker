@@ -1,0 +1,5 @@
+<map id="getSubMenu" name="getSubMenu">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#abbc6eea63ec689c21831932d22f8e836" title="get entry at index position " alt="" coords="180,5,246,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a35205163b045ead4568470ece3aec41a" title="returns the submenu of the item " alt="" coords="143,56,284,95"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#adee7672985693efe9c38a8897f12936d" title="get number of entries " alt="" coords="332,5,423,31"/>
+</map>

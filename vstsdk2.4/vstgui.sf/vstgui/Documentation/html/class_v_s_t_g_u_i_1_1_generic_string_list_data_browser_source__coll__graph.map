@@ -1,0 +1,29 @@
+<map id="GenericStringListDataBrowserSource" name="GenericStringListDataBrowserSource">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html" title="DataBrowser Interface. " alt="" coords="1711,616,1853,642"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html" title="DataBrowser view. " alt="" coords="1961,667,2060,692"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,227,130,252"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html" title="font class " alt="" coords="562,89,644,115"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="1022,635,1078,660"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="339,293,462,319"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="366,343,435,368"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1533,387,1640,412"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="348,153,453,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html" title="a scrollable container view with scrollbars " alt="" coords="1739,935,1825,960"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="347,741,454,767"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="728,392,793,418"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="1266,608,1419,647"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="1308,848,1377,874"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="978,307,1122,332"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="308,441,493,467"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="55,648,112,674"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,116,162,155"/>
+<area shape="rect" id="node21" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,960,111,986"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html" title="a scrollbar control " alt="" coords="1548,884,1625,910"/>
+<area shape="rect" id="node22" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="54,1087,113,1112"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="997,935,1103,960"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="1000,836,1101,862"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="1004,885,1096,911"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html" title="DispatchList\&lt; IControlListener \&gt;" alt="" coords="954,787,1146,812"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html" title="IScrollbarDrawer" alt="" coords="1287,799,1398,824"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_i_generic_string_list_data_browser_source_selection_changed.html" title="IGenericStringListDataBrowser\lSourceSelectionChanged" alt="" coords="1917,1294,2103,1334"/>
+</map>

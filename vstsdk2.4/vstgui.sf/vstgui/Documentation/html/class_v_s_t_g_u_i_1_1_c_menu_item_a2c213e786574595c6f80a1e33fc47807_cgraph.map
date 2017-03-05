@@ -1,0 +1,12 @@
+<map id="~CMenuItem" name="~CMenuItem">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a5642dfa9fc652661b47eadd05091c6a7" title="set menu item icon " alt="" coords="158,30,218,55"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ad82def3068a469a676185f3d5de8bb4b" title="set submenu of menu item " alt="" coords="144,79,232,105"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of menu item " alt="" coords="158,132,218,158"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a9a8e0a706e76bb8c2adf5ac1a3b16403" title="set keycode and key modifiers of menu item " alt="" coords="159,182,217,207"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="303,5,446,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="303,69,446,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="525,5,668,45"/>
+<area shape="rect" id="node8" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="309,134,440,159"/>
+<area shape="rect" id="node9" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="280,183,468,209"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="516,176,676,216"/>
+</map>

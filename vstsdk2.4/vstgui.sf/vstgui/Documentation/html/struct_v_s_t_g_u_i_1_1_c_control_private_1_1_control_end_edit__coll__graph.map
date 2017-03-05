@@ -1,0 +1,23 @@
+<map id="ControlEndEdit" name="ControlEndEdit">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_control_private_1_1_control_listener_call.html" title="ControlListenerCall" alt="" coords="1062,127,1186,152"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="716,127,785,152"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="362,495,418,520"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="1092,660,1156,686"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="696,379,804,404"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="876,816,1029,855"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,857,130,883"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="510,851,633,876"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="537,743,606,768"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1303,795,1410,820"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="337,947,442,972"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="1284,653,1428,679"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="361,236,419,262"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="360,375,419,400"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,393,111,419"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="657,660,843,686"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,1041,162,1081"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="339,5,441,31"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="344,55,436,80"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="337,104,443,130"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html" title="DispatchList\&lt; IControlListener \&gt;" alt="" coords="294,153,486,179"/>
+</map>

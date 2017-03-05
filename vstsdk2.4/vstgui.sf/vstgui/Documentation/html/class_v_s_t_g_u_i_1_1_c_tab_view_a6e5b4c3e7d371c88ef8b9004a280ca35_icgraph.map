@@ -1,0 +1,8 @@
+<map id="setCurrentChild" name="setCurrentChild">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a2f003c7e0d23c7d77eafc0f601a047a6" title="add a tab " alt="" coords="168,5,229,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#aa94e28af6958f376e147c4b0c631bf00" title="remove a tab " alt="" coords="158,55,239,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a65edca6a139f6562e1a80ba597bb7aa9" title="remove all tabs " alt="" coords="287,80,387,106"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a8a472d37c66a9e917c1494bf8ef9e06b" title="select tab at index " alt="" coords="162,156,234,182"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#adb459d073cb3703e4aab77d389eae318" title="~CTabView" alt="" coords="435,80,517,106"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a9e11979012090b0ff41c3f59aef6023d" title="valueChanged" alt="" coords="287,156,386,182"/>
+</map>

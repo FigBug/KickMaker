@@ -1,0 +1,11 @@
+<map id="newCopy" name="newCopy">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#aa88b4cee28d3836ba68eeb55cd3bdca4" title="set current font " alt="" coords="134,120,284,159"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a66062c09de8cab0326f8374f6d2b5b2e" title="call this after the tabs are added. Tabs added after this call will have the default font style..." alt="" coords="125,184,293,223"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="356,5,524,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a2764a494bfbadf5fd5bf3fead287d4d2" title="VSTGUI::GenericStringList\lDataBrowserSource::dbDrawCell" alt="" coords="341,56,539,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="VSTGUI::CDrawContext\l::init" alt="" coords="365,120,515,159"/>
+<area shape="rect" id="node6" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#a46d935bdf260519c07e691ec67dfdfb4" title="VSTGUI::CDrawMethods\l::drawIconAndText" alt="" coords="362,184,518,223"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="362,248,518,287"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="600,152,738,191"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="587,216,751,255"/>
+</map>

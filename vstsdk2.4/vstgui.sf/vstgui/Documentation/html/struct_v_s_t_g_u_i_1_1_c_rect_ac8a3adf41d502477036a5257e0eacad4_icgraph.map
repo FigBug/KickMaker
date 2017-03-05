@@ -1,0 +1,11 @@
+<map id="extend" name="extend">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CCheckBox::\lgetFocusPath" alt="" coords="140,5,282,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CControl::getFocusPath" alt="" coords="111,70,311,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a909d81efaadf43eafdbb35e862f372c1" title="VSTGUI::CKnob::drawHandle\lAsCircle" alt="" coords="121,120,301,160"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CParamDisplay\l::getFocusPath" alt="" coords="133,184,289,224"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ace0d541b4b34202332454b715948d772" title="extend" alt="" coords="182,248,240,274"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CSegmentButton\l::getFocusPath" alt="" coords="129,299,293,338"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="135,363,287,389"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CKnob::getFocusPath" alt="" coords="359,70,550,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="383,127,525,153"/>
+</map>

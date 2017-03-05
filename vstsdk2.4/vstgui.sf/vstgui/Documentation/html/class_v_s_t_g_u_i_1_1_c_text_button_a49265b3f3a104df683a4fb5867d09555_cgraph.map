@@ -1,0 +1,34 @@
+<map id="removed" name="removed">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a76987510ccfb7cc13881f5825d340803" title="invalidPath" alt="" coords="162,42,242,67"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="121,120,282,146"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="365,5,508,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="619,5,763,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1517,436,1686,462"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a86713586f8b116e72a385e1deb193a57" title="returns if the view wants idle callback or not " alt="" coords="354,70,519,95"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="1089,329,1227,369"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a062fdd8e28c1cbaeffa9e5ce6ca8f5ec" title="VSTGUI::CFrame::onViewRemoved" alt="" coords="330,462,543,487"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f5328af153c0e2cfff397131857b139" title="VSTGUI::CFrame::removeFrom\lMouseViews" alt="" coords="596,675,786,714"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af51b9124a814e6fd82fb4680ac58cff3" title="VSTGUI::CFrame::setFocusView" alt="" coords="592,462,790,487"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a60ad2aca49fcfc7cd997f5355b62b148" title="check if pView is a child view of this container " alt="" coords="611,739,771,778"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5da46825e83d457ad72d4e98d51fd5e3" title="VSTGUI::CFrame::getViewAdded\lRemovedObserver" alt="" coords="591,333,791,373"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html#aa4fc815818e041d940543ea3943c27de" title="VSTGUI::IViewAddedRemoved\lObserver::onViewRemoved" alt="" coords="597,397,785,437"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#aac58afa3975aa5e7e7e610d7987a0886" title="VSTGUI::Animation::\lAnimator::removeAnimations" alt="" coords="603,587,779,626"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a8f43f21fc087ee3670f58784a1d2af0c" title="VSTGUI::CTooltipSupport\l::onMouseExited" alt="" coords="856,700,1014,740"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f97b9b5fe74666c47d1c374f265e60d" title="VSTGUI::CFrame::callMouse\lObserverMouseExited" alt="" coords="846,764,1023,804"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f" title="VSTGUI::CTooltipSupport\l::hideTooltip" alt="" coords="1078,636,1237,676"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="1079,700,1236,740"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="1298,757,1455,797"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="1298,693,1455,733"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="VSTGUI::CFrame::getPlatform\lFrame" alt="" coords="1285,629,1469,669"/>
+<area shape="rect" id="node17" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="1547,764,1656,790"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1aaf63d0b9cd4a8f27328f2239a9951c" title="check if view supports focus " alt="" coords="846,536,1024,562"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="861,487,1009,513"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="839,586,1030,611"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="863,222,1006,247"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab18c3bcc0cb674396848861dfd78a83a" title="translates a local coordinate to a global one using parent transforms " alt="" coords="855,272,1014,312"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_view.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="847,336,1022,362"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_view.html#af199268157650ebc6dd9248a0ca04550" title="called if view should take focus " alt="" coords="850,386,1019,411"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1080,487,1235,513"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1290,511,1463,537"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="850,636,1019,676"/>
+</map>

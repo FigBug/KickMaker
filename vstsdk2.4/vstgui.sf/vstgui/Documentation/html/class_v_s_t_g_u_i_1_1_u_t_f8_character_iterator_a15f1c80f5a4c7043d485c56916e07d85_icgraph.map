@@ -1,0 +1,34 @@
+<map id="front" name="front">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#af5414ecdb0e7fbf883843fb8ff78758b" title="VSTGUI::CDrawMethods\l::createTruncatedText" alt="" coords="99,197,254,237"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a272b9d7e8c251128d816e9aac526a614" title="previous" alt="" coords="143,262,210,287"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#a46d935bdf260519c07e691ec67dfdfb4" title="VSTGUI::CDrawMethods\l::drawIconAndText" alt="" coords="302,69,457,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a08d4454d8df3386292db51529ed140ab" title="VSTGUI::CTextLabel\l::calculateTruncatedText" alt="" coords="304,197,455,237"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="518,5,656,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="505,69,669,109"/>
+<area shape="rect" id="node7" href="$group__controls.html#ga80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="521,197,654,237"/>
+<area shape="rect" id="node27" href="$group__controls.html#ga3494783a73a3eb04cdbbace5806b870c" title="set text truncate mode " alt="" coords="516,261,659,301"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="521,133,654,173"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#aebea43ccfbc91da6f5095268374de408" title="VSTGUI::CTextLabel\l::drawStyleChanged" alt="" coords="521,325,654,365"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="759,197,890,237"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a15ccf8fece7f25f9f9a16b0b0994e21a" title="VSTGUI::CTextLabel\l::CTextLabel" alt="" coords="758,261,891,301"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a9cfc75a6671c251dacdbd24e636d0ca3" title="VSTGUI::ParameterChangeListener\l::updateControlValue" alt="" coords="717,432,931,472"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CTextEdit::\lsetValue" alt="" coords="1020,144,1151,184"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#aa82b02c80ace5d87a049c6ef8278ccf7" title="VSTGUI::CTextEdit::\lupdateText" alt="" coords="1020,208,1151,248"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="1502,80,1652,120"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="1272,144,1422,184"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="1502,144,1652,184"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="1502,208,1652,248"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a3f22012681c740d847b45b1d88888d9f" title="VSTGUI::CTextEdit::\lplatformTextDidChange" alt="" coords="1274,208,1420,248"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="1282,272,1412,312"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="1512,272,1642,312"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a838ba0753537ab62e6b68c810b5b1f41" title="VSTGUI::ParameterChangeListener\l::addControl" alt="" coords="979,400,1192,440"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#af0d44025f1c09517c2960843539072d4" title="VSTGUI::ParameterChangeListener\l::update" alt="" coords="979,464,1192,504"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#ada09c15459754b72280caf38fa2544e7" title="VSTGUI::ParameterChangeListener\l::performEdit" alt="" coords="979,528,1192,568"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="VSTGUI::ParameterChangeListener\l::ParameterChangeListener" alt="" coords="1240,336,1454,376"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="1275,400,1419,440"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="1280,464,1414,504"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::VST3Editor\l::valueChanged" alt="" coords="1280,528,1414,568"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a4aebbd0c27344e14dc89982782c27b9d" title="set views size " alt="" coords="759,133,890,173"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="758,48,891,88"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#af66e2fd148184dbb55ab1f935c792909" title="operator&#45;&#45;" alt="" coords="343,262,417,287"/>
+</map>

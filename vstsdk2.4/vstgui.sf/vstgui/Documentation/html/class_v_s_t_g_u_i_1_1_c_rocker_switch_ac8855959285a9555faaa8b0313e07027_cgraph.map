@@ -1,0 +1,25 @@
+<map id="onMouseMoved" name="onMouseMoved">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#aec1573cc64ee895b86904c04fe0d1103" title="VSTGUI::CControl::isEditing" alt="" coords="176,5,348,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="172,55,352,80"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="182,104,342,130"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="180,153,344,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="181,203,343,228"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="179,252,345,278"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_control.html#ad66f409af3c387e166ff7ee95169b7b6" title="check if view is dirty " alt="" coords="182,301,342,327"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#ae57d02e392f1505445a7d83f1a18d96c" title="notifies listener and dependent objects " alt="" coords="160,387,364,412"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="188,544,336,570"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_control.html#a252dc622e20dccbeb0d0321009a95973" title="VSTGUI::CControl::getOld\lValue" alt="" coords="412,218,574,258"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a4fea28bac5516879f343a5a905717337" title="check if view is dirty " alt="" coords="420,283,567,308"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a296f15a574e04152381eb01632abfec1" title="VSTGUI::IControlListener\l::valueChanged" alt="" coords="414,333,572,373"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="424,397,562,437"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="421,461,565,501"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="637,378,780,418"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="637,442,780,482"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="637,506,780,546"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="856,378,999,418"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="856,506,999,546"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1061,506,1204,546"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="416,544,570,570"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="622,595,795,620"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="843,595,1013,620"/>
+</map>

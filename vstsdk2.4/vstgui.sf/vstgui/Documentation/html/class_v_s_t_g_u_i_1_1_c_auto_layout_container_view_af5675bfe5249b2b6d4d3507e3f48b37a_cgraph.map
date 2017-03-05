@@ -1,0 +1,5 @@
+<map id="addView" name="addView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="126,5,285,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="120,70,290,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#aa2e4d4c2b21f4b48545c79f9e166f73a" title="layoutViews" alt="" coords="163,119,248,145"/>
+</map>

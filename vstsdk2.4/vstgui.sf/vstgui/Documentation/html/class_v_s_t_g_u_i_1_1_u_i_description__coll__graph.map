@@ -1,0 +1,12 @@
+<map id="UIDescription" name="UIDescription">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="185,5,277,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_i_u_i_description.html" title="IUIDescription" alt="" coords="183,55,280,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_xml_1_1_i_handler.html" title="IHandler" alt="" coords="198,104,265,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="185,153,277,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="161,203,302,228"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_xml_1_1_i_content_provider.html" title="IContentProvider" alt="" coords="176,252,287,278"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_controller.html" title="extension to IControlListener used by UIDescription " alt="" coords="193,301,270,327"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="5,301,111,327"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_i_view_factory.html" title="IViewFactory" alt="" coords="186,351,277,376"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_bitmap_creator.html" title="IBitmapCreator" alt="" coords="180,400,282,426"/>
+</map>

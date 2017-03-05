@@ -1,0 +1,6 @@
+<map id="rotate" name="rotate">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="translate" alt="" coords="105,5,173,31"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af09e9033bf91f6e02dc5ac68339afbba" title="rotate" alt="" coords="113,55,165,80"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="CGraphicsTransform" alt="" coords="221,5,353,31"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i.html#a0c954fd7fdc04e81276fb809ca6431b8" title="VSTGUI::radians" alt="" coords="231,55,343,80"/>
+</map>

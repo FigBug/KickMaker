@@ -1,0 +1,40 @@
+<map id="draw" name="draw">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a6f6b17c0e76994fd79b3dd92a923b466" title="drawBack" alt="" coords="147,471,221,497"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a8a7b630abf596701c7bc80250640196d" title="drawPlatformText" alt="" coords="127,232,241,258"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="101,1019,268,1045"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="352,119,503,158"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#abe4a2d2349bc6a85310950ec9363beac" title="VSTGUI::CBitmap::draw" alt="" coords="352,183,503,209"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="337,68,517,94"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#afa1488e0de4da81a4892c3288f9a4f01" title="VSTGUI::CView::getDrawBackground" alt="" coords="316,232,539,258"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#a98aa4626fd326017c96073613d0911c0" title="get views transparent state " alt="" coords="326,282,529,307"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a500577d63c24a75702a9e4cf45dbb67c" title="set current fill color " alt="" coords="352,332,503,372"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a67f221f80f18e8bc5eaf06aa6d82aace" title="VSTGUI::CRect::inset" alt="" coords="358,396,496,422"/>
+<area shape="rect" id="node18" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="373,446,481,471"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#aae150cd1619e66491930247a9092ce60" title="create a rect with round corners as graphics path, you need to forget it after usage ..." alt="" coords="330,547,524,586"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a674489a3852313daca850240742481c6" title="create a graphics path object, you need to forget it after usage " alt="" coords="616,489,767,529"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a3f16731acd9e86412d7b36e293ee0f5e" title="VSTGUI::CDrawContext\l::drawGraphicsPath" alt="" coords="352,611,503,650"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a622734e81b6fc1a89480d47fc4dc6f01" title="set the current line style " alt="" coords="352,675,503,714"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9901bb437bd3a1c196eb2f7b0d5bfa44" title="set the current line width " alt="" coords="352,739,503,778"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae44181e37622cc3aeb857617ee21f595" title="set current stroke color " alt="" coords="352,803,503,842"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ac9c3a91724de57693bb7a353091db3bc" title="draw a rect " alt="" coords="352,867,503,906"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae8712bb20e6b83738488b8465dd49239" title="VSTGUI::CDrawContext\l::drawLine" alt="" coords="352,955,503,994"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a42623d0fc45883e1a9ac3fe21272a49e" title="get the current clip " alt="" coords="616,69,767,109"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="619,134,765,159"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a479432127ee77145cc19d6a2d1590821" title="VSTGUI::CRect::isEmpty" alt="" coords="614,183,770,209"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a90db9382b9c2c390af6f4630109dbee0" title="don&#39;t call directly, please use CBitmap::draw instead " alt="" coords="616,233,767,273"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#af2f8fb0ef26ea37214d7d0dbbbbacfd2" title="VSTGUI::CDrawContext\l::getCurrentTransform" alt="" coords="862,5,1012,45"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="845,69,1029,109"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="845,133,1029,173"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="587,298,797,323"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab931fd1815af542997697960629d87f3" title="VSTGUI::CGraphicsPath\l::addRoundRect" alt="" coords="615,553,769,593"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CGraphicsPath\l::addRect" alt="" coords="860,439,1014,478"/>
+<area shape="rect" id="node24" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a63e6527168ac6522121a0202e16bee87" title="VSTGUI::CRect::normalize" alt="" coords="855,503,1019,529"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab3c59aa53e7ac49487475ded4b4d69f8" title="VSTGUI::CGraphicsPath\l::beginSubpath" alt="" coords="860,553,1014,593"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a" title="VSTGUI::CGraphicsPath\l::addArc" alt="" coords="860,617,1014,657"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#a98a19f37f0b03f579a5f741a553d7a3f" title="VSTGUI::CGraphicsPath\l::closeSubpath" alt="" coords="860,681,1014,721"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#af1cb1b3449a77dab0724c0698a81ca2c" title="platform object should be released " alt="" coords="1077,585,1231,625"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="350,1019,505,1045"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_control.html#afc823b522376ef0a986cf37be77704d5" title="VSTGUI::CControl::setOld\lValue" alt="" coords="347,1069,508,1109"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="606,1019,778,1045"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="852,1019,1022,1045"/>
+</map>

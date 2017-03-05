@@ -1,0 +1,9 @@
+<map id="storeViews" name="storeViews">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a3f232417750e087461c23a532906c6bd" title="findNodeForView" alt="" coords="148,79,261,104"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="133,129,277,169"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ad51087e5507fafdc6e67e3667125fa80" title="getTemplateNameFromView" alt="" coords="334,29,507,55"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="325,79,516,104"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a60ad2aca49fcfc7cd997f5355b62b148" title="check if pView is a child view of this container " alt="" coords="341,129,500,169"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#aca7d0f4f75760c54963621b67720d6a7" title="get the size of an attribute " alt="" coords="564,5,763,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="576,55,751,80"/>
+</map>

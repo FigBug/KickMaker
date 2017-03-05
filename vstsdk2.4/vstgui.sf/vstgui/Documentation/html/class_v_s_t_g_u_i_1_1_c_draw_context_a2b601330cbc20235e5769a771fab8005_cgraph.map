@@ -1,0 +1,20 @@
+<map id="drawBitmapNinePartTiled" name="drawBitmapNinePartTiled">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the image " alt="" coords="231,24,403,50"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the image " alt="" coords="229,73,405,99"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html#a586ee003cbbfaa6ddaf89c3730994d1e" title="VSTGUI::CNinePartTiledDescription\l::calcRects" alt="" coords="210,124,424,163"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a07e13b92a6da8f440f5688cfedc1686d" title="fillRectWithBitmap" alt="" coords="258,235,376,260"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="472,17,659,57"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a479432127ee77145cc19d6a2d1590821" title="VSTGUI::CRect::isEmpty" alt="" coords="488,81,643,107"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a42623d0fc45883e1a9ac3fe21272a49e" title="get the current clip " alt="" coords="524,131,607,156"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="938,209,1102,235"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="484,235,647,260"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="940,311,1100,336"/>
+<area shape="rect" id="node16" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="486,336,645,362"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a55ac47ed5972c5f2baeffa332dab10f8" title="VSTGUI::CRect::rectOverlap" alt="" coords="478,385,653,411"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a90db9382b9c2c390af6f4630109dbee0" title="don&#39;t call directly, please use CBitmap::draw instead " alt="" coords="523,435,608,460"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#af2f8fb0ef26ea37214d7d0dbbbbacfd2" title="getCurrentTransform" alt="" coords="732,5,865,31"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="707,56,890,95"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="707,120,890,159"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="726,235,871,260"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="728,336,869,362"/>
+</map>

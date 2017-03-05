@@ -1,0 +1,51 @@
+<map id="setDirty" name="setDirty">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="124,1147,291,1173"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="129,2026,286,2051"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#af1ed3bf33a2e81172125a540dd19e094" title="call this after you have added all tabs to align them according to alignment " alt="" coords="115,2075,299,2101"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_view.html#adb7b432e84c46c24a78955eb7558b6d2" title="turn on/off mouse usage for this view " alt="" coords="149,2124,266,2150"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_view.html#aa5d991b079a9b01c1fbd08f47a730a00" title="set views transparent state " alt="" coords="152,2174,262,2199"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_view.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="184,2223,231,2249"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="406,2352,492,2378"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="157,2324,258,2350"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_view.html#a42f83a1586dca990960e415e01ba259c" title="set background image used when the mouse is not enabled " alt="" coords="133,2374,281,2399"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="180,2423,235,2449"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a72fe60af8d476a625aecbccca179c83a" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="120,2472,294,2498"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="370,5,529,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_on_off_button.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="375,69,523,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="380,133,519,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="365,198,534,223"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="380,248,518,288"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="378,312,520,338"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a4993c97a669fa259c6574a18d547c117" title="VSTGUI::CKnob::compute" alt="" coords="368,362,530,387"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ae1c264c2cee5632554cf90604639dd6d" title="VSTGUI::CKnob::setCorona\lInset" alt="" coords="364,412,535,452"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ade58576160f021d67972a09409aa4f3a" title="VSTGUI::CKnob::setCorona\lColor" alt="" coords="364,476,535,516"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ace6b3613dcf5f0cf79a1dfcbe1b7652a" title="VSTGUI::CKnob::setColorShadow\lHandle" alt="" coords="347,540,551,580"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ad0d4e71b67f26508d799333b20936eda" title="VSTGUI::CKnob::setColorHandle" alt="" coords="350,604,549,630"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a0e5743b2dfd8627bae778e02fe38a94a" title="VSTGUI::CKnob::setHandle\lLineWidth" alt="" coords="364,655,534,694"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a82fab47664bef2f9ce01c9c81b31b8fe" title="VSTGUI::CKnob::setDrawStyle" alt="" coords="356,719,543,745"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a5886cd205f218543f9d1d807c2c3dba8" title="VSTGUI::CKnob::setHandle\lBitmap" alt="" coords="364,769,534,809"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="365,834,534,859"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="374,884,525,924"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="375,948,523,988"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#acd939825a27924a0ff35d99f188262b1" title="set current entry " alt="" coords="376,1012,523,1052"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="376,1076,523,1116"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::COptionMenu\l::setValue" alt="" coords="376,1140,523,1180"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a8089c19908c6d6090572233cadccb2c5" title="VSTGUI::CParamDisplay\l::CParamDisplay" alt="" coords="371,1204,527,1244"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="371,1268,527,1308"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aebea43ccfbc91da6f5095268374de408" title="VSTGUI::CParamDisplay\l::drawStyleChanged" alt="" coords="371,1332,527,1372"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a0c7d0965f74fbf027d40ed0e787e2f40" title="VSTGUI::CScrollbar\l::setScrollSize" alt="" coords="613,1419,742,1458"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#acc72c9f8d30e67d0c13c7a16a2aff207" title="VSTGUI::CScrollbar\l::calculateScrollerLength" alt="" coords="373,1447,526,1486"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="385,1511,514,1550"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="367,1575,531,1614"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="377,1639,522,1665"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="377,1689,522,1729"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="371,1753,527,1793"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="364,2252,535,2292"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="371,1817,527,1857"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="364,1881,535,1921"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="372,1945,527,1985"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CRockerSwitch\l::notify" alt="" coords="372,2009,527,2049"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="599,2134,756,2159"/>
+<area shape="rect" id="node39" href="$group__controls.html#ga80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="383,2124,516,2164"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="383,2188,516,2228"/>
+</map>

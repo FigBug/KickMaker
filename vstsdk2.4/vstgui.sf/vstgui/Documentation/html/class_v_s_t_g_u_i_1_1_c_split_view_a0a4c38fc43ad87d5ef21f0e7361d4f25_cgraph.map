@@ -1,0 +1,4 @@
+<map id="removeView" name="removeView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="140,5,300,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="140,69,300,109"/>
+</map>

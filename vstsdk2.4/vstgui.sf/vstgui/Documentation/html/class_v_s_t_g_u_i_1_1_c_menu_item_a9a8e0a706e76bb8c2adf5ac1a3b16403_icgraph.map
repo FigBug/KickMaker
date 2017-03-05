@@ -1,0 +1,9 @@
+<map id="setKey" name="setKey">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#af232a0a07684c270537a4f8d90b585b8" title="CMenuItem" alt="" coords="137,5,220,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a2c213e786574595c6f80a1e33fc47807" title="~CMenuItem" alt="" coords="133,55,224,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ae1c3aa963d0dc6203aeb9eb51f01f201" title="set virtual keycode and key modifiers of menu item " alt="" coords="132,104,224,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="111,154,245,194"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a735597df0f43568cb501ebe71efa5d6d" title="VSTGUI::VST3Editor\l::enableEditing" alt="" coords="111,218,245,258"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a0b57415326cfa32606f6f08e1a59a0d2" title="CMenuItem" alt="" coords="319,104,402,130"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a8d50a70febc6d3b3a8c55f7783ed4962" title="should return 1 if no further key down processing should apply, otherwise &#45;1 " alt="" coords="293,218,427,258"/>
+</map>

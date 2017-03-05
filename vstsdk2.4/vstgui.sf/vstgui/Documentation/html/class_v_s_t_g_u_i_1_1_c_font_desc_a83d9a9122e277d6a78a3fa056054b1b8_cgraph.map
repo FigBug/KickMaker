@@ -1,0 +1,7 @@
+<map id="~CFontDesc" name="~CFontDesc">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8320c1ae5fc44c383e96220707f3654c" title="freePlatformFont" alt="" coords="298,5,408,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a04bf978b047fcbf0bfa03cb052111105" title="set the name of the font " alt="" coords="142,56,211,82"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="287,55,419,80"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="259,104,447,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="495,97,655,137"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="removeView" name="removeView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="146,5,305,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="140,70,310,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#aa2e4d4c2b21f4b48545c79f9e166f73a" title="layoutViews" alt="" coords="183,119,268,145"/>
+</map>

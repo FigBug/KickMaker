@@ -1,0 +1,11 @@
+<map id="CParamDisplay" name="CParamDisplay">
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html" title="a popup menu control " alt="" coords="5,301,101,326"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_text_label.html" title="a text label " alt="" coords="124,301,206,326"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html" title="CXYPad" alt="" coords="230,301,297,326"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="131,153,199,179"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="34,79,90,105"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="16,5,108,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="114,79,216,105"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="240,79,332,105"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html" title="a text edit control " alt="" coords="129,374,201,400"/>
+</map>

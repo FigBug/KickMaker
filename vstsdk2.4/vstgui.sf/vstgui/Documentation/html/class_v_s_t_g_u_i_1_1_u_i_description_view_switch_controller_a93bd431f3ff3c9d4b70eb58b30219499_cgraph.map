@@ -1,0 +1,34 @@
+<map id="switchContainerAttached" name="switchContainerAttached">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i.html#a976230f5ce65cc3cf0246e8aa88cd38c" title="VSTGUI::findControlTag" alt="" coords="207,56,357,82"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="913,107,1105,132"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="676,157,841,183"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a4ec795210f448e109fdc4fb0f4520c90" title="VSTGUI::IDependency\l::addDependency" alt="" coords="211,258,354,298"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="211,322,354,362"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="notify" alt="" coords="257,208,307,234"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="423,5,586,31"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_control.html#a32320fc5e467ce8e8c96278099957190" title="VSTGUI::CControl::getValue\lNormalized" alt="" coords="418,1000,591,1039"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#ad3561a0c13cf9120d316e062da592eaa" title="VSTGUI::UIViewSwitchContainer\l::setCurrentViewIndex" alt="" coords="405,533,603,573"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="928,1057,1090,1083"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#a915896492f6bd2608f80ca2f0a440562" title="VSTGUI::CControl::getRange" alt="" coords="669,1007,848,1032"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="926,1007,1092,1032"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_i_view_switch_controller.html#aaa4e748887a7ab526de0dd08ece11620" title="VSTGUI::IViewSwitchController\l::createViewForIndex" alt="" coords="664,386,853,426"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#a9f099f38b6d6d1057bbd3e6bac0db433" title="get autosize flags " alt="" coords="670,450,846,490"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="668,515,848,540"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="687,564,829,590"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="669,272,848,298"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1576,519,1746,544"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_view.html#aaf7594f7b73a027e5895469cbce92103" title="set the area in which the view reacts to the mouse " alt="" coords="651,613,865,639"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa7609ca92096612f85c0fa58058bd2f8" title="get animator for this frame " alt="" coords="665,663,852,688"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="924,568,1094,607"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="679,814,838,854"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a42b159b8f4e793638508e7b38c88c514" title="VSTGUI::Animation::\lAnimator::addAnimation" alt="" coords="684,322,833,362"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#acfef7ab75b0b59f29edb89e2e16c513f" title="remove all child views " alt="" coords="679,878,838,918"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="679,942,838,982"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="679,208,838,247"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="935,196,1083,222"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1153,247,1307,272"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="938,297,1080,323"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="940,348,1078,387"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1355,247,1528,272"/>
+<area shape="rect" id="node30" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="955,412,1063,438"/>
+</map>

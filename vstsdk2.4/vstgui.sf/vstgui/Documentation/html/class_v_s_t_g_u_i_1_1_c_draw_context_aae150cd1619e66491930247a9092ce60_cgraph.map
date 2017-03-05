@@ -1,0 +1,10 @@
+<map id="createRoundRectGraphicsPath" name="createRoundRectGraphicsPath">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a674489a3852313daca850240742481c6" title="create a graphics path object, you need to forget it after usage " alt="" coords="254,70,381,95"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab931fd1815af542997697960629d87f3" title="VSTGUI::CGraphicsPath\l::addRoundRect" alt="" coords="241,120,395,160"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CGraphicsPath\l::addRect" alt="" coords="448,5,602,45"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a63e6527168ac6522121a0202e16bee87" title="VSTGUI::CRect::normalize" alt="" coords="443,70,607,95"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab3c59aa53e7ac49487475ded4b4d69f8" title="VSTGUI::CGraphicsPath\l::beginSubpath" alt="" coords="448,120,602,160"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a" title="VSTGUI::CGraphicsPath\l::addArc" alt="" coords="448,184,602,224"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#a98a19f37f0b03f579a5f741a553d7a3f" title="VSTGUI::CGraphicsPath\l::closeSubpath" alt="" coords="448,248,602,288"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#af1cb1b3449a77dab0724c0698a81ca2c" title="platform object should be released " alt="" coords="655,152,810,192"/>
+</map>

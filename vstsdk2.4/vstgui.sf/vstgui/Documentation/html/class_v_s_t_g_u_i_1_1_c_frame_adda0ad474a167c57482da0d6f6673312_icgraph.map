@@ -1,0 +1,8 @@
+<map id="getFocusWidth" name="getFocusWidth">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CCheckBox::\lgetFocusPath" alt="" coords="184,5,326,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CTextButton\l::getFocusPath" alt="" coords="186,69,324,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CControl::getFocusPath" alt="" coords="155,134,355,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CParamDisplay\l::getFocusPath" alt="" coords="177,184,333,224"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CSegmentButton\l::getFocusPath" alt="" coords="173,248,337,288"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CKnob::getFocusPath" alt="" coords="403,134,594,159"/>
+</map>

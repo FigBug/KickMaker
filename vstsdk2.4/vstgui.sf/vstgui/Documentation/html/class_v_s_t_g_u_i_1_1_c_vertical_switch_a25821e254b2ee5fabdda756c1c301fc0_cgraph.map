@@ -1,0 +1,15 @@
+<map id="onMouseUp" name="onMouseUp">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#ace186d3a60dee99bc2fd1bf6a5b35601" title="VSTGUI::CControl::endEdit" alt="" coords="139,112,307,138"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="355,5,520,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a71de5d264e5c0c8545565dd683cacbc2" title="VSTGUI::CFrame::endEdit" alt="" coords="356,55,519,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a7e0b1b3c474f75a085495f0c41f3ecf3" title="VSTGUI::IControlListener\l::controlEndEdit" alt="" coords="359,105,516,145"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="368,169,506,209"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="366,233,509,273"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a9971b48d1eddda8aa43073733539eb9e" title="VSTGUI::VSTGUIEditorInterface\l::endEdit" alt="" coords="568,48,763,87"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="594,169,737,209"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="594,233,737,273"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="594,297,737,337"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="811,169,955,209"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="811,297,955,337"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1003,297,1146,337"/>
+</map>

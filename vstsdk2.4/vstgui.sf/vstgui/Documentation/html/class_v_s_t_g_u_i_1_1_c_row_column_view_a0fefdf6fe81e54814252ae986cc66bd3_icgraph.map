@@ -1,0 +1,9 @@
+<map id="resizeSubView" name="resizeSubView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#ae7c563dcda3ecdb30511be705b188314" title="layoutViewsEqualSize" alt="" coords="154,104,293,130"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#aee750e4cb39c719d39954430dd89ad5c" title="layoutViews" alt="" coords="341,104,426,130"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a711c104609272c5630d992a2aa12b653" title="setStyle" alt="" coords="492,5,556,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a04736dc8adf5632e628ea88644498a5e" title="setSpacing" alt="" coords="484,55,565,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a468a649668393d93bca4830d74c14b44" title="setMargin" alt="" coords="487,104,561,130"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a2c0f4707eb103811cdebaaf3fe25a323" title="setLayoutStyle" alt="" coords="474,153,574,179"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="499,203,549,228"/>
+</map>

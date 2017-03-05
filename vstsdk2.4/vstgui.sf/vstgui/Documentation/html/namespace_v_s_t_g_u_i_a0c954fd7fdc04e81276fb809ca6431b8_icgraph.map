@@ -1,0 +1,8 @@
+<map id="radians" name="radians">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_gradient_view.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="129,5,282,45"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af09e9033bf91f6e02dc5ac68339afbba" title="VSTGUI::CGraphicsTransform\l::rotate" alt="" coords="114,69,298,109"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae6a760c738ddb275dcb445514ab41f02" title="VSTGUI::CGraphicsTransform\l::skewX" alt="" coords="114,133,298,173"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a7dd8e797d6183b395a1ae41c1567a23b" title="VSTGUI::CGraphicsTransform\l::skewY" alt="" coords="114,197,298,237"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ac3297fa58a6dced09c5692c5fa0b2463" title="VSTGUI::CGraphicsTransform\l::rotate" alt="" coords="346,37,529,77"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="359,101,515,141"/>
+</map>

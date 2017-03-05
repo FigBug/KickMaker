@@ -1,0 +1,6 @@
+<map id="selectTab" name="selectTab">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a6e5b4c3e7d371c88ef8b9004a280ca35" title="setCurrentChild" alt="" coords="125,76,230,102"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="278,5,437,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="278,69,437,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="278,133,437,173"/>
+</map>

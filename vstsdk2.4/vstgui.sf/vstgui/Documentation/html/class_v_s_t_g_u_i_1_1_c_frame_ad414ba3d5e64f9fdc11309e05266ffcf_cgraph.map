@@ -1,0 +1,7 @@
+<map id="invalidRect" name="invalidRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="152,5,309,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="151,56,310,95"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="139,120,322,159"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CFrame::CollectInvalid\lRects::addRect" alt="" coords="133,184,327,223"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="375,191,521,216"/>
+</map>

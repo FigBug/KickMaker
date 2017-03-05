@@ -1,0 +1,6 @@
+<map id="setValueToStringProc" name="setValueToStringProc">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a838ba0753537ab62e6b68c810b5b1f41" title="VSTGUI::ParameterChangeListener\l::addControl" alt="" coords="189,69,403,109"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="VSTGUI::ParameterChangeListener\l::ParameterChangeListener" alt="" coords="451,5,664,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="486,69,629,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="490,133,624,173"/>
+</map>

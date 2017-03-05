@@ -1,0 +1,10 @@
+<map id="drawBackgroundRect" name="drawBackgroundRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a42623d0fc45883e1a9ac3fe21272a49e" title="get the current clip " alt="" coords="204,69,355,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="200,133,359,173"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="189,198,369,223"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a3eb686895016175b3aa34feff499eb7c" title="set the current clip " alt="" coords="204,5,355,45"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#afc4d46d80858d4dc4c5a38588ca0f2eb" title="draw the background " alt="" coords="200,248,359,288"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#af2f8fb0ef26ea37214d7d0dbbbbacfd2" title="VSTGUI::CDrawContext\l::getCurrentTransform" alt="" coords="433,69,584,109"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="417,133,601,173"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="417,5,601,45"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="onMouseEntered" name="onMouseEntered">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i.html#ab235b5451d2d91c04e4f8c5b23e2269c" title="VSTGUI::viewHasTooltip" alt="" coords="168,7,321,32"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="166,58,322,98"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="391,120,548,159"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#aca7d0f4f75760c54963621b67720d6a7" title="get the size of an attribute " alt="" coords="370,5,569,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="391,56,548,95"/>
+<area shape="rect" id="node7" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="617,127,725,152"/>
+</map>

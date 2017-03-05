@@ -1,0 +1,11 @@
+<map id="invalidateShadow" name="invalidateShadow">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="240,5,307,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a538914424250cf31622d56e445de31b5" title="onScaleFactorChanged" alt="" coords="200,55,347,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#aa7ca051d2d14510fa65ace37971805b7" title="setShadowOffset" alt="" coords="217,104,330,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#aa36fe50e5c42df6629747fdac2b7cb2a" title="setShadowBlurSize" alt="" coords="211,153,336,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="249,203,299,228"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="230,252,317,278"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a972c6fc0b33582430a5d8cd13c8c70bd" title="viewContainerViewAdded" alt="" coords="195,301,353,327"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#ae47adda8e0856eb099156aec7b9c34f7" title="viewContainerViewRemoved" alt="" coords="186,351,361,376"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a7032abce643c4559263d9effa6a35258" title="viewContainerViewZOrderChanged" alt="" coords="169,400,379,426"/>
+</map>

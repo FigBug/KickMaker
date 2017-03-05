@@ -1,0 +1,51 @@
+<map id="owned" name="owned">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a42b159b8f4e793638508e7b38c88c514" title="VSTGUI::Animation::\lAnimator::addAnimation" alt="" coords="137,165,286,205"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a254c90efbb4871cb082e760ad67fddee" title="Create a pixmap from a resource identifier. " alt="" coords="126,343,297,369"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="384,515,553,541"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a5f75803eeee8a59b03df510d82c66c59" title="VSTGUI::CTextButton\l::CTextButton" alt="" coords="142,769,280,809"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_gradient_view.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="135,833,288,873"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a6f6b17c0e76994fd79b3dd92a923b466" title="VSTGUI::CParamDisplay\l::drawBack" alt="" coords="133,393,289,433"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="858,773,1023,813"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a530199c9ce307c3c7aa37e8f7acd75fb" title="called if the view should draw itself " alt="" coords="110,897,313,937"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#ad4cb7844d8ca30afe9f9f483dd7761ec" title="VSTGUI::UTF8String\l::getPlatformString" alt="" coords="144,629,278,669"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="146,961,277,1001"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="133,1051,289,1090"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad2a5962bd58b120ead1a75f7b4a7ca9a" title="VSTGUI::CView::addAnimation" alt="" coords="375,172,562,198"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#ad3561a0c13cf9120d316e062da592eaa" title="VSTGUI::UIViewSwitchContainer\l::setCurrentViewIndex" alt="" coords="370,73,568,113"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a0fefdf6fe81e54814252ae986cc66bd3" title="VSTGUI::CRowColumnView\l::resizeSubView" alt="" coords="625,197,797,237"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa8c80823a5b2124f562871c2b1e8633e" title="called when the mouse enters this view " alt="" coords="647,261,775,301"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#abd65f32a227f0bafe16b9f6befbf8251" title="called when the mouse leaves this view " alt="" coords="647,325,775,365"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4913f82e0e7e6b5a0dafb53aaa2e4cac" title="VSTGUI::CScrollbar\l::onVisualChange" alt="" coords="647,69,775,109"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a9beea63c6531790e81680f1cf7cdaa16" title="VSTGUI::CAnimationSplash\lScreen::createAnimation" alt="" coords="625,133,797,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#ae7c563dcda3ecdb30511be705b188314" title="VSTGUI::CRowColumnView\l::layoutViewsEqualSize" alt="" coords="854,197,1027,237"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="876,101,1005,141"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad69f12c2e8328208ba0f58b845a04ecf" title="set scrollview to show rect " alt="" coords="872,37,1009,77"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::UIDescriptionView\lSwitchController::notify" alt="" coords="626,5,796,45"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="395,272,542,312"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="391,336,547,376"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="633,430,789,455"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="402,451,535,490"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="393,222,544,247"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="400,629,538,669"/>
+<area shape="rect" id="node28" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#af5414ecdb0e7fbf883843fb8ff78758b" title="VSTGUI::CDrawMethods\l::createTruncatedText" alt="" coords="391,744,546,784"/>
+<area shape="rect" id="node29" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#a46d935bdf260519c07e691ec67dfdfb4" title="VSTGUI::CDrawMethods\l::drawIconAndText" alt="" coords="633,680,789,720"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="402,565,535,605"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a08d4454d8df3386292db51529ed140ab" title="VSTGUI::CTextLabel\l::calculateTruncatedText" alt="" coords="635,744,786,784"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="871,680,1010,720"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="636,565,786,605"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a8d3d20437b7b1debc1262c465d2152c7" title="VSTGUI::GenericStringList\lDataBrowserSource::dbOnKeyDown" alt="" coords="361,923,577,962"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="404,987,533,1026"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="391,1051,546,1090"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#abc8b4794c3c3b8761b387d51d9fbd075" title="VSTGUI::CTooltipSupport\l::onMouseEntered" alt="" coords="632,1155,790,1194"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a8f43f21fc087ee3670f58784a1d2af0c" title="VSTGUI::CTooltipSupport\l::onMouseExited" alt="" coords="632,1411,790,1450"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a4130580a3fd7186e8106954ca9b50cb8" title="VSTGUI::CTooltipSupport\l::onMouseMoved" alt="" coords="632,1091,790,1130"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a667beef48dad9beacb4688458ec86da8" title="VSTGUI::CVSTGUITimer\l::CVSTGUITimer" alt="" coords="390,859,547,898"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="390,1219,547,1258"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="VSTGUI::CFrame::checkMouse\lViews" alt="" coords="1084,1215,1274,1254"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="1322,1151,1530,1177"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adeac5973a837902933978d7d5a1eee61" title="VSTGUI::CFrame::clearMouse\lViews" alt="" coords="848,1251,1033,1290"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f5328af153c0e2cfff397131857b139" title="VSTGUI::CFrame::removeFrom\lMouseViews" alt="" coords="845,1353,1036,1393"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CScrollbar\l::notify" alt="" coords="647,1347,775,1386"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a3a7c9c7c383203c3fc260f6b88dd6b81" title="VSTGUI::CTooltipSupport\l::onMouseDown" alt="" coords="632,1219,790,1258"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adf7a90a05ccc2d119ba9f4a81697b5d0" title="VSTGUI::CTooltipSupport\l::notify" alt="" coords="632,1283,790,1322"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="setUTF8String" name="setUTF8String">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae02f4a64e6c2b077988f56ed305ec140" title="VSTGUI::CDrawContext\l::getDrawString" alt="" coords="152,5,303,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae0c5f28e389dcccd7e49d8474846a016" title="VSTGUI::CDrawContext\l::clearDrawString" alt="" coords="152,69,303,109"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9e5bd28c677a27446677e4d1a2f5e5e4" title="get the width of an UTF&#45;8 encoded string " alt="" coords="351,5,501,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a7b81958ed229f22fcd27a041c04a6e94" title="draw an UTF&#45;8 encoded string " alt="" coords="351,69,501,109"/>
+</map>

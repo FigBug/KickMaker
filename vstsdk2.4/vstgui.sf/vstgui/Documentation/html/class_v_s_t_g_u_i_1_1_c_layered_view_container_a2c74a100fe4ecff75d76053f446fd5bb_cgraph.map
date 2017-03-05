@@ -1,0 +1,23 @@
+<map id="parentSizeChanged" name="parentSizeChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a1d1f34bf4a18c02d47a6ffdb9dab365a" title="notification that one of the views parent has changed its size " alt="" coords="181,264,340,303"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="updateLayerSize" alt="" coords="205,328,316,354"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="233,568,288,594"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="389,544,568,570"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="865,189,1024,228"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="617,277,801,316"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="849,253,1040,279"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="638,360,780,386"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="405,429,552,455"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a53c47f5a0cddd21e71f53237879112da" title="returns the visible size of the view " alt="" coords="396,480,561,519"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8283a5bcb281e300d94ac274dd79c4bb" title="VSTGUI::CRect::getTopLeft" alt="" coords="860,25,1029,51"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="VSTGUI::CView::translate\lToGlobal" alt="" coords="399,112,558,151"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a02aad27c2ef1127534fad1a29e0de5f3" title="VSTGUI::CRect::offsetInverse" alt="" coords="388,328,569,354"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="626,112,791,151"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="VSTGUI::CGraphicsTransform\l::translate" alt="" coords="853,125,1036,164"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="855,74,1034,100"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="1088,125,1272,164"/>
+<area shape="rect" id="node19" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#abc39ea75c12e9e3d19ff0d5a99bcc432" title="VSTGUI::CRect::originize" alt="" coords="400,593,557,619"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="438,642,519,668"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a852e37cb94f2ccd5a0bc8a8f6a9e2ee7" title="getDrawTransform" alt="" coords="649,409,769,435"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a49ae35002b7c79cb61cb06ab7eb04a78" title="mark rect as invalid " alt="" coords="629,636,788,675"/>
+</map>

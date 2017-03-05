@@ -1,0 +1,7 @@
+<map id="dbGetCurrentColumnWidth" name="dbGetCurrentColumnWidth">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="219,5,381,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad3e31421098660b2bf757372feaa2f98" title="VSTGUI::CScrollView\l::getStyle" alt="" coords="231,56,369,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a69f0604adf1c5d913ab0a6abcf3f4fe2" title="VSTGUI::CScrollView\l::getActiveScrollbars" alt="" coords="231,120,369,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a65832bf3daf8e81a263a673503ec24fa" title="VSTGUI::CScrollView\l::getScrollbarWidth" alt="" coords="231,184,369,223"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="429,5,589,31"/>
+</map>

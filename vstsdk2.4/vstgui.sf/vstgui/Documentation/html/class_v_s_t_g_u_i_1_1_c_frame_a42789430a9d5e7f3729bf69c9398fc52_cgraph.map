@@ -1,0 +1,12 @@
+<map id="invalid" name="invalid">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="158,127,239,152"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="109,188,288,214"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="121,260,276,286"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="355,5,512,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="354,56,513,95"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="342,120,525,159"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CFrame::CollectInvalid\lRects::addRect" alt="" coords="336,184,530,223"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="590,191,736,216"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="347,272,520,298"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="578,272,748,298"/>
+</map>

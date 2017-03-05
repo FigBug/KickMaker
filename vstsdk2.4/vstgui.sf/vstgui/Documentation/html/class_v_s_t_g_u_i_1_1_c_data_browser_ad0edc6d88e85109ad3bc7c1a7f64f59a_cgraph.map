@@ -1,0 +1,9 @@
+<map id="getCellBounds" name="getCellBounds">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7b36a55bd733ed49b370c6d6e2057111" title="return the line width and color " alt="" coords="153,5,346,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a302018b7876e6b43d7dc7602e78e3574" title="return height of one row " alt="" coords="153,69,346,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a1b8544e2a333509ebea48e20452e0ec0" title="return current width of index column " alt="" coords="153,133,346,173"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="179,198,320,223"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="170,247,329,273"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="394,247,535,273"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="583,247,743,273"/>
+</map>

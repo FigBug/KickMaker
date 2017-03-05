@@ -1,0 +1,10 @@
+<map id="getTarget" name="getTarget">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a61af3e60b94ae3e748f6fbac1e794af7" title="execute" alt="" coords="277,79,340,105"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a41d45236c37b75848f4b1667a11fb50e" title="validate" alt="" coords="125,134,187,159"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ae16683842653f97cac2c61e255bdfc53" title="pops up menu " alt="" coords="430,101,577,141"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="625,5,772,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a4f4bb4ba2aa2b7a347f9de2c3da1a265" title="pops up menu at frameLocation " alt="" coords="625,69,772,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="625,133,772,173"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="631,197,765,237"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a203037722a1aae98d2681046584458cc" title="VSTGUI::COptionMenu\l::beforePopup" alt="" coords="235,129,382,169"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="onMouseUp" name="onMouseUp">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="140,5,306,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="142,55,304,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#ad66f409af3c387e166ff7ee95169b7b6" title="check if view is dirty " alt="" coords="143,104,303,130"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="149,153,297,179"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#ace186d3a60dee99bc2fd1bf6a5b35601" title="VSTGUI::CControl::endEdit" alt="" coords="139,333,307,359"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#a252dc622e20dccbeb0d0321009a95973" title="VSTGUI::CControl::getOld\lValue" alt="" coords="356,40,518,79"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a4fea28bac5516879f343a5a905717337" title="check if view is dirty " alt="" coords="364,104,511,130"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="360,153,515,179"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="579,179,752,204"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="811,179,981,204"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="355,255,520,280"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a71de5d264e5c0c8545565dd683cacbc2" title="VSTGUI::CFrame::endEdit" alt="" coords="356,304,519,330"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a7e0b1b3c474f75a085495f0c41f3ecf3" title="VSTGUI::IControlListener\l::controlEndEdit" alt="" coords="359,354,516,394"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="368,418,506,458"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="366,482,509,522"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html#a9971b48d1eddda8aa43073733539eb9e" title="VSTGUI::VSTGUIEditorInterface\l::endEdit" alt="" coords="568,297,763,337"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="594,418,737,458"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="594,482,737,522"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="594,546,737,586"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="825,418,968,458"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="825,546,968,586"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1029,546,1173,586"/>
+</map>

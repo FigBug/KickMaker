@@ -1,0 +1,6 @@
+<map id="getBackground" name="getBackground">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a99969352cfa7658d2816fe4d9100a268" title="VSTGUI::CAnimationSplash\lScreen::getSplashBitmap" alt="" coords="171,5,343,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="171,69,343,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#adbd8dfac59cea8db24d45ddd11e4f366" title="VSTGUI::CVuMeter::getOnBitmap" alt="" coords="155,134,358,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="406,134,565,159"/>
+</map>

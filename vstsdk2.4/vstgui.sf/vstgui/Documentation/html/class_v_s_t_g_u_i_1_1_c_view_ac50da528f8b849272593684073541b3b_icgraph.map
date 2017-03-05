@@ -1,0 +1,4 @@
+<map id="onKeyUp" name="onKeyUp">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ac50da528f8b849272593684073541b3b" title="called if a key up event occurs and this view has focus " alt="" coords="124,12,296,38"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a384c6d08fb081e37e95018219e7d1fec" title="VSTGUI::CFrame::platform\lOnKeyUp" alt="" coords="344,5,510,45"/>
+</map>

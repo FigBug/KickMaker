@@ -1,0 +1,5 @@
+<map id="addControl" name="addControl">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="ParameterChangeListener" alt="" coords="133,5,295,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="143,56,286,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="147,120,281,159"/>
+</map>

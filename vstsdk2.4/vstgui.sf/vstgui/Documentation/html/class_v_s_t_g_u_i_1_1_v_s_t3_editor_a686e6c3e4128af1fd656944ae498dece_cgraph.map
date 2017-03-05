@@ -1,0 +1,26 @@
+<map id="save" name="save">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a0552bd6ca53717b8ee1086d094f66a25" title="create a new instance " alt="" coords="108,5,277,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of file selector " alt="" coords="108,133,277,173"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#aada53477c79455330ca06df8292b7f8a" title="set default file extension " alt="" coords="108,261,277,301"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a80dddbc022b66698cf7a00620efbcd88" title="VSTGUI::UIAttributes\l::getAttributeValue" alt="" coords="601,347,736,386"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#ab41f599b1a51e1f384637f21a7770cc0" title="set initial directory (UTF8 string) " alt="" coords="108,197,277,237"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a8a6ffb70c424c6e5c03264c31ce366e3" title="set initial save name (UTF8 string) " alt="" coords="108,69,277,109"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#ab02f39b59f96ed7743729293ab06744b" title="run as modal dialog " alt="" coords="108,440,277,480"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a7622aeb2d8e01864b501e5bd8785d9be" title="get selected file. Result is only valid as long as the instance of CNewFileSelector is valid..." alt="" coords="108,504,277,544"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a6080c68ac82148bc668e9218b1d39854" title="VSTGUI::UIAttributes\l::setAttribute" alt="" coords="125,568,260,608"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="121,657,264,697"/>
+<area shape="rect" id="node20" href="$namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html#a9e9a7f79b20c17ea8b55079004826495" title="VSTGUI::VST3EditorInternal\l::getUIDescriptionSaveOptions" alt="" coords="100,376,285,416"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="363,166,494,191"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="334,116,522,142"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="589,109,748,149"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#ab379f4e03e9fe650ea8bbf7d5da8b42f" title="add a file extension " alt="" coords="344,261,513,301"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_frame.html#add1b333f09c643945f8675bdbf094595" title="VSTGUI::CFrame::onStartLocal\lEventLoop" alt="" coords="333,555,523,594"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a9e36f115f8eef9a1f13bf6e9a45fee21" title="VSTGUI::CNewFileSelector\l::runModalInternal" alt="" coords="344,619,513,658"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#adac116554b543b7c4228c018a85882f5" title="VSTGUI::CFrame::CollectInvalid\lRects::flush" alt="" coords="571,555,766,594"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="357,683,500,722"/>
+<area shape="rect" id="node21" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="345,440,512,466"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="349,491,508,530"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ac1ac1cbe6c81106386498469fded95cd" title="VSTGUI::UIAttributes\l::getBooleanAttribute" alt="" coords="361,376,496,416"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="581,475,756,501"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="573,426,764,451"/>
+</map>

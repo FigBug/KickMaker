@@ -1,0 +1,20 @@
+<map id="CTabView" name="CTabView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="347,156,454,181"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="728,548,793,573"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="998,397,1054,423"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="1197,451,1350,491"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,597,130,623"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="339,498,462,524"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="366,597,435,623"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1465,562,1571,588"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="348,769,453,795"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html" title="Encapsulates various platform depended kinds of bitmaps. " alt="" coords="367,377,434,403"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="954,644,1098,669"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="308,646,493,672"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="55,90,112,116"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,795,162,835"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,256,111,281"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="54,168,113,193"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="347,205,454,231"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="13,360,154,385"/>
+</map>

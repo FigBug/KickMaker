@@ -1,0 +1,11 @@
+<map id="CCommandMenuItem" name="CCommandMenuItem">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a0ff642d224d37229fcc9c2a959508717" title="setTarget" alt="" coords="227,76,298,102"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#af92a717d8d6b1c50c3ab0882b253ce58" title="setCommandCategory" alt="" coords="192,183,333,209"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a1edf8e13e04f48933cdc7b624d5001de" title="setCommandName" alt="" coords="200,134,325,159"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="404,5,547,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="404,69,547,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="626,5,769,45"/>
+<area shape="rect" id="node7" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="410,134,541,159"/>
+<area shape="rect" id="node8" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="381,183,569,209"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="617,176,777,216"/>
+</map>

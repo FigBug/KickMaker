@@ -1,0 +1,5 @@
+<map id="~UIViewSwitchContainer" name="~UIViewSwitchContainer">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a0d92401a4d24893bdb1279ddb9b6146f" title="setController" alt="" coords="207,12,296,38"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="344,5,488,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="536,5,679,45"/>
+</map>

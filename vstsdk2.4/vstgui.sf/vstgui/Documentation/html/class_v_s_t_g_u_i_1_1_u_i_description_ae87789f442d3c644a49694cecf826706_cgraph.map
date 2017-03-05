@@ -1,0 +1,7 @@
+<map id="saveWindowsRCFile" name="saveWindowsRCFile">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2b0f673945c12c2dbf13ecdb4d768bf1" title="getBaseNode" alt="" coords="208,5,302,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_file_stream.html#a46e351ecfc8ca894cb1ac490c095c792" title="VSTGUI::CFileStream\l::open" alt="" coords="185,56,325,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a80dddbc022b66698cf7a00620efbcd88" title="VSTGUI::UIAttributes\l::getAttributeValue" alt="" coords="187,120,323,159"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_input_stream.html#a3bb8e967e96ebbc930b753ce8f3b0b7a" title="VSTGUI::InputStream\l::setByteOrder" alt="" coords="377,24,515,63"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_output_stream.html#a3bb8e967e96ebbc930b753ce8f3b0b7a" title="VSTGUI::OutputStream\l::setByteOrder" alt="" coords="373,88,520,127"/>
+</map>

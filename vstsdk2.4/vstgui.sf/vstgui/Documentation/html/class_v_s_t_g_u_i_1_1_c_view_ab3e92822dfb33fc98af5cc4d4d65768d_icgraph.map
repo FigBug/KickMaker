@@ -1,0 +1,6 @@
+<map id="onKeyDown" name="onKeyDown">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="139,44,327,70"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="160,95,306,134"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aadc463bebcfcce932306475d35f75d64" title="VSTGUI::CFrame::platform\lOnKeyDown" alt="" coords="375,5,541,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a6fe3b1173ddcfc768a77a358ea46698f" title="VSTGUI::CTextEdit::\lplatformOnKeyDown" alt="" coords="392,69,524,109"/>
+</map>

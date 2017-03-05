@@ -1,0 +1,7 @@
+<map id="setTabFontStyle" name="setTabFontStyle">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a624f67fa321bcb03a632d38161b1f216" title="VSTGUI::CFontDesc::\lnewCopy" alt="" coords="163,5,302,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a628f10b3308511e5cc29f9ed76ef8b07" title="set the height of the font " alt="" coords="163,69,302,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="161,133,304,173"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8320c1ae5fc44c383e96220707f3654c" title="VSTGUI::CFontDesc::\lfreePlatformFont" alt="" coords="354,69,493,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="352,133,495,173"/>
+</map>

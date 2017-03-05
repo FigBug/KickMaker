@@ -1,0 +1,9 @@
+<map id="CVuMeter" name="CVuMeter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a018a6ce1a4573aadc28acb40a8ad1a5f" title="setOffBitmap" alt="" coords="174,76,265,102"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a64f9a979179ef477a40cdef10243a03d" title="enable/disable onIdle() callback " alt="" coords="128,134,311,159"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="372,5,516,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="372,69,516,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="577,5,720,45"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a86713586f8b116e72a385e1deb193a57" title="returns if the view wants idle callback or not " alt="" coords="362,134,526,159"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="359,183,529,209"/>
+</map>

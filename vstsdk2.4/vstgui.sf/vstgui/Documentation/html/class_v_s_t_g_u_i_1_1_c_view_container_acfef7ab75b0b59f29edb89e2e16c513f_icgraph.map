@@ -1,0 +1,11 @@
+<map id="removeAll" name="removeAll">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="139,29,315,55"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="162,80,292,119"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#ad3561a0c13cf9120d316e062da592eaa" title="VSTGUI::UIViewSwitchContainer\l::setCurrentViewIndex" alt="" coords="128,144,326,183"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="128,208,326,247"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="128,272,326,311"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad1bf70520cdd1e1663d122f8a84d017b" title="VSTGUI::CFrame::~CFrame" alt="" coords="374,5,547,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca" title="closes the frame and calls forget " alt="" coords="385,55,536,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::UIDescriptionView\lSwitchController::notify" alt="" coords="375,144,546,183"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a93bd431f3ff3c9d4b70eb58b30219499" title="VSTGUI::UIDescriptionView\lSwitchController::switchContainer\lAttached" alt="" coords="595,137,796,190"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="getStyle" name="getStyle">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229" title="add row to selection " alt="" coords="147,5,297,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aa5f9d70cda4c5abd5a1ee159ce289a9b" title="remove row from selection " alt="" coords="147,69,297,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#aa1f9120c99ba96949b66c37a95daa65b" title="return current width of index column " alt="" coords="118,133,326,186"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="197,211,247,237"/>
+</map>

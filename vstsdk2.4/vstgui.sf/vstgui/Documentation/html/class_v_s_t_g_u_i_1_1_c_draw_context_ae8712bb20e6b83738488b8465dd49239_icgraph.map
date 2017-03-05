@@ -1,0 +1,12 @@
+<map id="drawLine" name="drawLine">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="129,5,298,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#afc75c2c7a436f68d86adb095882143b4" title="lineTo" alt="" coords="187,55,240,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a6590df97b907472bc0c904ab7cbfd782" title="VSTGUI::CKnob::drawHandle\lAsLine" alt="" coords="123,105,303,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a6f6b17c0e76994fd79b3dd92a923b466" title="VSTGUI::CParamDisplay\l::drawBack" alt="" coords="135,226,291,266"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="358,83,500,108"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="356,133,503,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="351,197,507,237"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="555,291,712,316"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="363,312,496,351"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="354,376,505,402"/>
+</map>

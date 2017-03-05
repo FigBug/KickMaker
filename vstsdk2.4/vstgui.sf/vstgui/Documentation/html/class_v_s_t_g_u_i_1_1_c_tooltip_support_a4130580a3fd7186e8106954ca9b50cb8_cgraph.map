@@ -1,0 +1,7 @@
+<map id="onMouseMoved" name="onMouseMoved">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#adebba9af3dc339149fd4622f4d4a5bac" title="Checks if point is inside this rect. " alt="" coords="160,5,331,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="379,62,535,102"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="379,138,535,178"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="167,106,324,146"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="583,145,691,171"/>
+</map>

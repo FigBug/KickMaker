@@ -1,0 +1,7 @@
+<map id="setNumSubPixmaps" name="setNumSubPixmaps">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#af4dd45b8bb9a650a255ab8d493edb3c6" title="VSTGUI::IMultiBitmapControl\l::setNumSubPixmaps" alt="" coords="183,5,361,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="198,70,346,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="409,44,563,70"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="611,70,784,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="832,70,1002,95"/>
+</map>

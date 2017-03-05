@@ -1,0 +1,5 @@
+<map id="doIdleStuff" name="doIdleStuff">
+<area shape="rect" id="node2" href="$class_a_eff_g_u_i_editor.html#a05dffb509478801c59747249f05dafe5" title="getTicks" alt="" coords="132,5,197,31"/>
+<area shape="rect" id="node3" href="$class_a_eff_g_u_i_editor.html#a7c93ea375d0afa3024f09ddc91c015e1" title="wait" alt="" coords="143,55,186,80"/>
+<area shape="rect" id="node4" href="$class_a_eff_g_u_i_editor.html#a83abbeda22fc5e6c2b35523b64199c1c" title="idle" alt="" coords="145,104,185,130"/>
+</map>

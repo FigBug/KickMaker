@@ -1,0 +1,14 @@
+<map id="CKnob" name="CKnob">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="138,5,281,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the image " alt="" coords="123,70,296,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a479364708cefcb04cdaf5a0fb7e41b20" title="setStartAngle" alt="" coords="163,119,256,145"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a6c96915b2f868ccdc68ad83a4a2d1979" title="setRangeAngle" alt="" coords="158,168,261,194"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7c938477f787fe59b0eacb147a8c03a5" title="set focus support on/off " alt="" coords="111,218,307,243"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="355,63,542,102"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a4993c97a669fa259c6574a18d547c117" title="compute" alt="" coords="415,147,482,173"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="590,147,757,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="809,118,963,143"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#afc823b522376ef0a986cf37be77704d5" title="VSTGUI::CControl::setOld\lValue" alt="" coords="805,168,967,208"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1015,118,1187,143"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1235,118,1405,143"/>
+</map>

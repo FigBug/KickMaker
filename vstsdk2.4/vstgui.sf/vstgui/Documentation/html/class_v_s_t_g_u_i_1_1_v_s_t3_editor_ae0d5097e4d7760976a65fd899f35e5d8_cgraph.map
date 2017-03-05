@@ -1,0 +1,10 @@
+<map id="setEditorSizeConstrains" name="setEditorSizeConstrains">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e77987e3b1031f46b838fdd6e8f3ca7" title="VSTGUI::CRect::getSize" alt="" coords="414,107,567,132"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="617,56,777,82"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="615,157,779,183"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="205,5,364,31"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="203,208,366,234"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a364d955803f6af297caf4affe95b5bf9" title="requestResize" alt="" coords="235,257,333,283"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="420,5,561,31"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="418,208,563,234"/>
+</map>

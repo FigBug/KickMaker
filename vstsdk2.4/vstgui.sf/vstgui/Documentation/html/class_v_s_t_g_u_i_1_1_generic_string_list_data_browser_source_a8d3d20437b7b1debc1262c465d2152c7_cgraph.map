@@ -1,0 +1,47 @@
+<map id="dbOnKeyDown" name="dbOnKeyDown">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="620,408,776,447"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="155,636,312,675"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ab34f0a4b957ee62e17d92fb5fec75fcb" title="set the exclusive selected row " alt="" coords="158,572,309,611"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="1567,5,1676,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad204f9856847ba3780165acbe388a155" title="empty selection " alt="" coords="381,600,532,639"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a0b8554afada5a0eab8d74eefb8935436" title="VSTGUI::IDataBrowserDelegate\l::dbSelectionChanged" alt="" coords="601,582,794,622"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7a995c1bb7ecebecbd53378b7d32130e" title="return number of rows for CDataBrowser browser " alt="" coords="360,664,553,703"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a76eb9b897036f477adedf89b82510475" title="invalidates a complete row " alt="" coords="381,728,532,767"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a40456bf67a2cbb0eaa5bdb3897e8c0b8" title="scrolls the scrollview so that row is visible " alt="" coords="381,485,532,525"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad69f12c2e8328208ba0f58b845a04ecf" title="set scrollview to show rect " alt="" coords="629,493,766,533"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="858,399,1000,424"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="849,500,1008,526"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="1315,483,1475,508"/>
+<area shape="rect" id="node16" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="847,665,1010,691"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="1313,631,1477,656"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_control.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CControl::setValue" alt="" coords="842,780,1015,806"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_control.html#a28bd46996ac9f5362dcf92bf6d825e8d" title="VSTGUI::CControl::bounce\lValue" alt="" coords="846,716,1012,755"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4913f82e0e7e6b5a0dafb53aaa2e4cac" title="VSTGUI::CScrollbar\l::onVisualChange" alt="" coords="864,256,993,295"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="855,349,1003,375"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CScrollView\l::valueChanged" alt="" coords="1089,550,1227,590"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="1088,500,1228,526"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="1085,665,1231,691"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="1077,723,1239,748"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="1075,772,1241,798"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="1086,822,1230,862"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="1323,758,1467,798"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="1323,822,1467,862"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="1323,886,1467,926"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="1550,758,1693,798"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="1550,886,1693,926"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1754,886,1898,926"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html#a110935fdba8346f35d530ba0a82419e6" title="both values are normalized ones " alt="" coords="1074,220,1243,273"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad2a5962bd58b120ead1a75f7b4a7ca9a" title="VSTGUI::CView::addAnimation" alt="" coords="1064,144,1252,170"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_view.html#a231289d0aa4c6c85931a822afab8b2bf" title="set alpha value which will be applied when drawing this view " alt="" coords="1063,297,1253,323"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_animation_1_1_timing_function_base.html#a67cd323fecc35d2cd8895e08f9e242e6" title="VSTGUI::Animation::\lTimingFunctionBase::\lgetLength" alt="" coords="1326,220,1463,273"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="1312,120,1477,146"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa7609ca92096612f85c0fa58058bd2f8" title="get animator for this frame " alt="" coords="1301,169,1489,195"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a42b159b8f4e793638508e7b38c88c514" title="VSTGUI::Animation::\lAnimator::addAnimation" alt="" coords="1320,56,1470,95"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="1537,56,1706,95"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1309,371,1481,396"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="1305,297,1485,323"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1537,371,1706,396"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1081,399,1235,424"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0cecc937d7e222b7e3d8fac5294aa38f" title="VSTGUI::CControl::getValue" alt="" coords="1308,532,1481,558"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="1314,581,1476,607"/>
+</map>

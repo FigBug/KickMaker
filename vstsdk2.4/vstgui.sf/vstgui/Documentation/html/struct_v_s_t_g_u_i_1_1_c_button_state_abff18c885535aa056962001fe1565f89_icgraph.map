@@ -1,0 +1,7 @@
+<map id="getModifierState" name="getModifierState">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a5b0ed7ded11a5b04a43b49dd15a85190" title="VSTGUI::CControl::checkDefault\lValue" alt="" coords="162,77,358,117"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="407,5,604,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_slider.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="406,55,605,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="427,105,583,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="420,169,591,209"/>
+</map>

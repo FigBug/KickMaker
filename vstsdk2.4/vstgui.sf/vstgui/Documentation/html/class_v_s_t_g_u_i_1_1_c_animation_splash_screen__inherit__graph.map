@@ -1,0 +1,9 @@
+<map id="CAnimationSplashScreen" name="CAnimationSplashScreen">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html" title="CSplashScreen" alt="" coords="158,227,262,253"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="120,153,188,179"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="23,79,79,105"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,5,97,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="103,79,205,105"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="229,79,321,105"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="213,153,319,179"/>
+</map>

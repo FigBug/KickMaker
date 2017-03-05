@@ -1,0 +1,24 @@
+<map id="CGraphicsTransform" name="CGraphicsTransform">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="translate" alt="" coords="190,176,257,202"/>
+<area shape="rect" id="node16" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a1f830c1a56ab20f03dac9ad938fbdfd7" title="scale" alt="" coords="199,307,248,333"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af09e9033bf91f6e02dc5ac68339afbba" title="rotate" alt="" coords="198,258,250,283"/>
+<area shape="rect" id="node20" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae6a760c738ddb275dcb445514ab41f02" title="skewX" alt="" coords="195,356,252,382"/>
+<area shape="rect" id="node21" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a7dd8e797d6183b395a1ae41c1567a23b" title="skewY" alt="" coords="195,406,252,431"/>
+<area shape="rect" id="node22" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#afcc46c0bde3d67917b1259fba60513cf" title="isInvariant" alt="" coords="186,455,262,481"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a95c121da9f2c59a74a2c45029ee5e6ff" title="translate" alt="" coords="359,115,426,141"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ac3297fa58a6dced09c5692c5fa0b2463" title="rotate" alt="" coords="366,230,418,255"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="310,165,475,205"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="537,101,668,141"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="VSTGUI::CView::translate\lToGlobal" alt="" coords="523,165,683,205"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#a701d6a482c7f94c8988bb495b5388e31" title="translates a local coordinate to a global one using parent transforms " alt="" coords="523,229,683,269"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="731,101,933,141"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ad9f9e3ce4ccc8fced0f56afbe26a2a12" title="VSTGUI::CTextEdit::\lplatformGetSize" alt="" coords="767,165,897,205"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac6723d734158ef4548dbd9dd3b24732f" title="VSTGUI::CTextEdit::\lplatformGetVisibleSize" alt="" coords="761,229,903,269"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="983,5,1186,45"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="981,69,1188,109"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="983,133,1186,173"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="983,197,1186,237"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a37737a5ebd2493e11cd90732fb054bef" title="scale" alt="" coords="368,344,417,370"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="314,280,470,320"/>
+<area shape="rect" id="node23" href="$struct_v_s_t_g_u_i_1_1_c_draw_context_1_1_transform.html#a34a14c210c9849c7ad7e3828727bbb8f" title="VSTGUI::CDrawContext\l::Transform::Transform" alt="" coords="317,448,468,488"/>
+</map>

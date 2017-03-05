@@ -1,0 +1,11 @@
+<map id="translateToLocal" name="translateToLocal">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="getGlobalTransform" alt="" coords="190,127,317,152"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="162,177,346,217"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="162,241,346,281"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="436,5,535,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="406,56,565,95"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="VSTGUI::CGraphicsTransform\l::translate" alt="" coords="394,120,577,159"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="442,184,529,210"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8283a5bcb281e300d94ac274dd79c4bb" title="VSTGUI::CRect::getTopLeft" alt="" coords="401,233,570,259"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="625,120,809,159"/>
+</map>

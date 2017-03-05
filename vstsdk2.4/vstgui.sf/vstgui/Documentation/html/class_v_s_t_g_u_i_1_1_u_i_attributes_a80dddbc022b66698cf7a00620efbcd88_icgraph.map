@@ -1,0 +1,20 @@
+<map id="getAttributeValue" name="getAttributeValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a1cf22915c1479c063a2db6ec01d08339" title="hasAttribute" alt="" coords="198,5,284,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a601fba11e6d33fea254dbbc1f12b503b" title="getDoubleAttribute" alt="" coords="181,55,301,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ac1ac1cbe6c81106386498469fded95cd" title="getBooleanAttribute" alt="" coords="178,104,304,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a686e6c3e4128af1fd656944ae498dece" title="VSTGUI::VST3Editor\l::save" alt="" coords="598,120,732,159"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ae714820b1dcada09b3a33f4b4d12bb3c" title="getIntegerAttribute" alt="" coords="181,205,301,231"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ab5c4e4b8e838f848c3b08372c99fc0b3" title="getPointAttribute" alt="" coords="186,255,296,280"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a61933d378a3f02b296526e84e58e2496" title="getRectAttribute" alt="" coords="187,304,295,330"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#af2ddca33b659118a112021a2238ae9db" title="getStringArrayAttribute" alt="" coords="170,353,312,379"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ae87789f442d3c644a49694cecf826706" title="VSTGUI::UIDescription\l::saveWindowsRCFile" alt="" coords="169,404,313,443"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#a14a05eaacca7a2254708dd9032c9a80f" title="VSTGUI::UIViewFactory\l::createView" alt="" coords="166,468,316,507"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="VSTGUI::VST3Editor\l::init" alt="" coords="174,532,308,571"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a29077143f5b7390752cfde93be45f6bd" title="VSTGUI::VST3Editor\l::createView" alt="" coords="174,596,308,635"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::VST3Editor\l::notify" alt="" coords="174,660,308,699"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a735597df0f43568cb501ebe71efa5d6d" title="VSTGUI::VST3Editor\l::enableEditing" alt="" coords="174,724,308,763"/>
+<area shape="rect" id="node5" href="$namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html#a9e9a7f79b20c17ea8b55079004826495" title="VSTGUI::VST3EditorInternal\l::getUIDescriptionSaveOptions" alt="" coords="364,90,550,130"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a5141968978ba1cf93e31829eca8abc3c" title="VSTGUI::UIDescription\l::save" alt="" coords="385,404,529,443"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a6da6f7fa1358e3bb29b45dbb29a1311d" title="VSTGUI::VST3Editor\l::VST3Editor" alt="" coords="390,532,524,571"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a8d50a70febc6d3b3a8c55f7783ed4962" title="should return 1 if no further key down processing should apply, otherwise &#45;1 " alt="" coords="390,724,524,763"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="attached" name="attached">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a346862a374e9b89e0ca2ceb05028f4e2" title="view is attached to a parent view " alt="" coords="138,601,297,641"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="160,666,275,691"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a2c5505003583271bd4bff211b52e5197" title="databrowser view was attached to a parent " alt="" coords="121,716,314,756"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7b36a55bd733ed49b370c6d6e2057111" title="return the line width and color " alt="" coords="367,5,560,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a302018b7876e6b43d7dc7602e78e3574" title="return height of one row " alt="" coords="367,69,560,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7a995c1bb7ecebecbd53378b7d32130e" title="return number of rows for CDataBrowser browser " alt="" coords="618,136,811,176"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#adb1298007dc75c87ce369fe46687afa7" title="return number of columns for CDataBrowser browser " alt="" coords="367,284,560,324"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a1b8544e2a333509ebea48e20452e0ec0" title="return current width of index column " alt="" coords="367,348,560,388"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="1137,514,1279,539"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="1128,615,1288,641"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="891,564,1052,590"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="384,564,543,590"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="881,614,1061,639"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a6a955866d26fe7b3f6a64178a2ae73ce" title="VSTGUI::CViewContainer\l::CViewContainer" alt="" coords="384,1672,543,1712"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b132bc89c5168ff1601ac77aad7afbb" title="set autosize flags " alt="" coords="883,1311,1059,1350"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_view.html#aa5d991b079a9b01c1fbd08f47a730a00" title="set views transparent state " alt="" coords="362,412,565,438"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1761,1439,1931,1465"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="892,1375,1051,1414"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#acdcc99a2b97cc5c26db37b5ff218dc1b" title="get scroll offset " alt="" coords="395,1736,532,1776"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a76a87a4f5faa6bd93a3503c31225d654" title="set the virtual size of this container " alt="" coords="395,904,532,944"/>
+<area shape="rect" id="node27" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="1126,1566,1290,1591"/>
+<area shape="rect" id="node41" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="382,1571,545,1597"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a23b37f872e6b2973342f3d7e451a6503" title="VSTGUI::CScrollView\l::getContainerSize" alt="" coords="395,1800,532,1840"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a8e1563df2e452f0d9e9e0c8950a6922e" title="get the vertical scrollbar " alt="" coords="395,1864,532,1904"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_control.html#a044bb304fd78b153c046079e8ce5669e" title="VSTGUI::CControl::setWheelInc" alt="" coords="367,1928,560,1954"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="384,1979,543,2018"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a95a2ffde3fd65da2332565015cdab941" title="validateSelection" alt="" coords="407,184,519,210"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad204f9856847ba3780165acbe388a155" title="empty selection " alt="" coords="424,234,503,259"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="644,564,785,590"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_view.html#a98aa4626fd326017c96073613d0911c0" title="get views transparent state " alt="" coords="613,412,816,438"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1338,1108,1493,1134"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1541,1159,1713,1185"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a0c6d1dd9bc1cbe653d7eacaf4362e06e" title="VSTGUI::CScrollView\l::recalculateSubViews" alt="" coords="645,932,784,972"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a326ba350de9fffcbc3d9d8f47fe5cedd" title="VSTGUI::CScrollbar\l::getScrollSize" alt="" coords="650,817,779,857"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0cecc937d7e222b7e3d8fac5294aa38f" title="VSTGUI::CControl::getValue" alt="" coords="885,1439,1058,1465"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a0c7d0965f74fbf027d40ed0e787e2f40" title="VSTGUI::CScrollbar\l::setScrollSize" alt="" coords="650,996,779,1036"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_control.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CControl::setValue" alt="" coords="628,716,801,742"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CScrollView\l::valueChanged" alt="" coords="646,1457,783,1497"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="889,1210,1054,1235"/>
+<area shape="rect" id="node28" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#abc39ea75c12e9e3d19ff0d5a99bcc432" title="VSTGUI::CRect::originize" alt="" coords="892,715,1050,741"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="892,1059,1050,1085"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="1134,1134,1282,1159"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a943751763fe1c3e3a6a6da8e0f6c4daf" title="set views size " alt="" coords="907,816,1036,856"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_view.html#aaf7594f7b73a027e5895469cbce92103" title="set the area in which the view reacts to the mouse " alt="" coords="864,880,1078,906"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_view.html#ae7b11de49c83518bc4e91feb6c2e9b9f" title="set visibility state " alt="" coords="889,1108,1054,1134"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ab3bf743a97ae2693a2d4856d9ffe419c" title="VSTGUI::CScrollbar\l::setOverlayStyle" alt="" coords="907,931,1036,970"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a060498c49d418ecdbad7c6382d673754" title="change view z order position " alt="" coords="892,995,1051,1034"/>
+<area shape="rect" id="node42" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="642,1692,787,1718"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a0b8554afada5a0eab8d74eefb8935436" title="VSTGUI::IDataBrowserDelegate\l::dbSelectionChanged" alt="" coords="618,217,811,257"/>
+</map>

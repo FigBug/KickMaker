@@ -1,0 +1,22 @@
+<map id="resizeLastView" name="resizeLastView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="155,19,335,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="400,70,579,95"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#aaf7594f7b73a027e5895469cbce92103" title="set the area in which the view reacts to the mouse " alt="" coords="383,119,597,145"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a129ba2469954235dd9ad1eb7f9c5ca4c" title="requestNewSeparatorSize" alt="" coords="164,270,326,295"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="654,170,802,195"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="878,119,1033,145"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="860,307,1051,333"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="657,120,799,146"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="659,5,797,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1099,144,1272,170"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1320,144,1490,170"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a41767e2243054df9cb0d6640bffb3ca3" title="VSTGUI::CRect::makeIntegral" alt="" coords="399,548,581,574"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="400,168,580,194"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#abc39ea75c12e9e3d19ff0d5a99bcc432" title="VSTGUI::CRect::originize" alt="" coords="411,384,568,410"/>
+<area shape="rect" id="node16" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="657,356,799,382"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="410,320,569,360"/>
+<area shape="rect" id="node18" href="$namespace_v_s_t_g_u_i.html#ab01255256715bd463ffb966ca28bc60c" title="VSTGUI::getSplitViewController" alt="" coords="394,499,585,525"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_i_split_view_controller.html#ab82c1e3b5b31dcc78f6f2f31dc5b7d4e" title="VSTGUI::ISplitViewController\l::getSplitViewSizeConstraint" alt="" coords="401,435,578,474"/>
+<area shape="rect" id="node19" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="645,467,812,493"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="868,467,1043,493"/>
+</map>

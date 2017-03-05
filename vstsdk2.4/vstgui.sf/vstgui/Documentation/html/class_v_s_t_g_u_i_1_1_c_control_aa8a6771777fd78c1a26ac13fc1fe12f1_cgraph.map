@@ -1,0 +1,12 @@
+<map id="getFocusPath" name="getFocusPath">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1aaf63d0b9cd4a8f27328f2239a9951c" title="check if view supports focus " alt="" coords="149,5,327,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="155,55,320,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adda0ad474a167c57482da0d6f6673312" title="get focus draw width " alt="" coords="152,105,324,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a53c47f5a0cddd21e71f53237879112da" title="returns the visible size of the view " alt="" coords="155,169,320,209"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a479432127ee77145cc19d6a2d1590821" title="VSTGUI::CRect::isEmpty" alt="" coords="160,233,315,259"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CGraphicsPath\l::addRect" alt="" coords="161,284,315,323"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ac8a3adf41d502477036a5257e0eacad4" title="VSTGUI::CRect::extend" alt="" coords="163,348,312,374"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="375,112,550,138"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#af1cb1b3449a77dab0724c0698a81ca2c" title="platform object should be released " alt="" coords="385,284,539,323"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a67f221f80f18e8bc5eaf06aa6d82aace" title="VSTGUI::CRect::inset" alt="" coords="393,348,531,374"/>
+</map>

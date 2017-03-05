@@ -1,0 +1,7 @@
+<map id="~CView" name="~CView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="149,5,227,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#ac6e61de369e994009e36f344f99c15ad" title="VSTGUI::DispatchList\l::empty" alt="" coords="119,56,257,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="146,120,229,146"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="116,170,260,210"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="308,170,451,210"/>
+</map>

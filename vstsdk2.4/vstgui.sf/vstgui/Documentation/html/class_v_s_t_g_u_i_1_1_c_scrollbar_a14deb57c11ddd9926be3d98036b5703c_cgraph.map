@@ -1,0 +1,14 @@
+<map id="drawScroller" name="drawScroller">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html#ada8cce4e01199ec802c19a3469f67842" title="VSTGUI::IScrollbarDrawer\l::drawScrollbarScroller" alt="" coords="143,5,305,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9901bb437bd3a1c196eb2f7b0d5bfa44" title="set the current line width " alt="" coords="149,69,299,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a500577d63c24a75702a9e4cf45dbb67c" title="set current fill color " alt="" coords="149,133,299,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae44181e37622cc3aeb857617ee21f595" title="set current stroke color " alt="" coords="149,197,299,237"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="143,262,305,287"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="141,311,307,337"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a674489a3852313daca850240742481c6" title="create a graphics path object, you need to forget it after usage " alt="" coords="149,361,299,401"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="149,425,299,465"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a3f16731acd9e86412d7b36e293ee0f5e" title="VSTGUI::CDrawContext\l::drawGraphicsPath" alt="" coords="149,489,299,529"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ac9c3a91724de57693bb7a353091db3bc" title="draw a rect " alt="" coords="149,553,299,593"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="357,262,517,287"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="355,311,519,337"/>
+</map>

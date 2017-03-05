@@ -6,6 +6,8 @@ vstsdk2.4/doc
 vstsdk2.4/index.html
 vstsdk2.4/pluginterfaces
 vstsdk2.4/vstgui.sf/vstgui.old
+vstsdk2.4/public.sdk
+vstsdk2.4/vstgui.sf/drawtest
 Debug/*
 Release/*
 ipch/* 

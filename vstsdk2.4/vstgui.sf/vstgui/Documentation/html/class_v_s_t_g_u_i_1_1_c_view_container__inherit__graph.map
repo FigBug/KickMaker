@@ -1,0 +1,16 @@
+<map id="CViewContainer" name="CViewContainer">
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html" title="CAutoLayoutContainerView" alt="" coords="405,5,574,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_color_chooser.html" title="CColorChooser" alt="" coords="437,55,541,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html" title="CFontChooser" alt="" coords="440,104,539,130"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="457,153,522,179"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html" title="a view container which draws into a platform layer on top of a parent layer or the platform viewA CLa..." alt="" coords="414,203,565,228"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html" title="a scrollable container view with scrollbars " alt="" coords="446,252,532,278"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html" title="a view container which draws a shadow for it&#39;s subviews " alt="" coords="414,301,565,327"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_split_view.html" title="a split container view with separators between its child views " alt="" coords="450,351,529,376"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html" title="a tab view " alt="" coords="452,400,527,426"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html" title="UIViewSwitchContainer" alt="" coords="416,449,563,475"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="145,228,201,254"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,228,97,254"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html" title="a view container which layouts its subview as rows or columns " alt="" coords="622,5,743,31"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html" title="DataBrowser view. " alt="" coords="632,252,732,278"/>
+</map>

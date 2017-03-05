@@ -1,0 +1,7 @@
+<map id="setOnBitmap" name="setOnBitmap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="144,31,338,56"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="386,5,596,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="414,55,568,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="644,55,817,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="865,55,1035,80"/>
+</map>

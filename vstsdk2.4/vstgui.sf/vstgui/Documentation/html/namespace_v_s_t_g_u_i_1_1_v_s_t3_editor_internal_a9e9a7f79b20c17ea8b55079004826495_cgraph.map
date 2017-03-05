@@ -1,0 +1,8 @@
+<map id="getUIDescriptionSaveOptions" name="getUIDescriptionSaveOptions">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="232,29,399,55"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="236,80,395,119"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#ac1ac1cbe6c81106386498469fded95cd" title="VSTGUI::UIAttributes\l::getBooleanAttribute" alt="" coords="248,144,383,183"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="455,5,631,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="447,55,639,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a80dddbc022b66698cf7a00620efbcd88" title="VSTGUI::UIAttributes\l::getAttributeValue" alt="" coords="475,144,611,183"/>
+</map>

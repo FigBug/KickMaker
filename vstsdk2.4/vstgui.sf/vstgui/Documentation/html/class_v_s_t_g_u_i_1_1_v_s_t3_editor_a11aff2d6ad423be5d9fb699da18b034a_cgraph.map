@@ -1,0 +1,6 @@
+<map id="controlEndEdit" name="controlEndEdit">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aacadd5b863ee566de5c42065dba9d76e" title="getParameterChangeListener" alt="" coords="170,5,349,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="676,85,838,111"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#ace186d3a60dee99bc2fd1bf6a5b35601" title="VSTGUI::ParameterChangeListener\l::endEdit" alt="" coords="153,106,366,146"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a1df8e4a77b7ed4681e97a609a840e26d" title="VSTGUI::ParameterChangeListener\l::getParameterID" alt="" coords="414,106,628,146"/>
+</map>

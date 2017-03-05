@@ -1,0 +1,8 @@
+<map id="controlTagWillChange" name="controlTagWillChange">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="217,5,379,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa2274b555a1d0c2312b25f2e3f9dc24c" title="get main listener " alt="" coords="205,55,391,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aacadd5b863ee566de5c42065dba9d76e" title="getParameterChangeListener" alt="" coords="209,104,387,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#acb8988eff7a2c73a5676e15c9898c18f" title="VSTGUI::ParameterChangeListener\l::removeControl" alt="" coords="191,154,405,194"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="453,154,596,194"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="644,154,788,194"/>
+</map>

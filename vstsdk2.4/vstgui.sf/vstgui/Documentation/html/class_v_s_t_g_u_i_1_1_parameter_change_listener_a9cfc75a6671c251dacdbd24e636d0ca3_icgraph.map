@@ -1,0 +1,9 @@
+<map id="updateControlValue" name="updateControlValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a838ba0753537ab62e6b68c810b5b1f41" title="addControl" alt="" coords="182,77,262,103"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#af0d44025f1c09517c2960843539072d4" title="update" alt="" coords="193,141,251,167"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#ada09c15459754b72280caf38fa2544e7" title="performEdit" alt="" coords="180,191,263,216"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="ParameterChangeListener" alt="" coords="311,5,473,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="321,56,464,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="325,120,459,159"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::VST3Editor\l::valueChanged" alt="" coords="325,184,459,223"/>
+</map>

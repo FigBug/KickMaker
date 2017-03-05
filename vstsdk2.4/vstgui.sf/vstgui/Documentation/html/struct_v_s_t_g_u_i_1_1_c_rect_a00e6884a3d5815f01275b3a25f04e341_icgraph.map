@@ -1,0 +1,5 @@
+<map id="getCenter" name="getCenter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="127,5,283,45"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#abf7d4df19f6c245f053ce9112af78a81" title="moves this rect to the center of r " alt="" coords="162,70,249,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="331,63,503,102"/>
+</map>

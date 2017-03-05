@@ -1,0 +1,15 @@
+<map id="CVuMeter" name="CVuMeter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a02f59ce1519a7ca40d77915ab583917d" title="setDecreaseStepValue" alt="" coords="148,20,291,46"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a39a8af7b783c40b2cb0186a463b19ada" title="setOnBitmap" alt="" coords="174,69,265,95"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a018a6ce1a4573aadc28acb40a8ad1a5f" title="setOffBitmap" alt="" coords="174,119,265,144"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#a64f9a979179ef477a40cdef10243a03d" title="enable/disable onIdle() callback " alt="" coords="128,208,311,234"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="359,29,553,55"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="601,5,811,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="629,55,783,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="859,107,1032,132"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1080,157,1250,183"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="384,80,528,119"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="384,144,528,183"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="634,105,778,145"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a86713586f8b116e72a385e1deb193a57" title="returns if the view wants idle callback or not " alt="" coords="374,259,538,284"/>
+</map>

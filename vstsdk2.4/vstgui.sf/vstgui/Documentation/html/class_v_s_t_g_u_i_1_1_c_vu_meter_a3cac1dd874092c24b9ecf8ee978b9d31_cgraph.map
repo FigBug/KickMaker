@@ -1,0 +1,12 @@
+<map id="~CVuMeter" name="~CVuMeter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a39a8af7b783c40b2cb0186a463b19ada" title="setOnBitmap" alt="" coords="135,59,226,84"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a018a6ce1a4573aadc28acb40a8ad1a5f" title="setOffBitmap" alt="" coords="135,112,226,138"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="274,55,468,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="516,5,726,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="544,55,698,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="774,55,947,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="995,55,1165,80"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="299,105,443,145"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="299,169,443,209"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="549,105,693,145"/>
+</map>

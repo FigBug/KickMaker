@@ -1,0 +1,12 @@
+<map id="onViewRemoved" name="onViewRemoved">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="191,5,353,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#aacadd5b863ee566de5c42065dba9d76e" title="getParameterChangeListener" alt="" coords="182,55,361,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#acb8988eff7a2c73a5676e15c9898c18f" title="VSTGUI::ParameterChangeListener\l::removeControl" alt="" coords="165,105,379,145"/>
+<area shape="rect" id="node7" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="188,233,355,259"/>
+<area shape="rect" id="node10" href="$namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html#ae472a69c55a02a1b55a04c36ed746dd6" title="VSTGUI::VST3EditorInternal\l::releaseSubController" alt="" coords="185,169,359,209"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#ae0cd41adfb11745650b23cfff1dde454" title="remove an attribute " alt="" coords="173,283,371,308"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="451,125,594,165"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="666,125,810,165"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="435,208,610,234"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="427,257,618,283"/>
+</map>

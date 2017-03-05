@@ -1,0 +1,6 @@
+<map id="TimingFunctionBase" name="TimingFunctionBase">
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html" title="InterpolationTimingFunction" alt="" coords="5,153,174,179"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_animation_1_1_linear_timing_function.html" title="LinearTimingFunction" alt="" coords="198,153,334,179"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_animation_1_1_power_timing_function.html" title="PowerTimingFunction" alt="" coords="357,153,494,179"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_animation_1_1_i_timing_function.html" title="Animation timing function interface. " alt="" coords="213,5,319,31"/>
+</map>

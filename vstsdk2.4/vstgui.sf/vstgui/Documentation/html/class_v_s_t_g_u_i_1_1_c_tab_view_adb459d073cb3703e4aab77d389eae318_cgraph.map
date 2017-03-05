@@ -1,0 +1,11 @@
+<map id="~CTabView" name="~CTabView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a65edca6a139f6562e1a80ba597bb7aa9" title="remove all tabs " alt="" coords="157,120,257,146"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="135,171,279,210"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a6e5b4c3e7d371c88ef8b9004a280ca35" title="setCurrentChild" alt="" coords="545,120,650,146"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#aa94e28af6958f376e147c4b0c631bf00" title="remove a tab " alt="" coords="358,70,439,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9fe6dbf0da28849e9e2048cc22e0e97a" title="remove a child view " alt="" coords="725,56,885,96"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="725,184,885,224"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="725,120,885,160"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a31f6322a456fd50f52f1ac3112856976" title="get the child view at index " alt="" coords="518,5,677,45"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="327,171,470,210"/>
+</map>

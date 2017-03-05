@@ -1,0 +1,10 @@
+<map id="IMultiBitmapControl" name="IMultiBitmapControl">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html" title="a bitmap knob control " alt="" coords="196,5,282,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html" title="CAutoAnimation" alt="" coords="185,55,293,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html" title="a horizontal switch control " alt="" coords="179,104,299,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html" title="CKickButton" alt="" coords="195,153,283,179"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html" title="a bitmap view that displays different bitmaps according to its current value " alt="" coords="189,203,289,228"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html" title="a bi&#45;states button with 2 subbitmaps " alt="" coords="191,252,287,278"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html" title="a switch control with 3 sub bitmaps " alt="" coords="187,301,291,327"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html" title="a vertical switch control " alt="" coords="187,351,291,376"/>
+</map>

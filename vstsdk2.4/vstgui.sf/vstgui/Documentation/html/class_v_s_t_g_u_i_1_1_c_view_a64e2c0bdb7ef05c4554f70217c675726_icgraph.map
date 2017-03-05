@@ -1,0 +1,7 @@
+<map id="hitTest" name="hitTest">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="113,12,316,38"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a64e2c0bdb7ef05c4554f70217c675726" title="check if where hits this view " alt="" coords="137,63,293,102"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="109,127,320,153"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a507648489acc6bca8cec757b94f1256d" title="VSTGUI::CFrame::platform\lOnMouseDown" alt="" coords="388,5,554,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="368,127,574,153"/>
+</map>

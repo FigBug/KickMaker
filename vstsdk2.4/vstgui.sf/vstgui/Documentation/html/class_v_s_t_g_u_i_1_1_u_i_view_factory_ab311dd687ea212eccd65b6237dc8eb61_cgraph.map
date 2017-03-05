@@ -1,0 +1,9 @@
+<map id="applyCustomViewAttributeValues" name="applyCustomViewAttributeValues">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i.html#ae434d8db1dbb70e1ac02abfc227f3c76" title="VSTGUI::getCreatorRegistry" alt="" coords="228,5,401,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_view_creator_registry.html#a456e9326447da4f5fa892b4bc88e4605" title="VSTGUI::ViewCreatorRegistry\l::find" alt="" coords="223,56,405,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_view_creator_registry.html#a75fa10ba64b3954a6f9b55a49b3766e2" title="VSTGUI::ViewCreatorRegistry::end" alt="" coords="461,87,670,112"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1fe53948e356f854b091b1cd35c512db" title="set an attribute " alt="" coords="227,171,401,196"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_view_factory.html#ae8f98a5b61edf8478725bd924b6f7386" title="evaluateAttributesAndRemember" alt="" coords="215,220,413,246"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_u_i_description.html#a7a2b19358c2e79b79c065087391307a5" title="VSTGUI::IUIDescription\l::getVariable" alt="" coords="492,160,640,199"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a6080c68ac82148bc668e9218b1d39854" title="VSTGUI::UIAttributes\l::setAttribute" alt="" coords="498,224,634,263"/>
+</map>

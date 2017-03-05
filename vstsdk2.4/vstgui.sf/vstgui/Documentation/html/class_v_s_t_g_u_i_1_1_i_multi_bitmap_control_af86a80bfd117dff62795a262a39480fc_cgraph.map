@@ -1,0 +1,4 @@
+<map id="autoComputeHeightOfOneImage" name="autoComputeHeightOfOneImage">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="250,5,430,31"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="258,55,422,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="createSubController" name="createSubController">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_delegation_controller.html#a4d198cacd14adaf4760d94d35edd2c09" title="VSTGUI::DelegationController\l::createSubController" alt="" coords="181,5,363,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#ad17c8f72c6bf19a6a8d873e8947a3359" title="VSTGUI::UIDescription\l::createViewFromNode" alt="" coords="200,69,345,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a868f4d7b433899a01db2c742ad09738b" title="VSTGUI::VST3Editor\l::createSubController" alt="" coords="205,133,340,173"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#acc6a9f590d7a896b92ea6b33cb6fdf44" title="VSTGUI::UIDescription\l::restoreViews" alt="" coords="411,5,556,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9b617a7d2bb805de4150cf2e65dade5d" title="VSTGUI::UIDescription\l::createView" alt="" coords="411,69,556,109"/>
+</map>

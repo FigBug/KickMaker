@@ -1,0 +1,4 @@
+<map id="hideTooltip" name="hideTooltip">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="146,5,302,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="VSTGUI::CFrame::getPlatform\lFrame" alt="" coords="132,69,316,109"/>
+</map>

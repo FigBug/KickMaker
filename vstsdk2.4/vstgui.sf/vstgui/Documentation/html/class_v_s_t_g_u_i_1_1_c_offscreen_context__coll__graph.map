@@ -1,0 +1,8 @@
+<map id="COffscreenContext" name="COffscreenContext">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html" title="A drawing context encapsulates the drawing context of the underlying OS. " alt="" coords="23,181,122,206"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,5,97,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_string.html" title="a string holder class " alt="" coords="21,93,82,119"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html" title="Encapsulates various platform depended kinds of bitmaps. " alt="" coords="207,93,274,119"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="127,93,181,119"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="170,5,311,31"/>
+</map>

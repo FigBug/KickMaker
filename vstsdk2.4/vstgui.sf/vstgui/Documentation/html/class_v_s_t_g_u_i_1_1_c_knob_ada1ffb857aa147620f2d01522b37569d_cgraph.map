@@ -1,0 +1,13 @@
+<map id="setViewSize" name="setViewSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="140,146,319,171"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a4993c97a669fa259c6574a18d547c117" title="compute" alt="" coords="196,219,263,245"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="389,70,536,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="610,120,764,146"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="367,171,558,197"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="391,220,534,246"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="394,5,532,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="816,95,988,121"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1036,95,1206,121"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="379,270,546,295"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_control.html#afc823b522376ef0a986cf37be77704d5" title="VSTGUI::CControl::setOld\lValue" alt="" coords="606,263,768,302"/>
+</map>

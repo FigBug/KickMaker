@@ -1,0 +1,10 @@
+<map id="setViewSize" name="setViewSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="140,5,319,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="149,55,310,80"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="369,80,529,106"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="147,156,312,182"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="367,181,531,207"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa1e0c964c376f3db586701d54fcf58ec" title="set views size " alt="" coords="150,257,309,297"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#a34b47c35a9d741b872eec12db613d23d" title="invalidateShadow" alt="" coords="172,321,287,347"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="370,314,529,354"/>
+</map>

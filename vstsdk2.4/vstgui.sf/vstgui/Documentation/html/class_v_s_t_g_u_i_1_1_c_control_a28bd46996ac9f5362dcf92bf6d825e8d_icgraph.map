@@ -1,0 +1,29 @@
+<map id="bounceValue" name="bounceValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="175,133,314,173"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a5e05f9d623fcd2bf32e2dc92cffc7384" title="setMin" alt="" coords="216,402,273,427"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_control.html#a00e616bc3ffaba361c613af072df8864" title="setMax" alt="" coords="215,498,275,523"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="144,547,345,573"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="180,597,309,637"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad69f12c2e8328208ba0f58b845a04ecf" title="set scrollview to show rect " alt="" coords="176,197,313,237"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a9080c8b02304886c8dbd9ccd4216a347" title="VSTGUI::CScrollView\l::resetScrollOffset" alt="" coords="176,661,313,701"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="165,726,324,751"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a0b6b12d61cfa8438b6a71497d2901194" title="VSTGUI::CAutoAnimation\l::CAutoAnimation" alt="" coords="412,491,571,530"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="1100,305,1251,345"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a5664c9617ae5cec35626edd388f9d724" title="VSTGUI::CKnob::setMin" alt="" coords="416,262,567,287"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html#a6b635daac807f3f8318f62008b5a54b0" title="VSTGUI::CSpecialDigit\l::CSpecialDigit" alt="" coords="419,363,564,402"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de" title="VSTGUI::CRockerSwitch\l::CRockerSwitch" alt="" coords="414,427,569,466"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a641d8bf24f6db83d5a124783e4a71fdd" title="VSTGUI::CKnob::setMax" alt="" coords="414,655,569,681"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ab64ef94f7a9dc8a13f3f0815f0c99cca" title="VSTGUI::CXYPad::CXYPad" alt="" coords="406,606,577,631"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_knob.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="393,704,589,730"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="423,755,560,794"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a40456bf67a2cbb0eaa5bdb3897e8c0b8" title="scrolls the scrollview so that row is visible " alt="" coords="416,69,567,109"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#af132c21a2b263d779de2ed53b400da22" title="starts a text edit for a cell " alt="" coords="416,133,567,173"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="423,197,560,237"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ab34f0a4b957ee62e17d92fb5fec75fcb" title="set the exclusive selected row " alt="" coords="637,69,788,109"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="637,133,788,173"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a09c4b9d260f2175013dfcbff42c23229" title="add row to selection " alt="" coords="869,101,1019,141"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a8d3d20437b7b1debc1262c465d2152c7" title="VSTGUI::GenericStringList\lDataBrowserSource::dbOnKeyDown" alt="" coords="836,165,1052,205"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="VSTGUI::CFontChooser\l::setFont" alt="" coords="869,37,1019,77"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="1100,69,1251,109"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a8c01d3a1a60646c5ed48d5168c656852" title="VSTGUI::CFontChooser\l::dbSelectionChanged" alt="" coords="1100,5,1251,45"/>
+</map>

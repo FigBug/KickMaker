@@ -1,0 +1,11 @@
+<map id="getVisibleViewSize" name="getVisibleViewSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CControl::getFocusPath" alt="" coords="177,37,377,63"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="176,120,378,159"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af68c2c59b58f0c8f010834bb0f959a9a" title="VSTGUI::CLayeredViewContainer\l::drawViewLayer" alt="" coords="176,184,378,223"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac6723d734158ef4548dbd9dd3b24732f" title="VSTGUI::CTextEdit::\lplatformGetVisibleSize" alt="" coords="206,248,348,287"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CKnob::getFocusPath" alt="" coords="435,5,625,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="428,56,631,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="426,120,633,159"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="428,184,631,223"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="428,248,631,287"/>
+</map>

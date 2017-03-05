@@ -1,0 +1,4 @@
+<map id="createPlatformTextEdit" name="createPlatformTextEdit">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#af199268157650ebc6dd9248a0ca04550" title="called if view should take focus " alt="" coords="195,5,272,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="320,5,421,31"/>
+</map>

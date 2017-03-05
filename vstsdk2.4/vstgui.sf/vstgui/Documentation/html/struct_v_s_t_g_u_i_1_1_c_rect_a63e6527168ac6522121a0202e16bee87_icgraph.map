@@ -1,0 +1,17 @@
+<map id="normalize" name="normalize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab931fd1815af542997697960629d87f3" title="VSTGUI::CGraphicsPath\l::addRoundRect" alt="" coords="127,124,281,164"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="131,188,276,214"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CTextButton\l::getFocusPath" alt="" coords="357,28,495,68"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#aae150cd1619e66491930247a9092ce60" title="create a rect with round corners as graphics path, you need to forget it after usage ..." alt="" coords="329,92,523,132"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CParamDisplay\l::getFocusPath" alt="" coords="348,156,504,196"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CSegmentButton\l::getFocusPath" alt="" coords="344,220,508,260"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae16576aafd35486dfdf5b01ff38e1bda" title="VSTGUI::CTextButton\l::getPath" alt="" coords="580,13,718,53"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_gradient_view.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="572,92,725,132"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a6f6b17c0e76994fd79b3dd92a923b466" title="VSTGUI::CParamDisplay\l::drawBack" alt="" coords="571,184,727,224"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="784,5,922,45"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="780,69,926,109"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="775,133,931,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="979,227,1136,253"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="787,248,919,288"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="777,312,929,338"/>
+</map>

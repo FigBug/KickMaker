@@ -1,0 +1,6 @@
+<map id="invalidRect" name="invalidRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a06f95810c41ece7935389ff864b71d1a" title="invalidates an individual cell " alt="" coords="159,5,310,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="133,69,336,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="384,69,586,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="634,69,837,109"/>
+</map>

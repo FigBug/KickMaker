@@ -1,0 +1,5 @@
+<map id="getTextInset" name="getTextInset">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a981b87ea2cd0d244c538e102fdcde7b1" title="VSTGUI::CTextEdit::\lplatformGetTextInset" alt="" coords="140,5,272,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="139,69,272,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="320,69,471,109"/>
+</map>

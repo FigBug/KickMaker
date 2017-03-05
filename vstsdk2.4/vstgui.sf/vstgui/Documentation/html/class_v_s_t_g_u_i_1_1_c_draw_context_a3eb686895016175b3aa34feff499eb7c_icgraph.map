@@ -1,0 +1,9 @@
+<map id="setClipRect" name="setClipRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="241,5,279,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a530199c9ce307c3c7aa37e8f7acd75fb" title="called if the view should draw itself " alt="" coords="173,55,347,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="182,105,338,145"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="178,169,342,209"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a73195afa396240ad593e6a07dc412528" title="draw the background " alt="" coords="136,233,384,259"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="441,27,589,52"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a13531c5a9bf691d4ec9a71fee3fda3df" title="VSTGUI::CFrame::platform\lDrawRect" alt="" coords="432,77,598,117"/>
+</map>

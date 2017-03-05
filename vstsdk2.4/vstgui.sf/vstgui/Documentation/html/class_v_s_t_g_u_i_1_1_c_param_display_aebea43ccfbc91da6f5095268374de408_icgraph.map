@@ -1,0 +1,17 @@
+<map id="drawStyleChanged" name="drawStyleChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#ade43dd17e915ee6df8b0c96b3fde4954" title="setStyle" alt="" coords="211,12,275,38"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a760ea0bc573e850b684da311ab3f25ae" title="setPrecision" alt="" coords="200,62,287,87"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a9c063ae13696f9d0a2abd7979c1debe6" title="setFont" alt="" coords="213,111,274,137"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aeaf6af4b5d771d43a2692ea3e1ef5342" title="setFontColor" alt="" coords="198,160,288,186"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a40330e605721feb6290ede56c0dd4657" title="setBackColor" alt="" coords="197,210,290,235"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#abb0048dae5ffaf30e9350d81b263c4be" title="setFrameColor" alt="" coords="193,259,294,285"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a0da2921daab737ff234d0be636a917b6" title="setShadowColor" alt="" coords="189,308,298,334"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#ab196e12537327bff0009e8d2db382599" title="setHoriAlign" alt="" coords="200,358,286,383"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a2cc4427ed48bddbe5d067f113b28ebdb" title="setTextInset" alt="" coords="201,407,286,433"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a683464985c732c82175f0acfadcaa541" title="setTextRotation" alt="" coords="191,456,295,482"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a3984c01d05fab15e51af55325f5f919b" title="setRoundRectRadius" alt="" coords="176,506,311,531"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#ae9260a021d412d1447e27ed58ce0322d" title="setFrameWidth" alt="" coords="192,555,295,581"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#aebea43ccfbc91da6f5095268374de408" title="VSTGUI::CTextLabel\l::drawStyleChanged" alt="" coords="177,605,310,645"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="367,5,501,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="359,153,510,193"/>
+</map>

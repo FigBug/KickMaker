@@ -1,0 +1,5 @@
+<map id="setSize" name="setSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af9620c5c8b5fea506df5242bc5b8b1ea" title="operator=" alt="" coords="162,5,235,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CFontChooser\l::valueChanged" alt="" coords="123,56,274,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a66062c09de8cab0326f8374f6d2b5b2e" title="call this after the tabs are added. Tabs added after this call will have the default font style..." alt="" coords="114,120,283,159"/>
+</map>

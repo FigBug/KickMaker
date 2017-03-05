@@ -1,0 +1,9 @@
+<map id="removed" name="removed">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#afc90095708948ed7f4a2201baaca0133" title="storeViewSizes" alt="" coords="149,60,253,86"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a6e6ca5f3ecb10d888379cf19c29dd604" title="view is removed from parent view " alt="" coords="121,110,281,150"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i.html#ab01255256715bd463ffb966ca28bc60c" title="VSTGUI::getSplitViewController" alt="" coords="329,31,519,56"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_split_view_controller.html#a3cbf3519cc4093ffc0adc1f21cb07403" title="VSTGUI::ISplitViewController\l::storeViewSize" alt="" coords="335,81,512,121"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="567,31,734,56"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="790,5,966,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="782,55,974,80"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="getFocusView" name="getFocusView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="173,5,324,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a2764a494bfbadf5fd5bf3fead287d4d2" title="VSTGUI::GenericStringList\lDataBrowserSource::dbDrawCell" alt="" coords="150,69,347,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa5f22633746119816576e24fa9698978" title="called when the platform view/window is activated/deactivated " alt="" coords="210,134,287,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a4f4bb4ba2aa2b7a347f9de2c3da1a265" title="pops up menu at frameLocation " alt="" coords="175,184,322,224"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae32a34c72cf4bcd0fb350b1a54929d37" title="platformOnActivate" alt="" coords="395,134,519,159"/>
+</map>

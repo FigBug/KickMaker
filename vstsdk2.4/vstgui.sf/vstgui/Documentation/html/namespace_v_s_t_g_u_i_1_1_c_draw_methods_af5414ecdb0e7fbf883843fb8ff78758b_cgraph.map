@@ -1,0 +1,10 @@
+<map id="createTruncatedText" name="createTruncatedText">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af97b831edbd57148720d11f0aeacd378" title="VSTGUI::CFontDesc::\lgetPlatformFont" alt="" coords="224,5,363,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#ad4cb7844d8ca30afe9f9f483dd7761ec" title="VSTGUI::UTF8String\l::getPlatformString" alt="" coords="227,69,361,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a03dc55107bee72cd1fccd0fa44d9d211" title="VSTGUI::UTF8CharacterIterator::end" alt="" coords="184,134,404,159"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a15f1c80f5a4c7043d485c56916e07d85" title="VSTGUI::UTF8CharacterIterator\l::front" alt="" coords="197,184,390,224"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#ade2221adf6e7b993124a882b984d4564" title="VSTGUI::UTF8CharacterIterator\l::getByteLength" alt="" coords="197,248,390,288"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_u_t_f8_character_iterator.html#a0bb7394b3cd98cdf7b65bd5105121109" title="VSTGUI::UTF8CharacterIterator\l::back" alt="" coords="452,276,645,316"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#aa1cd19a5c26cb67e82216ddacf6e87db" title="VSTGUI::UTF8String::set" alt="" coords="215,363,372,389"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="494,76,602,102"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="platformGetVisibleSize" name="platformGetVisibleSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="VSTGUI::CView::translate\lToGlobal" alt="" coords="199,152,359,191"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a53c47f5a0cddd21e71f53237879112da" title="returns the visible size of the view " alt="" coords="196,216,361,255"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="419,120,584,159"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="409,184,593,223"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="641,5,833,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="657,56,816,95"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a5235ece1301b85093760b1bd924c754d" title="VSTGUI::CGraphicsTransform\l::translate" alt="" coords="645,120,829,159"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="647,184,827,210"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8283a5bcb281e300d94ac274dd79c4bb" title="VSTGUI::CRect::getTopLeft" alt="" coords="652,233,821,259"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="881,120,1064,159"/>
+</map>

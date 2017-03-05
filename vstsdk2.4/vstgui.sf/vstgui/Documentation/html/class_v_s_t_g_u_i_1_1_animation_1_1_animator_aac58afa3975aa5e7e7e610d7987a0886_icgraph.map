@@ -1,0 +1,8 @@
+<map id="removeAnimations" name="removeAnimations">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a062fdd8e28c1cbaeffa9e5ce6ca8f5ec" title="VSTGUI::CFrame::onViewRemoved" alt="" coords="174,76,387,102"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2e2b03fdb07587b7595e7e9343312309" title="VSTGUI::CView::removeAll\lAnimations" alt="" coords="197,127,364,166"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="435,76,596,102"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="653,5,791,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="646,69,798,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="644,133,800,173"/>
+</map>

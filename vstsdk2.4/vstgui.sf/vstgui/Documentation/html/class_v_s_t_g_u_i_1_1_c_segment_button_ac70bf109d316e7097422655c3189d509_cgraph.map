@@ -1,0 +1,6 @@
+<map id="getSelectedSegment" name="getSelectedSegment">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a32320fc5e467ce8e8c96278099957190" title="VSTGUI::CControl::getValue\lNormalized" alt="" coords="186,22,359,62"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="636,5,798,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#a915896492f6bd2608f80ca2f0a440562" title="VSTGUI::CControl::getRange" alt="" coords="407,55,586,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="634,55,800,80"/>
+</map>

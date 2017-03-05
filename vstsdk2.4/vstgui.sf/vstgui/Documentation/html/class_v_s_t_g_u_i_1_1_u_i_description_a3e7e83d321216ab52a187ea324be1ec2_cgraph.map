@@ -1,0 +1,12 @@
+<map id="removeBitmap" name="removeBitmap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9099af4e8c5d7e655d795a4a9bec77ed" title="removeNode" alt="" coords="152,55,242,80"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2b0f673945c12c2dbf13ecdb4d768bf1" title="getBaseNode" alt="" coords="327,5,421,31"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i.html#af20780ef1db88e5cf927d05315affa37" title="VSTGUI::removeChildNode" alt="" coords="290,55,459,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="303,105,446,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="507,41,650,81"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="507,105,650,145"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="507,169,650,209"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="698,41,842,81"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="698,169,842,209"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="890,169,1033,209"/>
+</map>

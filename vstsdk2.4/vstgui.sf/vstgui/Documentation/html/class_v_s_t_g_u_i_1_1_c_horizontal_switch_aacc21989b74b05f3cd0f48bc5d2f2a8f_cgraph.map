@@ -1,0 +1,13 @@
+<map id="CHorizontalSwitch" name="CHorizontalSwitch">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="191,20,351,46"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a9b7d3f338ca58886e0c5f67117a32545" title="setNumSubPixmaps" alt="" coords="206,70,336,95"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the image " alt="" coords="184,119,357,145"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_control.html#ab0a86d7bf52dfe443ffaac0eed284bd5" title="VSTGUI::CControl::setDefault\lValue" alt="" coords="180,169,361,209"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7c938477f787fe59b0eacb147a8c03a5" title="set focus support on/off " alt="" coords="173,234,369,259"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#af4dd45b8bb9a650a255ab8d493edb3c6" title="VSTGUI::IMultiBitmapControl\l::setNumSubPixmaps" alt="" coords="421,5,599,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="436,70,584,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="651,44,806,70"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="854,70,1026,95"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1074,70,1244,95"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="417,120,603,160"/>
+</map>

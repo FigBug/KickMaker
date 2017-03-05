@@ -1,0 +1,5 @@
+<map id="getSize" name="getSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ae0d5097e4d7760976a65fd899f35e5d8" title="VSTGUI::VST3Editor\l::setEditorSizeConstrains" alt="" coords="115,5,271,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#abf898f8656c79eab02575890f403927c" title="VSTGUI::VST3Editor\l::beforeSizeChange" alt="" coords="126,69,260,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#adc6f5ff1905880e55cca7c619379d06e" title="VSTGUI::VST3Editor\l::onSize" alt="" coords="126,133,260,173"/>
+</map>

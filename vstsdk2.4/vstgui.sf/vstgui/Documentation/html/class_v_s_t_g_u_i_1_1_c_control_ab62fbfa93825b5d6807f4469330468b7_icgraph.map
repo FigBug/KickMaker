@@ -1,0 +1,11 @@
+<map id="setValueNormalized" name="setValueNormalized">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="191,5,355,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="182,55,363,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#a0fc315c668379e2e13430f79715dfcc8" title="VSTGUI::CSegmentButton\l::setSelectedSegment" alt="" coords="191,105,355,145"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_slider.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="189,169,357,209"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_slider.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="190,233,356,259"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_slider.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="181,283,365,308"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="430,45,594,85"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="430,109,594,149"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_slider.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="413,176,611,202"/>
+</map>

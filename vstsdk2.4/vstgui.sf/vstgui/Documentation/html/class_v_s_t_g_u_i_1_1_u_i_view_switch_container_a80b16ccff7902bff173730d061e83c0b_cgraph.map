@@ -1,0 +1,5 @@
+<map id="attached" name="attached">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a346862a374e9b89e0ca2ceb05028f4e2" title="view is attached to a parent view " alt="" coords="136,5,295,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#acfef7ab75b0b59f29edb89e2e16c513f" title="remove all child views " alt="" coords="136,69,295,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_view_switch_controller.html#ad24b73136880d2b656b67a244df83c8d" title="VSTGUI::IViewSwitchController\l::switchContainerAttached" alt="" coords="121,133,310,173"/>
+</map>

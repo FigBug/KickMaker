@@ -1,0 +1,8 @@
+<map id="~CNewFileSelector" name="~CNewFileSelector">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of file selector " alt="" coords="215,26,275,52"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="389,26,520,52"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#ab41f599b1a51e1f384637f21a7770cc0" title="set initial directory (UTF8 string) " alt="" coords="188,75,302,101"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a8a6ffb70c424c6e5c03264c31ce366e3" title="set initial save name (UTF8 string) " alt="" coords="178,124,312,150"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="360,75,548,101"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="596,68,756,108"/>
+</map>

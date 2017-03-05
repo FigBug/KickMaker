@@ -1,0 +1,5 @@
+<map id="setMax" name="setMax">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a28bd46996ac9f5362dcf92bf6d825e8d" title="bounceValue" alt="" coords="113,31,204,56"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="getMax" alt="" coords="252,5,313,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="getMin" alt="" coords="254,55,311,80"/>
+</map>

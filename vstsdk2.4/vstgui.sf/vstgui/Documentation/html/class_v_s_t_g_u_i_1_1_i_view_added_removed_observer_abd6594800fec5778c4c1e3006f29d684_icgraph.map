@@ -1,0 +1,9 @@
+<map id="onViewAdded" name="onViewAdded">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a736d9acf1c3f5e81925cd1e49945682b" title="VSTGUI::CFrame::onViewAdded" alt="" coords="149,63,345,88"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="393,63,553,88"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="601,5,770,31"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="609,56,761,95"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="603,120,767,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5a0cd6b1b28a807a5b6bcf1a1ad8cff8" title="VSTGUI::CFrame::open" alt="" coords="818,5,967,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a13958c1a3cae051f6bd425bd39af21bc" title="VSTGUI::CFrame::CFrame" alt="" coords="1015,5,1181,31"/>
+</map>

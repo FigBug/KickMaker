@@ -1,0 +1,45 @@
+<map id="inset" name="inset">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="114,5,283,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="377,76,515,115"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CTextButton\l::getFocusPath" alt="" coords="130,170,268,210"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ae16576aafd35486dfdf5b01ff38e1bda" title="VSTGUI::CTextButton\l::getPath" alt="" coords="130,106,268,146"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a2764a494bfbadf5fd5bf3fead287d4d2" title="VSTGUI::GenericStringList\lDataBrowserSource::dbDrawCell" alt="" coords="100,234,297,274"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_gradient_view.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="122,298,275,338"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CKnob::getFocusPath" alt="" coords="594,223,784,248"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_knob.html#abe4b5425b2299465af3402b2a0fa5bb6" title="VSTGUI::CKnob::drawCorona\lOutline" alt="" coords="355,865,536,905"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a19d6ccb3f15df14fff47d42a80c40c4a" title="VSTGUI::CKnob::drawCorona" alt="" coords="355,929,536,955"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CParamDisplay\l::getFocusPath" alt="" coords="368,216,524,255"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a6f6b17c0e76994fd79b3dd92a923b466" title="VSTGUI::CParamDisplay\l::drawBack" alt="" coords="121,565,277,605"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aca4ad9ea1bcf86e78c59c65dc8062b7f" title="VSTGUI::CParamDisplay\l::drawPlatformText" alt="" coords="121,730,277,770"/>
+<area shape="rect" id="node20" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ac8a3adf41d502477036a5257e0eacad4" title="extend" alt="" coords="170,464,227,490"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CSegmentButton\l::getFocusPath" alt="" coords="364,508,528,547"/>
+<area shape="rect" id="node26" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aa66513a53b8235fb41b1b03ed847aa26" title="inset" alt="" coords="175,795,222,820"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a908b80e01bc16854755cee316f41b751" title="VSTGUI::CScrollbar\l::CScrollbar" alt="" coords="134,845,263,885"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a943751763fe1c3e3a6a6da8e0f6c4daf" title="set views size " alt="" coords="134,909,263,949"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#abe8cbffc7cff7c218cd112b6d53612df" title="called if the view should draw itself " alt="" coords="117,973,281,1013"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a4d1b0aba91a42c8790d16724fd1cf08e" title="called if the view should draw itself " alt="" coords="126,1037,271,1063"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a46de4a0e792d62d276a7f515d3d25345" title="the size of one tab " alt="" coords="114,1088,283,1127"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="618,868,760,894"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="372,801,519,841"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="368,737,524,777"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="611,659,768,684"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="379,622,512,662"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="370,572,521,598"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CCheckBox::\lgetFocusPath" alt="" coords="374,380,517,419"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CControl::getFocusPath" alt="" coords="345,280,546,306"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a909d81efaadf43eafdbb35e862f372c1" title="VSTGUI::CKnob::drawHandle\lAsCircle" alt="" coords="356,444,536,483"/>
+<area shape="rect" id="node24" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ace0d541b4b34202332454b715948d772" title="extend" alt="" coords="417,329,474,355"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a0c6d1dd9bc1cbe653d7eacaf4362e06e" title="VSTGUI::CScrollView\l::recalculateSubViews" alt="" coords="376,982,515,1022"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a0c6d1dd9bc1cbe653d7eacaf4362e06e" title="VSTGUI::CDataBrowser\l::recalculateSubViews" alt="" coords="614,982,765,1022"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a921dad1b65204e0e6c501e64b83dcc02" title="VSTGUI::CScrollView\l::setStyle" alt="" coords="621,1046,758,1086"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#acbd5b76dbb00098b28f173f7f0276312" title="VSTGUI::CScrollView\l::setScrollbarWidth" alt="" coords="621,1110,758,1150"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a76a87a4f5faa6bd93a3503c31225d654" title="set the virtual size of this container " alt="" coords="621,918,758,958"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="832,950,983,990"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="839,886,976,926"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="1056,886,1207,926"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="1056,950,1207,990"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a65aa599f5c20dcb98d48e49ef5114946" title="VSTGUI::GenericStringList\lDataBrowserSource::setStringList" alt="" coords="1031,1014,1232,1054"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a721c0ed5144b9f9d50e5dc7fe4976492" title="VSTGUI::GenericStringList\lDataBrowserSource::setupUI" alt="" coords="1043,1078,1220,1118"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="1280,1078,1431,1118"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a2f003c7e0d23c7d77eafc0f601a047a6" title="add a tab " alt="" coords="360,1095,532,1120"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="addRect" name="addRect">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="119,31,301,56"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adccf8c195f686e93c923333b54eace87" title="scroll src rect by distance " alt="" coords="349,5,524,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="358,55,515,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#acd95b7a4f72bc2f26ec1b08904fd3df1" title="set zoom factor " alt="" coords="572,55,741,80"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="setWidth" name="setWidth">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_on_off_button.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="147,43,294,83"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="151,107,290,147"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="149,171,292,211"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#ae25271b6e9cac9c3e21437c10ec491d8" title="called if the view should draw itself " alt="" coords="136,235,305,261"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#aa8a6771777fd78c1a26ac13fc1fe12f1" title="VSTGUI::CCheckBox::\lgetFocusPath" alt="" coords="149,286,292,325"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_color_chooser.html#a08ea01bf536b537de1f422f080417f61" title="VSTGUI::CColorChooser\l::CColorChooser" alt="" coords="143,350,298,389"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CDataBrowser\l::valueChanged" alt="" coords="145,414,296,453"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="145,478,296,517"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad0edc6d88e85109ad3bc7c1a7f64f59a" title="get bounds of a cell " alt="" coords="145,657,296,696"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a07e13b92a6da8f440f5688cfedc1686d" title="VSTGUI::CDrawContext\l::fillRectWithBitmap" alt="" coords="145,542,296,581"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae4d90a923646982d5b9bff95b46be728" title="VSTGUI::CFrame::setSize" alt="" coords="139,606,302,632"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="139,721,302,747"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="149,771,292,811"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="145,835,296,875"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="146,899,295,939"/>
+<area shape="rect" id="node31" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a913f07f0c2d6eba8f1bc5fc4d090c4a4" title="setSize" alt="" coords="190,1027,251,1053"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#ae7c563dcda3ecdb30511be705b188314" title="VSTGUI::CRowColumnView\l::layoutViewsEqualSize" alt="" coords="134,1142,307,1181"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="134,1078,307,1117"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#aa9165be4418d8005715d067fcefca4a4" title="VSTGUI::CScrollbar\l::getScrollerRect" alt="" coords="156,1206,285,1245"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad69f12c2e8328208ba0f58b845a04ecf" title="set scrollview to show rect " alt="" coords="152,963,289,1003"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="137,1270,304,1296"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="135,1321,306,1360"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d" title="set the width of the separators " alt="" coords="155,1385,286,1424"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a5bf9c24c3fa1c7b4596596d29e0cc4ae" title="add a child view " alt="" coords="155,1449,286,1488"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="155,1513,286,1552"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="142,1577,299,1616"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="135,1641,306,1680"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="143,1705,298,1744"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="121,1769,320,1795"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="402,1541,535,1580"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="130,1870,311,1896"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#ae0d5097e4d7760976a65fd899f35e5d8" title="VSTGUI::VST3Editor\l::setEditorSizeConstrains" alt="" coords="142,1921,299,1960"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#abfd45c0dae0029fb43b093190d78bc42" title="VSTGUI::CCheckBox::\lCCheckBox" alt="" coords="621,47,764,87"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#af306f5addd56c17cafb50d1ac631548b" title="VSTGUI::CCheckBox::\lsetTitle" alt="" coords="397,47,540,87"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a8bb2d9e1362a2b8d9047b2e895f794fd" title="VSTGUI::CCheckBox::\lsetFont" alt="" coords="397,111,540,151"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="617,294,768,333"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="397,226,540,265"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a921dad1b65204e0e6c501e64b83dcc02" title="VSTGUI::CCheckBox::\lsetStyle" alt="" coords="397,290,540,329"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="393,482,544,521"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="393,546,544,585"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a65aa599f5c20dcb98d48e49ef5114946" title="VSTGUI::GenericStringList\lDataBrowserSource::setStringList" alt="" coords="368,354,569,393"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a721c0ed5144b9f9d50e5dc7fe4976492" title="VSTGUI::GenericStringList\lDataBrowserSource::setupUI" alt="" coords="380,418,557,457"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a06f95810c41ece7935389ff864b71d1a" title="invalidates an individual cell " alt="" coords="393,725,544,764"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#af132c21a2b263d779de2ed53b400da22" title="starts a text edit for a cell " alt="" coords="393,874,544,913"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a2b601330cbc20235e5769a771fab8005" title="VSTGUI::CDrawContext\l::drawBitmapNinePartTiled" alt="" coords="387,610,550,649"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_frame.html#acd95b7a4f72bc2f26ec1b08904fd3df1" title="set zoom factor " alt="" coords="384,674,553,700"/>
+<area shape="rect" id="node32" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ae65a421eb95ccf5ba79c2456125980c1" title="CRect" alt="" coords="441,1027,496,1053"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#aee750e4cb39c719d39954430dd89ad5c" title="VSTGUI::CRowColumnView\l::layoutViews" alt="" coords="382,1142,555,1181"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ab6bb41ccb6ded84439a3bee1349f21da" title="VSTGUI::CScrollbar\l::doStepping" alt="" coords="404,1206,533,1245"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="hitTest" name="hitTest">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a64e2c0bdb7ef05c4554f70217c675726" title="check if where hits this view " alt="" coords="109,55,258,80"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_point.html#abd7ec2f0cbad33b41c2758f8c7044ff1" title="VSTGUI::CPoint::offset" alt="" coords="323,5,468,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="306,55,485,80"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#adebba9af3dc339149fd4622f4d4a5bac" title="Checks if point is inside this rect. " alt="" coords="310,104,481,130"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_point.html#a95cc3c3bd97e11da6d8d056df3263c28" title="VSTGUI::CPoint::CPoint" alt="" coords="533,5,685,31"/>
+</map>

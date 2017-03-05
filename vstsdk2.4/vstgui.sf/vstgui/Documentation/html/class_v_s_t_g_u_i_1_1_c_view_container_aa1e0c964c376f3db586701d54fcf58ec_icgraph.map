@@ -1,0 +1,13 @@
+<map id="setViewSize" name="setViewSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_color_chooser.html#a08ea01bf536b537de1f422f080417f61" title="VSTGUI::CColorChooser\l::CColorChooser" alt="" coords="163,5,319,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="147,70,335,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae4d90a923646982d5b9bff95b46be728" title="VSTGUI::CFrame::setSize" alt="" coords="160,119,322,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="140,169,342,209"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="155,233,327,273"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="144,297,338,337"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="173,361,310,401"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="140,425,342,465"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="142,490,340,515"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#acd95b7a4f72bc2f26ec1b08904fd3df1" title="set zoom factor " alt="" coords="390,119,560,145"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="400,361,550,401"/>
+</map>

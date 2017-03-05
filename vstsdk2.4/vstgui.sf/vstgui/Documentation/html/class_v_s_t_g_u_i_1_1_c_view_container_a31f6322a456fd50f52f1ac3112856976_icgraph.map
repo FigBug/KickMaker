@@ -1,0 +1,20 @@
+<map id="getView" name="getView">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a0a4c38fc43ad87d5ef21f0e7361d4f25" title="remove a child view " alt="" coords="176,125,306,165"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a129ba2469954235dd9ad1eb7f9c5ca4c" title="VSTGUI::CSplitView\l::requestNewSeparatorSize" alt="" coords="157,189,325,229"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a2f003c7e0d23c7d77eafc0f601a047a6" title="add a tab " alt="" coords="155,254,327,279"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#aa94e28af6958f376e147c4b0c631bf00" title="remove a tab " alt="" coords="145,303,337,329"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a73195afa396240ad593e6a07dc412528" title="draw the background " alt="" coords="117,352,365,378"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html#ad3561a0c13cf9120d316e062da592eaa" title="VSTGUI::UIViewSwitchContainer\l::setCurrentViewIndex" alt="" coords="142,403,340,442"/>
+<area shape="rect" id="node18" href="$namespace_v_s_t_g_u_i_1_1_v_s_t3_editor_internal.html#a9e9a7f79b20c17ea8b55079004826495" title="VSTGUI::VST3EditorInternal\l::getUIDescriptionSaveOptions" alt="" coords="148,467,334,506"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d" title="set the width of the separators " alt="" coords="434,5,565,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ad6ece4580634fc04e425a521c327125d" title="VSTGUI::CSplitView\l::resizeFirstView" alt="" coords="434,69,565,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a7d515066dd3e7c3d0960c3da1502f64c" title="VSTGUI::CSplitView\l::resizeSecondView" alt="" coords="434,133,565,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a54f2ef725a3284c7cadc1cc0c7dcc527" title="VSTGUI::CSplitView\l::resizeLastView" alt="" coords="434,197,565,237"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ac98cefe207ff01ac2532c39dd3a85619" title="VSTGUI::CSplitView\l::resizeViewsEqual" alt="" coords="434,261,565,301"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="669,165,800,205"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a65edca6a139f6562e1a80ba597bb7aa9" title="remove all tabs " alt="" coords="413,325,586,365"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#adb459d073cb3703e4aab77d389eae318" title="VSTGUI::CTabView::\l~CTabView" alt="" coords="668,325,801,365"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::UIDescriptionView\lSwitchController::notify" alt="" coords="414,403,585,442"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_u_i_description_view_switch_controller.html#a93bd431f3ff3c9d4b70eb58b30219499" title="VSTGUI::UIDescriptionView\lSwitchController::switchContainer\lAttached" alt="" coords="634,396,835,449"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a686e6c3e4128af1fd656944ae498dece" title="VSTGUI::VST3Editor\l::save" alt="" coords="433,467,567,506"/>
+</map>

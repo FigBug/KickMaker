@@ -1,0 +1,28 @@
+<map id="drawPlatformText" name="drawPlatformText">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a5e5c5433a0882c009dbb80af5587b184" title="VSTGUI::CDrawContext\l::saveGlobalState" alt="" coords="184,5,335,45"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a67f221f80f18e8bc5eaf06aa6d82aace" title="VSTGUI::CRect::inset" alt="" coords="190,70,328,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a42623d0fc45883e1a9ac3fe21272a49e" title="get the current clip " alt="" coords="184,184,335,224"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="186,248,332,274"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a3eb686895016175b3aa34feff499eb7c" title="set the current clip " alt="" coords="184,120,335,160"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a00e6884a3d5815f01275b3a25f04e341" title="VSTGUI::CRect::getCenter" alt="" coords="176,298,342,323"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af09e9033bf91f6e02dc5ac68339afbba" title="VSTGUI::CGraphicsTransform\l::rotate" alt="" coords="167,348,351,388"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="184,412,335,452"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#aa88b4cee28d3836ba68eeb55cd3bdca4" title="set current font " alt="" coords="184,476,335,516"/>
+<area shape="rect" id="node21" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="188,540,330,566"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae55294dcf820a4e8367f3b7e622d8027" title="set current font color " alt="" coords="184,591,335,630"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab6f84da4fdd3ce79d6347bfb9225ae6c" title="draw an UTF&#45;8 encoded string " alt="" coords="184,655,335,694"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#afd1fd1c13b9b2831aa5dc374dfce78d3" title="VSTGUI::CDrawContext\l::restoreGlobalState" alt="" coords="184,719,335,758"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#af2f8fb0ef26ea37214d7d0dbbbbacfd2" title="VSTGUI::CDrawContext\l::getCurrentTransform" alt="" coords="415,56,566,96"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="399,184,583,224"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="399,120,583,160"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="411,248,571,274"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="409,298,573,323"/>
+<area shape="rect" id="node14" href="$namespace_v_s_t_g_u_i.html#a0c954fd7fdc04e81276fb809ca6431b8" title="VSTGUI::radians" alt="" coords="435,347,547,373"/>
+<area shape="rect" id="node15" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a6fdf66da9a43b608bc8182f500316b92" title="VSTGUI::CGraphicsTransform\l::CGraphicsTransform" alt="" coords="399,397,583,437"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a41e097ceebffe54a8ed361d006164fc6" title="get the height of the font " alt="" coords="421,461,560,501"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8258f5208a5d8e941b3018bf004e6367" title="get the style of the font " alt="" coords="421,525,560,565"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a624f67fa321bcb03a632d38161b1f216" title="VSTGUI::CFontDesc::\lnewCopy" alt="" coords="421,589,560,629"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae02f4a64e6c2b077988f56ed305ec140" title="VSTGUI::CDrawContext\l::getDrawString" alt="" coords="415,653,566,693"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae0c5f28e389dcccd7e49d8474846a016" title="VSTGUI::CDrawContext\l::clearDrawString" alt="" coords="415,717,566,757"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_string.html#a84ea5d1858d74fdd5fa820c5a3d7667a" title="VSTGUI::CString::setUTF8\lString" alt="" coords="631,685,796,725"/>
+</map>

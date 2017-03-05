@@ -1,0 +1,8 @@
+<map id="removeChildNode" name="removeChildNode">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9099af4e8c5d7e655d795a4a9bec77ed" title="VSTGUI::UIDescription\l::removeNode" alt="" coords="171,133,315,173"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a72c5eba74b1ae5ced2956cdc2103e53f" title="VSTGUI::UIDescription\l::removeColor" alt="" coords="363,5,508,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a3f8adcd729db4c5d2db6eea7d1c040d5" title="VSTGUI::UIDescription\l::removeTag" alt="" coords="363,69,508,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#acb1e4ec9e3fbd7ec549ddb5ece41d92f" title="VSTGUI::UIDescription\l::removeFont" alt="" coords="363,133,508,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a3e7e83d321216ab52a187ea324be1ec2" title="VSTGUI::UIDescription\l::removeBitmap" alt="" coords="363,197,508,237"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a14fff3a195eafae8adf84a9087e178e9" title="VSTGUI::UIDescription\l::removeGradient" alt="" coords="363,261,508,301"/>
+</map>

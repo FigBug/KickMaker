@@ -1,0 +1,4 @@
+<map id="parentSizeChanged" name="parentSizeChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1d1f34bf4a18c02d47a6ffdb9dab365a" title="notification that one of the views parent has changed its size " alt="" coords="199,5,370,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_open_g_l_view.html#a366824fabc6b6fd5c5d5662533a5ede8" title="will be called whenever the platform opengl view size has changed " alt="" coords="181,70,388,95"/>
+</map>

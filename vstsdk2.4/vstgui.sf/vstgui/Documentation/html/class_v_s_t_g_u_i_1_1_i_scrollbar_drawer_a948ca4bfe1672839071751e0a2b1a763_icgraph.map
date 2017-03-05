@@ -1,0 +1,4 @@
+<map id="drawScrollbarBackground" name="drawScrollbarBackground">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#ad9720bcb4fcd3abb228961f604bf35b3" title="VSTGUI::CScrollbar\l::drawBackground" alt="" coords="212,5,341,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a83ee48340580dff7f1796dbebe7b0a0f" title="called if the view should draw itself " alt="" coords="389,5,517,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="isCheckEntry" name="isCheckEntry">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#abbc6eea63ec689c21831932d22f8e836" title="get entry at index position " alt="" coords="183,5,249,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a934daca7df63a2b0a79da349a939adbe" title="returns whether the item is checked or not " alt="" coords="145,56,287,95"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#adee7672985693efe9c38a8897f12936d" title="get number of entries " alt="" coords="335,5,425,31"/>
+</map>

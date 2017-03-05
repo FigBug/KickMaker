@@ -1,0 +1,19 @@
+<map id="setNumSubPixmaps" name="setNumSubPixmaps">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CAutoAnimation\l::setNumSubPixmaps" alt="" coords="189,5,348,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CKickButton\l::setNumSubPixmaps" alt="" coords="199,69,338,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CAnimKnob::\lsetNumSubPixmaps" alt="" coords="197,133,340,173"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CMovieBitmap\l::setNumSubPixmaps" alt="" coords="193,197,344,237"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CMovieButton\l::setNumSubPixmaps" alt="" coords="195,261,343,301"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CVerticalSwitch\l::setNumSubPixmaps" alt="" coords="191,325,347,365"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CHorizontalSwitch\l::setNumSubPixmaps" alt="" coords="183,389,354,429"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a9b7d3f338ca58886e0c5f67117a32545" title="VSTGUI::CRockerSwitch\l::setNumSubPixmaps" alt="" coords="191,453,346,493"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html#aee94efa9f560fa95fcd47cc497e2f3d9" title="VSTGUI::CAutoAnimation\l::CAutoAnimation" alt="" coords="408,5,567,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#aa4fe339a1b1b789b191573cc9e64f595" title="VSTGUI::CAnimKnob::\lCAnimKnob" alt="" coords="416,69,559,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#aa461070209a686c8b44059191be2a3a3" title="VSTGUI::CAnimKnob::\lsetHeightOfOneImage" alt="" coords="416,133,559,173"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="416,197,559,237"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#ae39bb45e08ab3c4a4cfd51e724b876d3" title="VSTGUI::CAnimKnob::\lCAnimKnob" alt="" coords="621,133,764,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html#a7244c179c41abd395c3d78117b756b26" title="VSTGUI::CMovieBitmap\l::CMovieBitmap" alt="" coords="412,261,563,301"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#a75026ef0ac47437080e19bf3e73da18b" title="VSTGUI::CVerticalSwitch\l::CVerticalSwitch" alt="" coords="409,325,565,365"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#aacc21989b74b05f3cd0f48bc5d2f2a8f" title="VSTGUI::CHorizontalSwitch\l::CHorizontalSwitch" alt="" coords="402,389,573,429"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a38b2529c6253684c15a3ff511d78d8de" title="VSTGUI::CRockerSwitch\l::CRockerSwitch" alt="" coords="410,453,565,493"/>
+</map>

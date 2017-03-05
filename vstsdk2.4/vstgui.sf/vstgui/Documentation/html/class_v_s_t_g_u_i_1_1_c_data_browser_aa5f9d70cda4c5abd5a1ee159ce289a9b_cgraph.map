@@ -1,0 +1,6 @@
+<map id="unselectRow" name="unselectRow">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7a995c1bb7ecebecbd53378b7d32130e" title="return number of rows for CDataBrowser browser " alt="" coords="143,5,337,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad3e31421098660b2bf757372feaa2f98" title="VSTGUI::CScrollView\l::getStyle" alt="" coords="171,69,309,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a0b8554afada5a0eab8d74eefb8935436" title="VSTGUI::IDataBrowserDelegate\l::dbSelectionChanged" alt="" coords="385,152,578,192"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad204f9856847ba3780165acbe388a155" title="empty selection " alt="" coords="200,184,280,210"/>
+</map>

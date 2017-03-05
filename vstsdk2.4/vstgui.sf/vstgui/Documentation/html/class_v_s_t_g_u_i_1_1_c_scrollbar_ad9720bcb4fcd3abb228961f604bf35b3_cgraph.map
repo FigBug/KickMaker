@@ -1,0 +1,10 @@
+<map id="drawBackground" name="drawBackground">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="165,5,344,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html#a948ca4bfe1672839071751e0a2b1a763" title="VSTGUI::IScrollbarDrawer\l::drawScrollbarBackground" alt="" coords="172,56,337,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ab4bef9a3e8c1344693fc3f53a9a1b51b" title="set the current draw mode, see CDrawMode " alt="" coords="179,120,330,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a9901bb437bd3a1c196eb2f7b0d5bfa44" title="set the current line width " alt="" coords="179,184,330,223"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a500577d63c24a75702a9e4cf45dbb67c" title="set current fill color " alt="" coords="179,248,330,287"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ae44181e37622cc3aeb857617ee21f595" title="set current stroke color " alt="" coords="179,312,330,351"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#a622734e81b6fc1a89480d47fc4dc6f01" title="set the current line style " alt="" coords="179,376,330,415"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_draw_context.html#ac9c3a91724de57693bb7a353091db3bc" title="draw a rect " alt="" coords="179,440,330,479"/>
+</map>

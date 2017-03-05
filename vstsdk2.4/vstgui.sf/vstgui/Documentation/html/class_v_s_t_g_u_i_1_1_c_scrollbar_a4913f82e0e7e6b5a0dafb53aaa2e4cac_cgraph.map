@@ -1,0 +1,14 @@
+<map id="onVisualChange" name="onVisualChange">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html#a110935fdba8346f35d530ba0a82419e6" title="both values are normalized ones " alt="" coords="173,31,342,84"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad2a5962bd58b120ead1a75f7b4a7ca9a" title="VSTGUI::CView::addAnimation" alt="" coords="164,132,351,158"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a231289d0aa4c6c85931a822afab8b2bf" title="set alpha value which will be applied when drawing this view " alt="" coords="163,271,353,297"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_animation_1_1_timing_function_base.html#a67cd323fecc35d2cd8895e08f9e242e6" title="VSTGUI::Animation::\lTimingFunctionBase::\lgetLength" alt="" coords="426,5,563,59"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="412,83,577,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa7609ca92096612f85c0fa58058bd2f8" title="get animator for this frame " alt="" coords="401,132,588,158"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a42b159b8f4e793638508e7b38c88c514" title="VSTGUI::Animation::\lAnimator::addAnimation" alt="" coords="420,183,569,222"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="636,142,806,181"/>
+<area shape="rect" id="node9" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="667,206,775,232"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="408,271,581,297"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="405,320,584,346"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="636,271,806,297"/>
+</map>

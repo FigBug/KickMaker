@@ -1,0 +1,5 @@
+<map id="runModal" name="runModal">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#add1b333f09c643945f8675bdbf094595" title="VSTGUI::CFrame::onStartLocal\lEventLoop" alt="" coords="125,5,315,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_new_file_selector.html#a9e36f115f8eef9a1f13bf6e9a45fee21" title="runModalInternal" alt="" coords="164,70,275,95"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#adac116554b543b7c4228c018a85882f5" title="VSTGUI::CFrame::CollectInvalid\lRects::flush" alt="" coords="363,5,557,45"/>
+</map>

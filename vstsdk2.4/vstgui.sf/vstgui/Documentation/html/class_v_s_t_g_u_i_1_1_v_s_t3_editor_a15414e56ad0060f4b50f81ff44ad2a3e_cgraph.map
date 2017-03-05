@@ -1,0 +1,8 @@
+<map id="notify" name="notify">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#ab3bc467fd19370c7c21db264806e6712" title="VSTGUI::CCommandMenuItem\l::getCommandCategory" alt="" coords="103,5,293,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a1abd2d2a4f2077a9101c618aec2a99d1" title="VSTGUI::CCommandMenuItem\l::getCommandName" alt="" coords="103,69,293,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_i_attributes.html#a80dddbc022b66698cf7a00620efbcd88" title="VSTGUI::UIAttributes\l::getAttributeValue" alt="" coords="131,133,266,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a013814dd3b12417a8e3bc30bb5744a71" title="set menu item enabled state " alt="" coords="128,197,269,237"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a41ac8da48387a7a6516197d30e95aada" title="set menu item checked state " alt="" coords="128,261,269,301"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a77b4a7b5e759eb8150d49c4330496423" title="returns the tag of the item " alt="" coords="128,325,269,365"/>
+</map>

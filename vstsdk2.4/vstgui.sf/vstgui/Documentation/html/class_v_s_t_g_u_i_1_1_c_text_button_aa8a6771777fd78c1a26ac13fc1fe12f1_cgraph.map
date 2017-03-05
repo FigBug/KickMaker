@@ -1,0 +1,14 @@
+<map id="getFocusPath" name="getFocusPath">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="149,5,328,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="156,55,321,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adda0ad474a167c57482da0d6f6673312" title="get focus draw width " alt="" coords="153,105,325,145"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a67f221f80f18e8bc5eaf06aa6d82aace" title="VSTGUI::CRect::inset" alt="" coords="170,169,308,195"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab931fd1815af542997697960629d87f3" title="VSTGUI::CGraphicsPath\l::addRoundRect" alt="" coords="161,220,316,259"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#a98a19f37f0b03f579a5f741a553d7a3f" title="VSTGUI::CGraphicsPath\l::closeSubpath" alt="" coords="387,348,541,387"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="376,55,552,80"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CGraphicsPath\l::addRect" alt="" coords="387,105,541,145"/>
+<area shape="rect" id="node10" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a63e6527168ac6522121a0202e16bee87" title="VSTGUI::CRect::normalize" alt="" coords="382,169,546,195"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#ab3c59aa53e7ac49487475ded4b4d69f8" title="VSTGUI::CGraphicsPath\l::beginSubpath" alt="" coords="387,220,541,259"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#aca91e47845b2094ae600277948f9576a" title="VSTGUI::CGraphicsPath\l::addArc" alt="" coords="387,284,541,323"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_graphics_path.html#af1cb1b3449a77dab0724c0698a81ca2c" title="platform object should be released " alt="" coords="600,252,754,291"/>
+</map>

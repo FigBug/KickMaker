@@ -1,0 +1,7 @@
+<map id="VST3Editor" name="VST3Editor">
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_controller.html" title="extension to IControlListener used by UIDescription " alt="" coords="214,104,291,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="5,104,111,130"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="159,153,345,179"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_mouse_observer.html" title="generic mouse observer interface for CFrame " alt="" coords="197,203,307,228"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_keyboard_hook.html" title="generic keyboard hook interface for CFrame " alt="" coords="200,252,304,278"/>
+</map>

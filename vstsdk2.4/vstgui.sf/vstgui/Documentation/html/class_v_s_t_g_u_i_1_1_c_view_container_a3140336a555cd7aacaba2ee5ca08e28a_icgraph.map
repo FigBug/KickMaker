@@ -1,0 +1,43 @@
+<map id="getTransform" name="getTransform">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#acd95b7a4f72bc2f26ec1b08904fd3df1" title="set zoom factor " alt="" coords="666,89,836,115"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="396,172,599,198"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="647,275,855,300"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae4948af61b5725ca232073a29c99d138" title="get current mouse location " alt="" coords="157,436,337,475"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ab427ac1aad7cc92ef96213f7963296a7" title="get the view at point where " alt="" coords="159,385,335,411"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_frame.html#afad739b99a0d5e2367dda3ecc80cb5c7" title="get the container at point where " alt="" coords="146,500,348,526"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="156,55,338,80"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a87912616f0e7b0f1e88878f38bbd3ae2" title="VSTGUI::CFrame::callMouse\lObserverMouseDown" alt="" coords="159,206,335,246"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa3e8d1ed57d73b72441341222d2df4c8" title="VSTGUI::CFrame::callMouse\lObserverMouseMoved" alt="" coords="159,321,335,361"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="650,672,852,711"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a852e37cb94f2ccd5a0bc8a8f6a9e2ee7" title="VSTGUI::CLayeredViewContainer\l::getDrawTransform" alt="" coords="146,550,348,590"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="164,764,330,803"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a507648489acc6bca8cec757b94f1256d" title="VSTGUI::CFrame::platform\lOnMouseDown" alt="" coords="668,165,834,205"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a51e758d815b647a1ec3e322d127c184d" title="VSTGUI::CFrame::platform\lOnMouseMoved" alt="" coords="924,186,1090,226"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CDataBrowser\l::valueChanged" alt="" coords="422,486,573,526"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8702ff2f7885f8d7a93bde675d32f1dc" title="VSTGUI::CFrame::setModalView" alt="" coords="652,429,850,455"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad1bf70520cdd1e1663d122f8a84d017b" title="VSTGUI::CFrame::~CFrame" alt="" coords="1158,380,1331,406"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="919,429,1095,455"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CSplashScreen\l::unSplash" alt="" coords="929,480,1085,519"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CAnimationSplash\lScreen::unSplash" alt="" coords="921,544,1092,583"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CAnimationSplash\lScreen::notify" alt="" coords="921,314,1092,354"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca" title="closes the frame and calls forget " alt="" coords="1169,429,1320,455"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CSplashScreen\l::valueChanged" alt="" coords="1167,480,1323,519"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="VSTGUI::CFrame::checkMouse\lViews" alt="" coords="403,372,593,411"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="657,327,845,352"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="666,379,836,404"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a0ce3c0d56e9d044ab559159dfdd1acf7" title="VSTGUI::CFrame::platform\lOnMouseUp" alt="" coords="924,250,1090,290"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adccf8c195f686e93c923333b54eace87" title="scroll src rect by distance " alt="" coords="410,5,585,31"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="419,55,576,80"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="905,672,1108,711"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="903,736,1110,775"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="905,608,1108,647"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="905,800,1108,839"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="396,550,599,590"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af68c2c59b58f0c8f010834bb0f959a9a" title="VSTGUI::CLayeredViewContainer\l::drawViewLayer" alt="" coords="396,614,599,654"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="650,580,852,619"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="432,796,563,835"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="VSTGUI::CView::translate\lToGlobal" alt="" coords="418,732,578,771"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_view.html#a701d6a482c7f94c8988bb495b5388e31" title="translates a local coordinate to a global one using parent transforms " alt="" coords="418,860,578,899"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ad9f9e3ce4ccc8fced0f56afbe26a2a12" title="VSTGUI::CTextEdit::\lplatformGetSize" alt="" coords="686,736,816,775"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac6723d734158ef4548dbd9dd3b24732f" title="VSTGUI::CTextEdit::\lplatformGetVisibleSize" alt="" coords="680,800,822,839"/>
+</map>

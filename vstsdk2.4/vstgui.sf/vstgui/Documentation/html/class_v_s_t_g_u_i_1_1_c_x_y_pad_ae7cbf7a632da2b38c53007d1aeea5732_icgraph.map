@@ -1,0 +1,6 @@
+<map id="calculateValue" name="calculateValue">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="171,5,278,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_pad_controller.html#a49e252c10ebabc6f1c707fa20c9099ff" title="VSTGUI::PadController\l::update" alt="" coords="152,56,298,95"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="368,5,470,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_pad_controller.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::PadController\l::verifyView" alt="" coords="346,56,492,95"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="popup" name="popup">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="132,5,218,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a4f4bb4ba2aa2b7a347f9de2c3da1a265" title="pops up menu at frameLocation " alt="" coords="148,55,202,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="124,104,226,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a4305e69d2e6fc870a37b123050120e13" title="a mouse down event happend on the frame at position where. If the observer handles this..." alt="" coords="108,154,242,194"/>
+</map>

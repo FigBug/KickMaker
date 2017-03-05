@@ -1,0 +1,19 @@
+<map id="notify" name="notify">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="114,5,290,31"/>
+<area shape="rect" id="node3" href="$group__controls.html#ga62320e8bea8a4b12b43da8f113b10b5f" title="read only access to text " alt="" coords="136,56,268,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a2a02bfc609747db9dd5e02a5e51beef9" title="the text of the cell changed beginTextEdit was called for " alt="" coords="105,120,299,159"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a0a4c38fc43ad87d5ef21f0e7361d4f25" title="remove a child view " alt="" coords="133,184,270,223"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="119,248,285,274"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_frame.html#af51b9124a814e6fd82fb4680ac58cff3" title="VSTGUI::CFrame::setFocusView" alt="" coords="103,297,301,323"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab18c3bcc0cb674396848861dfd78a83a" title="translates a local coordinate to a global one using parent transforms " alt="" coords="365,446,524,486"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1011,136,1181,162"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1aaf63d0b9cd4a8f27328f2239a9951c" title="check if view supports focus " alt="" coords="355,149,533,175"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="370,199,518,224"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="349,248,540,274"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="translates a local coordinate to a global one using parent transforms " alt="" coords="373,297,516,323"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view.html#aba08198e3f9d7bba967b0c5ab3cae07a" title="called if view should loose focus " alt="" coords="357,347,532,372"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_view.html#af199268157650ebc6dd9248a0ca04550" title="called if view should take focus " alt="" coords="360,396,529,422"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="588,161,743,187"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="791,173,963,199"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="596,364,734,403"/>
+</map>

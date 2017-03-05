@@ -1,0 +1,4 @@
+<map id="setSelectedSegment" name="setSelectedSegment">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="185,5,287,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="193,55,279,80"/>
+</map>

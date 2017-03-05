@@ -1,0 +1,12 @@
+<map id="CSlider" name="CSlider">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a5ddc2f921f8c867788f5066502ffa760" title="setDrawTransparentHandle" alt="" coords="128,5,296,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="140,56,284,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the image " alt="" coords="126,120,298,146"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the image " alt="" coords="124,169,300,195"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="122,219,302,244"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="132,268,292,294"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="130,317,294,343"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a36c6de7c58c72c2aa05eb5b9986ff136" title="setOffsetHandle" alt="" coords="158,367,266,392"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7c938477f787fe59b0eacb147a8c03a5" title="set focus support on/off " alt="" coords="114,416,310,442"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="358,138,545,178"/>
+</map>

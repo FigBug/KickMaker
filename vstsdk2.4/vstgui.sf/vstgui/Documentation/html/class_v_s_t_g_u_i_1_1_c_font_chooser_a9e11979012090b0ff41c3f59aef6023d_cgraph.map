@@ -1,0 +1,51 @@
+<map id="valueChanged" name="valueChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a6f5b9468bcf84c776485950a9c6990c3" title="VSTGUI::CControl::getTag" alt="" coords="1309,109,1472,135"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CControl::setValue" alt="" coords="1083,540,1256,566"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0cecc937d7e222b7e3d8fac5294aa38f" title="VSTGUI::CControl::getValue" alt="" coords="1304,609,1477,635"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a628f10b3308511e5cc29f9ed76ef8b07" title="set the height of the font " alt="" coords="179,940,318,979"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a921dad1b65204e0e6c501e64b83dcc02" title="set the style of the font " alt="" coords="179,1004,318,1043"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8258f5208a5d8e941b3018bf004e6367" title="get the style of the font " alt="" coords="403,828,543,867"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_i_font_chooser_delegate.html#a8ae04f28f6e1912463e24826585178a6" title="VSTGUI::IFontChooserDelegate\l::fontChanged" alt="" coords="152,1068,345,1107"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a403b82d902e75a0bc7f8ddd6d60c2f65" title="setFont" alt="" coords="218,637,279,663"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="1309,499,1472,525"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="1308,448,1474,474"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="1319,709,1462,749"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="1533,649,1677,689"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="1533,713,1677,753"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="1533,789,1677,829"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="1733,649,1877,689"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="1733,891,1877,930"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1925,891,2068,930"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a8320c1ae5fc44c383e96220707f3654c" title="VSTGUI::CFontDesc::\lfreePlatformFont" alt="" coords="403,971,543,1010"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CTextEdit::\lsetValue" alt="" coords="408,631,538,670"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#a41e097ceebffe54a8ed361d006164fc6" title="get the height of the font " alt="" coords="403,695,543,734"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#ad0f04ff2d50f6eb1af4101aee459bcd8" title="get the name of the font " alt="" coords="403,433,543,473"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ab34f0a4b957ee62e17d92fb5fec75fcb" title="set the exclusive selected row " alt="" coords="398,369,548,409"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="393,497,553,537"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#a80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="632,663,763,702"/>
+<area shape="rect" id="node22" href="$group__controls.html#ga80653cdb5bba61ef16ab813dc9732372" title="set text " alt="" coords="872,727,1005,766"/>
+<area shape="rect" id="node32" href="$group__controls.html#ga62320e8bea8a4b12b43da8f113b10b5f" title="read only access to text " alt="" coords="872,663,1005,702"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_text_label.html#a08d4454d8df3386292db51529ed140ab" title="VSTGUI::CTextLabel\l::calculateTruncatedText" alt="" coords="1094,892,1245,931"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1086,697,1253,723"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#afc9d8b5b48d0fc9de0d28d292334c299" title="VSTGUI::UTF8String\l::getByteCount" alt="" coords="1324,773,1458,813"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html#af97b831edbd57148720d11f0aeacd378" title="VSTGUI::CFontDesc::\lgetPlatformFont" alt="" coords="1535,879,1675,918"/>
+<area shape="rect" id="node26" href="$namespace_v_s_t_g_u_i_1_1_c_draw_methods.html#af5414ecdb0e7fbf883843fb8ff78758b" title="VSTGUI::CDrawMethods\l::createTruncatedText" alt="" coords="1313,888,1468,927"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html#aa1cd19a5c26cb67e82216ddacf6e87db" title="VSTGUI::UTF8String::set" alt="" coords="1527,949,1683,975"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="1310,659,1471,685"/>
+<area shape="rect" id="node29" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="1525,376,1685,402"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="1313,552,1468,578"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#ad204f9856847ba3780165acbe388a155" title="empty selection " alt="" coords="622,433,773,473"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a0b8554afada5a0eab8d74eefb8935436" title="VSTGUI::IDataBrowserDelegate\l::dbSelectionChanged" alt="" coords="842,357,1035,397"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html#a7a995c1bb7ecebecbd53378b7d32130e" title="return number of rows for CDataBrowser browser " alt="" coords="601,369,794,409"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a76eb9b897036f477adedf89b82510475" title="invalidates a complete row " alt="" coords="622,497,773,537"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a40456bf67a2cbb0eaa5bdb3897e8c0b8" title="scrolls the scrollview so that row is visible " alt="" coords="622,204,773,243"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#ad69f12c2e8328208ba0f58b845a04ecf" title="set scrollview to show rect " alt="" coords="870,204,1007,243"/>
+<area shape="rect" id="node42" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a3b15bdeea464922589dfe91b21d991ce" title="VSTGUI::CRect::offset" alt="" coords="1099,112,1241,138"/>
+<area shape="rect" id="node43" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="1090,161,1249,187"/>
+<area shape="rect" id="node44" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="1088,211,1251,237"/>
+<area shape="rect" id="node45" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="1308,323,1473,349"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_c_control.html#a28bd46996ac9f5362dcf92bf6d825e8d" title="VSTGUI::CControl::bounce\lValue" alt="" coords="1087,427,1253,466"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4913f82e0e7e6b5a0dafb53aaa2e4cac" title="VSTGUI::CScrollbar\l::onVisualChange" alt="" coords="1105,48,1234,87"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="1096,491,1244,517"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CScrollView\l::valueChanged" alt="" coords="1101,261,1238,301"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="notify" name="notify">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f" title="hideTooltip" alt="" coords="142,127,221,153"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="321,69,478,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="103,12,260,52"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a00c19e3dd2458836590607edf3521a8a" title="showTooltip" alt="" coords="139,176,223,202"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="VSTGUI::CFrame::getPlatform\lFrame" alt="" coords="308,133,492,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="321,5,478,45"/>
+<area shape="rect" id="node7" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="585,12,693,38"/>
+<area shape="rect" id="node9" href="$namespace_v_s_t_g_u_i.html#a69b8b8ef47824ba6daeda471ea52dd23" title="VSTGUI::getTooltipFromView" alt="" coords="311,198,489,223"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#aca7d0f4f75760c54963621b67720d6a7" title="get the size of an attribute " alt="" coords="540,222,738,247"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="551,172,726,198"/>
+</map>

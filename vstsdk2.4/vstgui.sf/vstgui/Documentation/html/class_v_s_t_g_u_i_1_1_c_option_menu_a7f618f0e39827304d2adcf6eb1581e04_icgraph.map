@@ -1,0 +1,11 @@
+<map id="removeAllEntry" name="removeAllEntry">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ade3238e05da39af40177191853116ed7" title="~COptionMenu" alt="" coords="212,83,314,109"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a9cfc75a6671c251dacdbd24e636d0ca3" title="VSTGUI::ParameterChangeListener\l::updateControlValue" alt="" coords="156,133,369,173"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a838ba0753537ab62e6b68c810b5b1f41" title="VSTGUI::ParameterChangeListener\l::addControl" alt="" coords="417,69,631,109"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#af0d44025f1c09517c2960843539072d4" title="VSTGUI::ParameterChangeListener\l::update" alt="" coords="417,133,631,173"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#ada09c15459754b72280caf38fa2544e7" title="VSTGUI::ParameterChangeListener\l::performEdit" alt="" coords="417,197,631,237"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_parameter_change_listener.html#a8191a258793d1ab3889af52a772bf84a" title="VSTGUI::ParameterChangeListener\l::ParameterChangeListener" alt="" coords="679,5,892,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a3c43308976983d62b03b089297c88167" title="VSTGUI::VST3Editor\l::controlTagDidChange" alt="" coords="714,69,857,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a0a12d9bd75a7a62d1c5fdb0ab5ee4a40" title="VSTGUI::VST3Editor\l::verifyView" alt="" coords="719,133,853,173"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_v_s_t3_editor.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::VST3Editor\l::valueChanged" alt="" coords="719,197,853,237"/>
+</map>

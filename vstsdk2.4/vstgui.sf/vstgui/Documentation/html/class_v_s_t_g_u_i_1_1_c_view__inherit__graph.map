@@ -1,0 +1,45 @@
+<map id="CView" name="CView">
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="269,449,337,475"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_gradient_view.html" title="View which draws a gradient. " alt="" coords="252,745,354,771"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_open_g_l_view.html" title="a subview which uses OpenGL for drawing " alt="" coords="253,795,353,820"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="249,1091,357,1116"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,771,97,796"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_auto_animation.html" title="CAutoAnimation" alt="" coords="435,5,543,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_check_box.html" title="a check box control with a title and 3 states " alt="" coords="447,55,532,80"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html" title="a horizontal switch control " alt="" coords="430,104,549,130"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html" title="CKickButton" alt="" coords="446,153,533,179"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_knob.html" title="a knob control " alt="" coords="460,203,518,228"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_movie_bitmap.html" title="a bitmap view that displays different bitmaps according to its current value " alt="" coords="440,252,539,278"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html" title="a bi&#45;states button with 2 subbitmaps " alt="" coords="441,301,538,327"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_on_off_button.html" title="a button control with 2 states " alt="" coords="441,351,537,376"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_param_display.html" title="a parameter display " alt="" coords="437,400,542,426"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html" title="a switch control with 3 sub bitmaps " alt="" coords="438,449,541,475"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html" title="a scrollbar control " alt="" coords="451,499,528,524"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html" title="Control which draws a segmented button. " alt="" coords="433,548,546,574"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_slider.html" title="a slider control " alt="" coords="459,597,520,623"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_special_digit.html" title="special display with custom numbers (0...9) " alt="" coords="443,647,536,672"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html" title="CSplashScreen" alt="" coords="437,696,542,722"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_text_button.html" title="a button which renders without bitmaps " alt="" coords="446,745,533,771"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html" title="a vertical switch control " alt="" coords="437,795,542,820"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_vu_meter.html" title="CVuMeter" alt="" coords="452,844,527,870"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html" title="a bitmap knob control " alt="" coords="658,203,743,228"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html" title="a popup menu control " alt="" coords="653,351,748,376"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_text_label.html" title="a text label " alt="" coords="660,400,741,426"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html" title="CXYPad" alt="" coords="667,449,734,475"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html" title="a text edit control " alt="" coords="828,400,900,426"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_horizontal_slider.html" title="a horizontal slider control " alt="" coords="643,572,758,598"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_vertical_slider.html" title="a vertical slider control " alt="" coords="651,621,751,647"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html" title="a splash screen which animates the opening and closing of the splash bitmap " alt="" coords="622,696,780,722"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_auto_layout_container_view.html" title="CAutoLayoutContainerView" alt="" coords="405,893,574,919"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_color_chooser.html" title="CColorChooser" alt="" coords="437,943,541,968"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html" title="CFontChooser" alt="" coords="440,992,539,1018"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="457,1041,522,1067"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html" title="a view container which draws into a platform layer on top of a parent layer or the platform viewA CLa..." alt="" coords="414,1091,565,1116"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html" title="a scrollable container view with scrollbars " alt="" coords="446,1140,532,1166"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_shadow_view_container.html" title="a view container which draws a shadow for it&#39;s subviews " alt="" coords="414,1189,565,1215"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_split_view.html" title="a split container view with separators between its child views " alt="" coords="450,1239,529,1264"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html" title="a tab view " alt="" coords="452,1288,527,1314"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_u_i_view_switch_container.html" title="UIViewSwitchContainer" alt="" coords="416,1337,563,1363"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_row_column_view.html" title="a view container which layouts its subview as rows or columns " alt="" coords="640,893,761,919"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html" title="DataBrowser view. " alt="" coords="651,1140,750,1166"/>
+</map>

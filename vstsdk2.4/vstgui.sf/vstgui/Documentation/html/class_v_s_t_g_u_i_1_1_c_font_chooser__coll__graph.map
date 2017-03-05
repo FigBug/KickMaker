@@ -1,0 +1,36 @@
+<map id="CFontChooser" name="CFontChooser">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="347,750,454,775"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="728,262,793,287"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html" title="DataBrowser view. " alt="" coords="2161,990,2260,1015"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html" title="a scrollable container view with scrollbars " alt="" coords="1877,990,1963,1015"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="1022,488,1078,514"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="1266,423,1419,462"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="1308,1092,1377,1118"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,200,130,226"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="339,171,462,197"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="366,220,435,246"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1533,251,1640,277"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="348,107,453,133"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_font_desc.html" title="font class " alt="" coords="1302,688,1383,714"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="978,171,1122,197"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="308,319,493,345"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="55,791,112,817"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_param_display.html" title="a parameter display " alt="" coords="1534,814,1639,839"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,5,162,45"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,942,111,967"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html" title="a scrollbar control " alt="" coords="1548,1252,1625,1278"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="54,1195,113,1221"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_check_box.html" title="a check box control with a title and 3 states " alt="" coords="1544,1134,1629,1159"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="997,1064,1103,1090"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_i_generic_string_list_data_browser_source_selection_changed.html" title="IGenericStringListDataBrowser\lSourceSelectionChanged" alt="" coords="2117,1444,2303,1484"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CFontDesc \&gt;" alt="" coords="1664,701,1817,741"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="1000,1212,1101,1238"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="1004,1114,1096,1139"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html" title="DispatchList\&lt; IControlListener \&gt;" alt="" coords="954,1163,1146,1189"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html" title="IScrollbarDrawer" alt="" coords="1287,1191,1398,1217"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_i_data_browser_delegate.html" title="DataBrowser Interface. " alt="" coords="1849,1039,1991,1065"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html" title="holds an UTF8 encoded string and a platform representation of it " alt="" coords="1301,1142,1384,1167"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_text_label.html" title="a text label " alt="" coords="1879,878,1961,903"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html" title="a text edit control " alt="" coords="2174,784,2247,810"/>
+<area shape="rect" id="node38" href="$class_v_s_t_g_u_i_1_1_i_font_chooser_delegate.html" title="IFontChooserDelegate" alt="" coords="2139,1508,2281,1534"/>
+</map>

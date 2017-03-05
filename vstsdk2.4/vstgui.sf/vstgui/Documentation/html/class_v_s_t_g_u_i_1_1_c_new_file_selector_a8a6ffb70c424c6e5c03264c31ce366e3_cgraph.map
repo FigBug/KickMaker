@@ -1,0 +1,5 @@
+<map id="setDefaultSaveName" name="setDefaultSaveName">
+<area shape="rect" id="node2" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="216,5,348,31"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="188,55,376,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="424,48,584,87"/>
+</map>

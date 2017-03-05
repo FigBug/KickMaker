@@ -1,0 +1,14 @@
+<map id="CAnimKnob" name="CAnimKnob">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a9b7d3f338ca58886e0c5f67117a32545" title="setNumSubPixmaps" alt="" coords="374,40,504,66"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#aa461070209a686c8b44059191be2a3a3" title="setHeightOfOneImage" alt="" coords="139,98,279,123"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#af4dd45b8bb9a650a255ab8d493edb3c6" title="VSTGUI::IMultiBitmapControl\l::setNumSubPixmaps" alt="" coords="615,5,792,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="629,70,777,95"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="856,44,1011,70"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1059,70,1231,95"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1279,70,1449,95"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_multi_bitmap_control.html#a307049d43a2dbda1418a94c88a6f47fb" title="VSTGUI::IMultiBitmapControl\l::setHeightOfOneImage" alt="" coords="350,91,527,130"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#afa1488e0de4da81a4892c3288f9a4f01" title="VSTGUI::CView::getDrawBackground" alt="" coords="327,155,550,181"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="356,204,521,230"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="598,155,808,181"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="621,204,785,230"/>
+</map>

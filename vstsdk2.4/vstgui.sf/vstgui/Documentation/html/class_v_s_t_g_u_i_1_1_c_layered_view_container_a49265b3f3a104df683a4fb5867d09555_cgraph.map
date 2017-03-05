@@ -1,0 +1,8 @@
+<map id="removed" name="removed">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="121,13,291,39"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a98a0b9d11aa7258fcdd7273bc7077748" title="registerListeners" alt="" coords="151,63,261,88"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a6e6ca5f3ecb10d888379cf19c29dd604" title="view is removed from parent view " alt="" coords="127,113,286,153"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="344,5,536,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a0d628d03ba84480dca65aef15a19c5b4" title="VSTGUI::CViewContainer\l::registerViewContainerListener" alt="" coords="346,56,534,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a4263f587ad1d090ad3b8468f88c886b8" title="VSTGUI::CViewContainer\l::unregisterViewContainerListener" alt="" coords="339,120,541,159"/>
+</map>

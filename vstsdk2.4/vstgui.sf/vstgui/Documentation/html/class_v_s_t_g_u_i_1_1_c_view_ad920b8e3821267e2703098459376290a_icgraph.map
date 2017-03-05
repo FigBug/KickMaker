@@ -1,0 +1,12 @@
+<map id="getGlobalTransform" name="getGlobalTransform">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="180,108,311,148"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="translateToGlobal" alt="" coords="188,172,303,198"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#a701d6a482c7f94c8988bb495b5388e31" title="translates a local coordinate to a global one using parent transforms " alt="" coords="191,222,300,247"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="359,101,561,141"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ad9f9e3ce4ccc8fced0f56afbe26a2a12" title="VSTGUI::CTextEdit::\lplatformGetSize" alt="" coords="395,165,526,205"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac6723d734158ef4548dbd9dd3b24732f" title="VSTGUI::CTextEdit::\lplatformGetVisibleSize" alt="" coords="389,229,531,269"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="612,5,814,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="609,69,816,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="612,133,814,173"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="612,197,814,237"/>
+</map>

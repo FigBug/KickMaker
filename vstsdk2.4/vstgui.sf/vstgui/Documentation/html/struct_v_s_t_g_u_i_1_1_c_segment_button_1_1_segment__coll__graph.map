@@ -1,0 +1,8 @@
+<map id="CSegmentButton::Segment" name="CSegmentButton::Segment">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CBitmap \&gt;" alt="" coords="45,181,199,220"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html" title="Encapsulates various platform depended kinds of bitmaps. " alt="" coords="88,93,156,119"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,5,97,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="122,5,263,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string.html" title="holds an UTF8 encoded string and a platform representation of it " alt="" coords="238,187,321,213"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="345,187,400,213"/>
+</map>

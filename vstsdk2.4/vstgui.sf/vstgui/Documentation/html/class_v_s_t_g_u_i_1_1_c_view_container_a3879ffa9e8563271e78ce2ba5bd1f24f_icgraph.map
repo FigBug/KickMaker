@@ -1,0 +1,4 @@
+<map id="onWheel" name="onWheel">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="122,5,292,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="138,56,276,95"/>
+</map>

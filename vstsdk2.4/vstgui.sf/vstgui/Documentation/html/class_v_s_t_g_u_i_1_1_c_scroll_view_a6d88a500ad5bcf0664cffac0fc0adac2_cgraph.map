@@ -1,0 +1,36 @@
+<map id="onWheel" name="onWheel">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3879ffa9e8563271e78ce2ba5bd1f24f" title="called if a mouse wheel event is happening over this view " alt="" coords="122,146,281,186"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="137,210,266,250"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="329,27,540,52"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_control.html#a28bd46996ac9f5362dcf92bf6d825e8d" title="VSTGUI::CControl::bounce\lValue" alt="" coords="351,77,517,117"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_control.html#ad66f409af3c387e166ff7ee95169b7b6" title="check if view is dirty " alt="" coords="354,169,514,195"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a4913f82e0e7e6b5a0dafb53aaa2e4cac" title="VSTGUI::CScrollbar\l::onVisualChange" alt="" coords="370,258,499,298"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_control.html#ae57d02e392f1505445a7d83f1a18d96c" title="notifies listener and dependent objects " alt="" coords="332,537,537,563"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="361,397,508,423"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_control.html#aa89b448a266e794c3d967593b3faf4a8" title="VSTGUI::CControl::getMax" alt="" coords="600,5,766,31"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_control.html#a7cf3216ed0a504f4bab603c67ef403f2" title="VSTGUI::CControl::getMin" alt="" coords="602,55,764,80"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_control.html#a252dc622e20dccbeb0d0321009a95973" title="VSTGUI::CControl::getOld\lValue" alt="" coords="602,105,764,145"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a4fea28bac5516879f343a5a905717337" title="check if view is dirty " alt="" coords="609,169,756,195"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_animation_1_1_interpolation_timing_function.html#a110935fdba8346f35d530ba0a82419e6" title="both values are normalized ones " alt="" coords="598,220,767,273"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad2a5962bd58b120ead1a75f7b4a7ca9a" title="VSTGUI::CView::addAnimation" alt="" coords="589,297,776,323"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_view.html#a231289d0aa4c6c85931a822afab8b2bf" title="set alpha value which will be applied when drawing this view " alt="" coords="588,347,778,372"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_animation_1_1_timing_function_base.html#a67cd323fecc35d2cd8895e08f9e242e6" title="VSTGUI::Animation::\lTimingFunctionBase::\lgetLength" alt="" coords="851,124,988,177"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="837,201,1002,227"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aa7609ca92096612f85c0fa58058bd2f8" title="get animator for this frame " alt="" coords="826,251,1013,276"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a42b159b8f4e793638508e7b38c88c514" title="VSTGUI::Animation::\lAnimator::addAnimation" alt="" coords="845,301,994,341"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html#a2d1cd53cfc4276cd235f9ea6fa95026d" title="VSTGUI::Animation::\lAnimator::removeAnimation" alt="" coords="1062,273,1231,313"/>
+<area shape="rect" id="node19" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="1092,337,1200,363"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="833,439,1006,464"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="830,365,1010,391"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="1061,439,1231,464"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a296f15a574e04152381eb01632abfec1" title="VSTGUI::IControlListener\l::valueChanged" alt="" coords="604,498,762,538"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="614,562,752,602"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="611,626,755,666"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a9005955fa448192caddbbced658a616c" title="VSTGUI::IDependency\l::rememberObject" alt="" coords="848,562,991,602"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="848,626,991,666"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#a626f70bf0ebe5646d8e1335e5c8a607a" title="VSTGUI::IDependency\l::forgetObject" alt="" coords="848,690,991,730"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="1075,562,1218,602"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="1075,690,1218,730"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="1279,690,1423,730"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="606,448,760,474"/>
+</map>

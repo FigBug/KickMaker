@@ -1,0 +1,18 @@
+<map id="UIViewSwitchContainer" name="UIViewSwitchContainer">
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_i_view_switch_controller.html" title="IViewSwitchController" alt="" coords="1008,76,1146,101"/>
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="347,152,454,177"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="754,470,818,496"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="1049,298,1105,324"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="1248,413,1401,452"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,592,130,617"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="339,520,462,545"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="366,569,435,595"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1515,544,1622,569"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="348,682,453,708"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="1005,457,1149,483"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="308,421,493,447"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="55,54,112,80"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,777,162,816"/>
+<area shape="rect" id="node17" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,220,111,245"/>
+<area shape="rect" id="node18" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="54,152,113,177"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="getSplitViewController" name="getSplitViewController">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#afc90095708948ed7f4a2201baaca0133" title="VSTGUI::CSplitView\l::storeViewSizes" alt="" coords="211,21,342,61"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="211,117,342,157"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a129ba2469954235dd9ad1eb7f9c5ca4c" title="VSTGUI::CSplitView\l::requestNewSeparatorSize" alt="" coords="193,181,361,221"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ad43aa61c9780170975e09f199c350e42" title="VSTGUI::CSplitView\l::getDrawer" alt="" coords="211,245,342,285"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a49265b3f3a104df683a4fb5867d09555" title="view is removed from parent view " alt="" coords="409,5,539,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a9fb9f90a3230b7fe496791ea67986e2d" title="set the width of the separators " alt="" coords="409,69,539,109"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ad6ece4580634fc04e425a521c327125d" title="VSTGUI::CSplitView\l::resizeFirstView" alt="" coords="409,133,539,173"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a7d515066dd3e7c3d0960c3da1502f64c" title="VSTGUI::CSplitView\l::resizeSecondView" alt="" coords="409,197,539,237"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#a54f2ef725a3284c7cadc1cc0c7dcc527" title="VSTGUI::CSplitView\l::resizeLastView" alt="" coords="409,261,539,301"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ac98cefe207ff01ac2532c39dd3a85619" title="VSTGUI::CSplitView\l::resizeViewsEqual" alt="" coords="409,325,539,365"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_split_view.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="587,229,718,269"/>
+</map>

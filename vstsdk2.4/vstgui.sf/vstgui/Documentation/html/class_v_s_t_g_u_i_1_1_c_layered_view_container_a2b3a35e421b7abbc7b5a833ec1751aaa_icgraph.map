@@ -1,0 +1,6 @@
+<map id="updateLayerSize" name="updateLayerSize">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="231,5,299,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="viewContainerTransformChanged" alt="" coords="165,55,365,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="201,104,329,130"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="222,153,308,179"/>
+</map>

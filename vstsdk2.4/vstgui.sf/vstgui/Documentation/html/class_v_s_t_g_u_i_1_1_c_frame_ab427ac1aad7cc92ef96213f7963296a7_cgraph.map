@@ -1,0 +1,9 @@
+<map id="getViewAt" name="getViewAt">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="141,5,300,45"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ae0b83e1a553219ac2e5a9c0e9ee42e72" title="VSTGUI::CGraphicsTransform\l::inverse" alt="" coords="128,69,312,109"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="128,133,312,173"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a5ad6102316e6d16e4905a38ad3f16dcc" title="returns the current view size " alt="" coords="130,198,310,223"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#adebba9af3dc339149fd4622f4d4a5bac" title="Checks if point is inside this rect. " alt="" coords="135,247,306,273"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_get_view_options.html#a7daa5c7887ffc0d68ab2ea398345e756" title="VSTGUI::GetViewOptions\l::deep" alt="" coords="141,297,300,337"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ab5c037e08db39b2c5032eae7d2e4f47e" title="get the view at point where " alt="" coords="141,361,300,401"/>
+</map>

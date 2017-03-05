@@ -1,0 +1,6 @@
+<map id="valueChanged" name="valueChanged">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#aae815f867585ca9ba87cef8af568603d" title="VSTGUI::CXYPad::calculateXY" alt="" coords="152,5,341,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0cecc937d7e222b7e3d8fac5294aa38f" title="VSTGUI::CControl::getValue" alt="" coords="160,55,333,80"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_delegation_controller.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::DelegationController\l::valueChanged" alt="" coords="155,105,337,145"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a296f15a574e04152381eb01632abfec1" title="VSTGUI::IControlListener\l::valueChanged" alt="" coords="389,105,546,145"/>
+</map>

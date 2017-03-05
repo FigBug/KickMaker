@@ -1,0 +1,9 @@
+<map id="CViewContainer" name="CViewContainer">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#adf67dfd47fb9d3c6051cd43cc8542cba" title="trigger recalculation, call if numRows or numColumns changed " alt="" coords="172,133,323,173"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="631,227,782,266"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_tab_view.html#a2f003c7e0d23c7d77eafc0f601a047a6" title="add a tab " alt="" coords="161,312,334,338"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#aaebdc2090c8ebee6be423c64ab69bf64" title="set views size " alt="" coords="407,5,558,45"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_data_browser.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="407,69,558,109"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a65aa599f5c20dcb98d48e49ef5114946" title="VSTGUI::GenericStringList\lDataBrowserSource::setStringList" alt="" coords="382,133,583,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_generic_string_list_data_browser_source.html#a721c0ed5144b9f9d50e5dc7fe4976492" title="VSTGUI::GenericStringList\lDataBrowserSource::setupUI" alt="" coords="394,197,571,237"/>
+</map>

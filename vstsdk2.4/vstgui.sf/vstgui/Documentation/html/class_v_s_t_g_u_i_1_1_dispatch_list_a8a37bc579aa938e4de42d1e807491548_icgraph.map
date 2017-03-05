@@ -1,0 +1,4 @@
+<map id="remove" name="remove">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html#a4368a316055eafac7a78f4ca89548531" title="unregister a sub listener " alt="" coords="115,5,295,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1a94611c827c03e0f7d973c1abc33f7b" title="VSTGUI::CView::unregister\lViewListener" alt="" coords="121,69,288,109"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="isDirty" name="isDirty">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a5229f5e751d2e25e9d81ba619455a25c" title="called when mouse tracking should be canceled " alt="" coords="144,5,283,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="144,69,283,109"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="144,133,283,173"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a5229f5e751d2e25e9d81ba619455a25c" title="called when mouse tracking should be canceled " alt="" coords="142,197,285,237"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="142,261,285,301"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a5229f5e751d2e25e9d81ba619455a25c" title="called when mouse tracking should be canceled " alt="" coords="144,325,282,365"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="144,389,282,429"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="144,453,282,493"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="113,518,314,543"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_knob.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="132,567,295,593"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="123,616,304,642"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="139,667,287,706"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_scrollbar.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="149,731,278,770"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_c_slider.html#a5229f5e751d2e25e9d81ba619455a25c" title="called when mouse tracking should be canceled " alt="" coords="129,795,297,834"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_c_slider.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="129,859,297,898"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_slider.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="130,923,296,949"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_slider.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="122,972,305,998"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="135,1023,291,1062"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="135,1087,291,1126"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="128,1151,299,1190"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#ab3e92822dfb33fc98af5cc4d4d65768d" title="called if a key down event occurs and this view has focus " alt="" coords="128,1215,299,1254"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="136,1279,291,1318"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="136,1343,291,1382"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#aff7d0cc32cff2cc6fb023b227c9f6cb4" title="called if a mouse wheel event is happening over this view " alt="" coords="136,1407,291,1446"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="108,1471,319,1497"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_kick_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="400,133,539,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="400,453,538,493"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_knob.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="371,518,567,543"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_movie_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="395,667,543,706"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_scroll_view.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="401,731,538,770"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_c_slider.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="370,866,569,891"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="391,1023,547,1062"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="384,1151,555,1190"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_rocker_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="392,1343,547,1382"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="367,1471,572,1497"/>
+</map>

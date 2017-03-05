@@ -1,0 +1,11 @@
+<map id="getFontPainter" name="getFontPainter">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="153,127,296,166"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_text_button.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="156,191,294,230"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#abfd45c0dae0029fb43b093190d78bc42" title="VSTGUI::CCheckBox::\lCCheckBox" alt="" coords="539,31,681,70"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#af306f5addd56c17cafb50d1ac631548b" title="VSTGUI::CCheckBox::\lsetTitle" alt="" coords="344,33,487,73"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a8bb2d9e1362a2b8d9047b2e895f794fd" title="VSTGUI::CCheckBox::\lsetFont" alt="" coords="344,97,487,137"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_font_chooser.html#a1a4d6cbd6b3c39bdff979a626e42016e" title="VSTGUI::CFontChooser\l::CFontChooser" alt="" coords="535,159,685,198"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="344,212,487,252"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a921dad1b65204e0e6c501e64b83dcc02" title="VSTGUI::CCheckBox::\lsetStyle" alt="" coords="344,276,487,316"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#a7f356285321b8453226500459256530a" title="VSTGUI::CCheckBox::\l~CCheckBox" alt="" coords="539,95,681,134"/>
+</map>

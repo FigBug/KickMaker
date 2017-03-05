@@ -1,0 +1,14 @@
+<map id="createViewFromNode" name="createViewFromNode">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a9b617a7d2bb805de4150cf2e65dade5d" title="createView" alt="" coords="252,5,333,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1fe53948e356f854b091b1cd35c512db" title="set an attribute " alt="" coords="443,31,617,56"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_i_view_factory.html#a7656a36c599003b309891563b44f13ce" title="VSTGUI::IViewFactory\l::applyAttributeValues" alt="" coords="222,106,364,146"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_controller.html#a8d66a2f406fc09a3eb96094287816daa" title="VSTGUI::IController\l::createSubController" alt="" coords="225,170,360,210"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#aaca041945df8e011b28caa09604ca11b" title="setController" alt="" coords="248,235,337,260"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_i_controller.html#a7b72e7a48bb34e49e7d086b7c2adca88" title="VSTGUI::IController\l::createView" alt="" coords="229,285,357,325"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_i_view_factory.html#a09439b2897449d04ec816b2e254c02ac" title="VSTGUI::IViewFactory\l::applyCustomViewAttributeValues" alt="" coords="190,349,395,389"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_i_view_factory.html#a723f2d60a2aca49c55737f4773f6d0a4" title="VSTGUI::IViewFactory\l::createView" alt="" coords="222,413,364,453"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa3f0bcc0a5ac5c2a62405f6899dda689" title="add a child view " alt="" coords="213,477,372,517"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="221,541,364,581"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_i_controller.html#a750f4ee649e3e454cb24c9dab6831869" title="VSTGUI::IController\l::verifyView" alt="" coords="229,605,357,645"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="458,541,602,581"/>
+</map>

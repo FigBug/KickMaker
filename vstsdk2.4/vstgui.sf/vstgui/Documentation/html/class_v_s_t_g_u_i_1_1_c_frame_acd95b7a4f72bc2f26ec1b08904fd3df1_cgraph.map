@@ -1,0 +1,26 @@
+<map id="setZoom" name="setZoom">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a3140336a555cd7aacaba2ee5ca08e28a" title="VSTGUI::CViewContainer\l::getTransform" alt="" coords="574,5,733,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the view " alt="" coords="338,323,499,349"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the view " alt="" coords="336,586,501,611"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a9f25f969f468e4c144360a50b137e195" title="enable or disable autosizing subviews. Per default this is enabled. " alt="" coords="121,475,281,514"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#ae33f973fde8bcc68ca7649b6fcef91d3" title="VSTGUI::CViewContainer\l::setTransform" alt="" coords="121,539,281,578"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ae4d90a923646982d5b9bff95b46be728" title="setSize" alt="" coords="171,374,231,399"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a42789430a9d5e7f3729bf69c9398fc52" title="mark whole view as invalid " alt="" coords="173,248,229,274"/>
+<area shape="rect" id="node4" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="VSTGUI::CRect::getWidth" alt="" coords="803,348,963,374"/>
+<area shape="rect" id="node6" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a1f4be3a475a8fb7d8defa4621c01558d" title="VSTGUI::CRect::getHeight" alt="" coords="801,560,965,586"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a7b14fb07c53ccfa07dc91900f4fe01f1" title="read only access to view size " alt="" coords="329,274,508,299"/>
+<area shape="rect" id="node11" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a7e69f8e49a406917215c3260790d4698" title="VSTGUI::CRect::setWidth" alt="" coords="339,372,498,398"/>
+<area shape="rect" id="node13" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5067e7f1239cf80b5488792ecf3ac098" title="VSTGUI::CRect::setHeight" alt="" coords="337,536,500,562"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_frame.html#aecbf2732cc925bda5973d46ec6849f23" title="get editor " alt="" coords="384,422,453,447"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#aa1e0c964c376f3db586701d54fcf58ec" title="set views size " alt="" coords="339,472,498,512"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#aac17e64c594f7da1f088efeb1e53f114" title="VSTGUI::CRect::width" alt="" coords="583,374,723,399"/>
+<area shape="rect" id="node14" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#a5ca7ffa8316b6835e331dfd01534ed32" title="VSTGUI::CRect::height" alt="" coords="580,535,726,561"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="378,127,458,153"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="341,224,496,250"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_c_view.html#a08422ee75ab02691943c1ca87e2bc563" title="get visibility state " alt="" coords="574,70,732,95"/>
+<area shape="rect" id="node20" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#af5b80ac47e3d74fe4cf0ca4d75f2e6c3" title="VSTGUI::CGraphicsTransform\l::transform" alt="" coords="561,120,745,160"/>
+<area shape="rect" id="node21" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#ae4590118f1051be2a1e7f04a2e262fb9" title="VSTGUI::CFrame::CollectInvalid\lRects::addRect" alt="" coords="556,184,750,224"/>
+<area shape="rect" id="node22" href="$struct_v_s_t_g_u_i_1_1_c_rect.html#ad560ae1abaefe509ecd31935c57ced6b" title="VSTGUI::CRect::bound" alt="" coords="810,191,956,217"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="567,272,739,298"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="798,272,968,298"/>
+</map>

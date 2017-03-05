@@ -1,0 +1,51 @@
+<map id="onMouseDown" name="onMouseDown">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_button_state.html#adf0e629ae1c3fca5be2f4d3c64c9e980" title="VSTGUI::CButtonState\l::isRightButton" alt="" coords="182,277,326,317"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a9eb257c26848669f9ff071a568294eb0" title="add a new separator entry " alt="" coords="181,1129,328,1169"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a23dccef5325b1c8b8409bbd96449ee2e" title="add a new entry " alt="" coords="431,1180,578,1220"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#ade43dd17e915ee6df8b0c96b3fde4954" title="VSTGUI::CParamDisplay\l::setStyle" alt="" coords="176,989,332,1029"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a8adf6931b3da23bab76dac845c10b5ee" title="set menu item tag " alt="" coords="184,1244,325,1284"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a41ac8da48387a7a6516197d30e95aada" title="set menu item checked state " alt="" coords="681,1072,822,1112"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#ad82def3068a469a676185f3d5de8bb4b" title="set submenu of menu item " alt="" coords="184,1359,325,1398"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ad63e28fbe95a3458c97c60bfacd47ab8" title="decrease refcount and delete object if refcount == 0 " alt="" coords="432,1295,576,1334"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a9a8e0a706e76bb8c2adf5ac1a3b16403" title="set keycode and key modifiers of menu item " alt="" coords="184,1423,325,1462"/>
+<area shape="rect" id="node22" href="$namespace_v_s_t_g_u_i.html#ac0caf7c5b5b1b43d55ceec218776c5b8" title="VSTGUI::getViewController" alt="" coords="171,1504,338,1530"/>
+<area shape="rect" id="node25" href="$class_v_s_t_g_u_i_1_1_i_context_menu_controller.html#a03d6cb0b40685d6951fdbd3160e6fc1d" title="VSTGUI::IContextMenuController\l::appendContextMenuItems" alt="" coords="155,1555,354,1594"/>
+<area shape="rect" id="node26" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#ae16683842653f97cac2c61e255bdfc53" title="pops up menu " alt="" coords="181,585,328,625"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_button_state.html#a9c6e0e58f7d529d9a193e1f32e722337" title="VSTGUI::CButtonState\l::getButtonState" alt="" coords="432,5,576,45"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#adee7672985693efe9c38a8897f12936d" title="get number of entries " alt="" coords="1156,1065,1303,1105"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_param_display.html#aebea43ccfbc91da6f5095268374de408" title="VSTGUI::CParamDisplay\l::drawStyleChanged" alt="" coords="426,964,582,1004"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_control.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="668,958,835,983"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="914,843,1069,869"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="1143,818,1316,843"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ada0719d1daaca4af1795018001769311" title="increase refcount " alt="" coords="432,1359,576,1398"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#a7109cc8e58c631f14b338c5e60633d7b" title="VSTGUI::CBaseObject\l::beforeDelete" alt="" coords="680,1295,823,1334"/>
+<area shape="rect" id="node19" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="438,1472,570,1498"/>
+<area shape="rect" id="node20" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="410,1423,598,1449"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="671,1416,831,1456"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1691269ee71c2cfedde6f940d7526baa" title="get an attribute " alt="" coords="417,1571,592,1597"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_c_view.html#ac45407fc7304ee33c5729fa04edaea76" title="get parent view " alt="" coords="408,1522,600,1547"/>
+<area shape="rect" id="node27" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="669,350,834,375"/>
+<area shape="rect" id="node28" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a203037722a1aae98d2681046584458cc" title="VSTGUI::COptionMenu\l::beforePopup" alt="" coords="678,120,825,160"/>
+<area shape="rect" id="node33" href="$class_v_s_t_g_u_i_1_1_c_control.html#a417db65751882b949a8ebdc2c10ada93" title="VSTGUI::CControl::beginEdit" alt="" coords="416,307,593,333"/>
+<area shape="rect" id="node37" href="$class_v_s_t_g_u_i_1_1_c_frame.html#add1b333f09c643945f8675bdbf094595" title="VSTGUI::CFrame::onStartLocal\lEventLoop" alt="" coords="409,615,599,654"/>
+<area shape="rect" id="node39" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="VSTGUI::CFrame::getPlatform\lFrame" alt="" coords="412,679,596,718"/>
+<area shape="rect" id="node40" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::COptionMenu\l::setValue" alt="" coords="431,900,578,940"/>
+<area shape="rect" id="node42" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#abbc6eea63ec689c21831932d22f8e836" title="get entry at index position " alt="" coords="918,1065,1065,1105"/>
+<area shape="rect" id="node45" href="$class_v_s_t_g_u_i_1_1_c_control.html#ae57d02e392f1505445a7d83f1a18d96c" title="notifies listener and dependent objects " alt="" coords="402,564,606,590"/>
+<area shape="rect" id="node47" href="$class_v_s_t_g_u_i_1_1_c_view.html#a51647a4891b4a9cbaf8595171c5ad3fc" title="mark whole view as invalid " alt="" coords="677,792,825,818"/>
+<area shape="rect" id="node48" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a61af3e60b94ae3e748f6fbac1e794af7" title="VSTGUI::CCommandMenuItem\l::execute" alt="" coords="896,63,1086,102"/>
+<area shape="rect" id="node49" href="$class_v_s_t_g_u_i_1_1_c_control.html#ace186d3a60dee99bc2fd1bf6a5b35601" title="VSTGUI::CControl::endEdit" alt="" coords="420,450,588,475"/>
+<area shape="rect" id="node29" href="$class_v_s_t_g_u_i_1_1_i_dependency.html#acac105ad797d9700f9a31946792ecbc0" title="VSTGUI::IDependency\l::changed" alt="" coords="920,316,1063,356"/>
+<area shape="rect" id="node31" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#a41d45236c37b75848f4b1667a11fb50e" title="VSTGUI::CCommandMenuItem\l::validate" alt="" coords="896,127,1086,166"/>
+<area shape="rect" id="node30" href="$class_v_s_t_g_u_i_1_1_c_base_object.html#ab18c3bcc0cb674396848861dfd78a83a" title="VSTGUI::CBaseObject\l::notify" alt="" coords="1158,127,1301,166"/>
+<area shape="rect" id="node32" href="$class_v_s_t_g_u_i_1_1_c_command_menu_item.html#ae4c86c0d5e2ba593b04c3c9767097235" title="VSTGUI::CCommandMenuItem\l::getTarget" alt="" coords="1134,63,1324,102"/>
+<area shape="rect" id="node34" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#ac869f70637c74c5d1d8e859182a15647" title="VSTGUI::IControlListener\l::controlBeginEdit" alt="" coords="673,285,830,325"/>
+<area shape="rect" id="node35" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html#a09cd3391119d3266c5d62ec8525d503d" title="VSTGUI::DispatchList\l::forEach" alt="" coords="682,500,820,540"/>
+<area shape="rect" id="node36" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6de7a2ecde27b7207ecdecc59c2b1ca7" title="VSTGUI::CFrame::beginEdit" alt="" coords="665,235,838,261"/>
+<area shape="rect" id="node38" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html#adac116554b543b7c4228c018a85882f5" title="VSTGUI::CFrame::CollectInvalid\lRects::flush" alt="" coords="654,679,848,718"/>
+<area shape="rect" id="node41" href="$class_v_s_t_g_u_i_1_1_c_option_menu.html#a748747af2114988b2f1f9088d1c26f37" title="get current entry " alt="" coords="678,1008,825,1048"/>
+<area shape="rect" id="node43" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a934daca7df63a2b0a79da349a939adbe" title="returns whether the item is checked or not " alt="" coords="681,843,822,882"/>
+<area shape="rect" id="node44" href="$class_v_s_t_g_u_i_1_1_c_control.html#a06bf62da9ba043bcf1b4c26bb2bf357b" title="VSTGUI::CControl::setValue" alt="" coords="665,743,837,769"/>
+<area shape="rect" id="node46" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html#a296f15a574e04152381eb01632abfec1" title="VSTGUI::IControlListener\l::valueChanged" alt="" coords="673,615,830,654"/>
+<area shape="rect" id="node50" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a71de5d264e5c0c8545565dd683cacbc2" title="VSTGUI::CFrame::endEdit" alt="" coords="670,399,833,425"/>
+</map>

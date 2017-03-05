@@ -1,0 +1,10 @@
+<map id="removed" name="removed">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_view.html#a2045d5fae6d0f8c615dc55113828359a" title="get frame " alt="" coords="136,5,301,31"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#acc3ae9665921a1ec7a4a3881b07a1d2a" title="VSTGUI::CFrame::unregister\lScaleFactorChangedListeneer" alt="" coords="127,56,310,95"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#a623ed61eec7265317899d9eae7c0c945" title="set the background image of this view " alt="" coords="121,120,315,146"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_view_container.html#a6e6ca5f3ecb10d888379cf19c29dd604" title="view is removed from parent view " alt="" coords="139,170,298,210"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_view.html#acab79bf608c51aad89f6f1e491231cf1" title="get the state of wheather this view uses the mouse or not " alt="" coords="363,96,574,122"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#a0f19a61606a7f547b62102310063ea76" title="set the view to dirty so that it is redrawn in the next idle. Thread Safe ! " alt="" coords="391,145,546,171"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad414ba3d5e64f9fdc11309e05266ffcf" title="mark rect as invalid " alt="" coords="622,145,794,171"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_view.html#a1b7f04ee36bdaecd09a2625370dc90d8" title="is view attached to a parentView " alt="" coords="842,145,1012,171"/>
+</map>

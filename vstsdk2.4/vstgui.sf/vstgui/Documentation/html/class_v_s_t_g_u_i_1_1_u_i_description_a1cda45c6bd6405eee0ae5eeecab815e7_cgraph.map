@@ -1,0 +1,18 @@
+<map id="getBitmap" name="getBitmap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a08d7accaf1c7c8e7e45d353e4c3f4bd6" title="findChildNodeByNameAttribute" alt="" coords="369,103,556,129"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a2b0f673945c12c2dbf13ecdb4d768bf1" title="getBaseNode" alt="" coords="415,429,509,454"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8849ed13652f5ee727ba7e689af30290" title="VSTGUI::CBitmap::getPlatform\lBitmap" alt="" coords="604,711,791,751"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_i_bitmap_creator.html#a4eb954a48f7dcb37060ac97869a509cc" title="VSTGUI::IBitmapCreator\l::createBitmap" alt="" coords="148,204,301,244"/>
+<area shape="rect" id="node6" href="$namespace_v_s_t_g_u_i_1_1_u_i_description_private.html#ab38450658321f797473497bd661915d1" title="VSTGUI::UIDescriptionPrivate\l::decodeScaleFactorFromName" alt="" coords="129,268,320,308"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#ad949ad017775b2c47b70ae61aa25f7c1" title="VSTGUI::CBitmap::setPlatform\lBitmap" alt="" coords="132,332,318,372"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_factory.html#a492f74c5c0728e1a8ded68ff9e68a7e3" title="VSTGUI::BitmapFilter\l::Factory::getInstance" alt="" coords="156,396,293,436"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_factory.html#aeb4da3f5c29e536a063d16947b743783" title="VSTGUI::BitmapFilter\l::Factory::createFilter" alt="" coords="156,460,293,500"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_i_filter.html#a4deb7855e10c9dff4c9e70913a2621b5" title="VSTGUI::BitmapFilter\l::IFilter::getProperty" alt="" coords="156,524,293,564"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_bitmap_filter_1_1_i_filter.html#a19bed293fcb5410ec188c0275c0a3781" title="VSTGUI::BitmapFilter\l::IFilter::setProperty" alt="" coords="156,588,293,628"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#af43ec4cfad6c07c09ef94b352ac44305" title="getColor" alt="" coords="191,154,258,180"/>
+<area shape="rect" id="node14" href="$namespace_v_s_t_g_u_i_1_1_u_i_description_private.html#a2900863d1ebe12b17726a8541441c8f8" title="VSTGUI::UIDescriptionPrivate\l::removeScaleFactorFromName" alt="" coords="129,703,321,743"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a09579c997640b084ef571b56763ca7fd" title="VSTGUI::CBitmap::addBitmap" alt="" coords="133,767,316,793"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_u_i_description.html#a91263d0e7d3c7a9feacd3a6ad056bd0d" title="parseColor" alt="" coords="422,154,502,180"/>
+<area shape="rect" id="node16" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a8b4fe88292b8e95807a9b07a26cd1cb1" title="get the width of the image " alt="" coords="376,718,549,744"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html#a1f4be3a475a8fb7d8defa4621c01558d" title="get the height of the image " alt="" coords="374,767,551,793"/>
+</map>

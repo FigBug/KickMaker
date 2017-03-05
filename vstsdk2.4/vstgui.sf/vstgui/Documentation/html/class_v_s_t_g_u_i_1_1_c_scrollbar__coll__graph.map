@@ -1,0 +1,23 @@
+<map id="CScrollbar" name="CScrollbar">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_control.html" title="base class of all VSTGUI controls " alt="" coords="716,232,785,258"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_view.html" title="Base Class of all view objects. " alt="" coords="362,620,418,646"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html" title="The CFrame is the parent container of all views. " alt="" coords="1069,667,1133,692"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view_container.html" title="Container Class of CView objects. " alt="" coords="696,527,804,552"/>
+<area shape="rect" id="node18" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; VSTGUI\l::CView \&gt;" alt="" coords="876,889,1029,929"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="38,923,130,948"/>
+<area shape="rect" id="node12" href="$struct_v_s_t_g_u_i_1_1_c_frame_1_1_collect_invalid_rects.html" title="CollectInvalidRects" alt="" coords="510,901,633,927"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_animation_1_1_animator.html" title="Animation runner. " alt="" coords="537,869,606,895"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html" title="Generic Tooltip Support class. " alt="" coords="1257,792,1364,818"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html" title="A timer class, which posts timer messages to CBaseObjects or calls a lambda function (c++11 only)..." alt="" coords="337,1020,442,1046"/>
+<area shape="rect" id="node19" href="$class_v_s_t_g_u_i_1_1_v_s_t_g_u_i_editor_interface.html" title="VSTGUIEditorInterface" alt="" coords="1238,361,1382,387"/>
+<area shape="rect" id="node7" href="$struct_v_s_t_g_u_i_1_1_c_point.html" title="Point structure. " alt="" coords="361,353,419,379"/>
+<area shape="rect" id="node8" href="$struct_v_s_t_g_u_i_1_1_c_color.html" title="RGBA Color structure. " alt="" coords="360,429,419,455"/>
+<area shape="rect" id="node9" href="$struct_v_s_t_g_u_i_1_1_c_rect.html" title="Rect structure. " alt="" coords="56,508,111,534"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_i_view_added_removed_observer.html" title="view added removed observer interface for CFrame " alt="" coords="657,477,843,503"/>
+<area shape="rect" id="node17" href="$class_v_s_t_g_u_i_1_1_shared_pointer.html" title="SharedPointer\&lt; IPlatform\lTimer \&gt;" alt="" coords="5,1104,162,1143"/>
+<area shape="rect" id="node20" href="$class_v_s_t_g_u_i_1_1_i_focus_drawing.html" title="Custom focus drawing interface. " alt="" coords="339,97,441,123"/>
+<area shape="rect" id="node21" href="$class_v_s_t_g_u_i_1_1_i_dependency.html" title="simple dependency between objects. " alt="" coords="344,147,436,172"/>
+<area shape="rect" id="node22" href="$class_v_s_t_g_u_i_1_1_i_control_listener.html" title="IControlListener" alt="" coords="337,196,443,222"/>
+<area shape="rect" id="node23" href="$class_v_s_t_g_u_i_1_1_dispatch_list.html" title="DispatchList\&lt; IControlListener \&gt;" alt="" coords="294,245,486,271"/>
+<area shape="rect" id="node24" href="$class_v_s_t_g_u_i_1_1_i_scrollbar_drawer.html" title="IScrollbarDrawer" alt="" coords="695,376,806,402"/>
+</map>

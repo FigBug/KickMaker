@@ -1,0 +1,11 @@
+<map id="onMouseExited" name="onMouseExited">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#adeac5973a837902933978d7d5a1eee61" title="clearMouseViews" alt="" coords="157,72,273,98"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#adb9104d43a8ae01c2023f36390a1909f" title="VSTGUI::CTooltipSupport\l::hideTooltip" alt="" coords="563,127,721,166"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_tooltip_support.html#a8f43f21fc087ee3670f58784a1d2af0c" title="VSTGUI::CTooltipSupport\l::onMouseExited" alt="" coords="339,65,497,105"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8f97b9b5fe74666c47d1c374f265e60d" title="callMouseObserverMouseExited" alt="" coords="321,15,515,41"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a8647d7eb64d0c6fcbdd654332bac258b" title="in milliseconds " alt="" coords="564,63,720,102"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#aad5997aaaa2d622f0ca57f8b24a51a7b" title="starts the timer " alt="" coords="769,5,925,45"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_v_s_t_g_u_i_timer.html#a68a350717fe6bf9012843e7c977d87b2" title="stops the timer, returns whether timer was running or not " alt="" coords="769,69,925,109"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a3b8d7ec8e7df59cf0fdc367f99fde1d0" title="getPlatformFrame" alt="" coords="788,134,905,159"/>
+<area shape="rect" id="node9" href="$namespace_v_s_t_g_u_i.html#a8464605507078761fac5d681245eb20a" title="VSTGUI::owned" alt="" coords="973,12,1081,38"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="compute" name="compute">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="129,52,216,78"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a479364708cefcb04cdaf5a0fb7e41b20" title="setStartAngle" alt="" coords="126,101,219,127"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a6c96915b2f868ccdc68ad83a4a2d1979" title="setRangeAngle" alt="" coords="121,151,224,176"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a5664c9617ae5cec35626edd388f9d724" title="setMin" alt="" coords="144,200,201,226"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a641d8bf24f6db83d5a124783e4a71fdd" title="setMax" alt="" coords="142,249,202,275"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_knob.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="309,5,378,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_anim_knob.html#a1f9f5eb3e6ae65118a2c1f15f15acab3" title="resize view to optimal size " alt="" coords="272,56,415,95"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_knob.html#ad17a8b78ea89a52378abeaeeadc1270e" title="CKnob" alt="" coords="315,131,373,156"/>
+</map>

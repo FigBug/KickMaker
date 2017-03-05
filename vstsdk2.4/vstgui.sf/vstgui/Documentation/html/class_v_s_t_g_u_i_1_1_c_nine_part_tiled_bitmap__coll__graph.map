@@ -1,0 +1,6 @@
+<map id="CNinePartTiledBitmap" name="CNinePartTiledBitmap">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_bitmap.html" title="Encapsulates various platform depended kinds of bitmaps. " alt="" coords="88,93,156,119"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_base_object.html" title="Base Object with reference counter. " alt="" coords="5,5,97,31"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_resource_description.html" title="Describes a resource by name or by ID. " alt="" coords="122,5,263,31"/>
+<area shape="rect" id="node5" href="$struct_v_s_t_g_u_i_1_1_c_nine_part_tiled_description.html" title="CNinePartTiledDescription" alt="" coords="180,93,342,119"/>
+</map>

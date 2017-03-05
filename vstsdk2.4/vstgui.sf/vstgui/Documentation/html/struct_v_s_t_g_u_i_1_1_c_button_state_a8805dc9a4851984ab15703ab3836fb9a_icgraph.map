@@ -1,0 +1,12 @@
+<map id="isLeftButton" name="isLeftButton">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_check_box.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="172,5,315,45"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_control.html#a5b0ed7ded11a5b04a43b49dd15a85190" title="VSTGUI::CControl::checkDefault\lValue" alt="" coords="145,120,341,160"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_knob.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="401,70,598,95"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_segment_button.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="161,184,325,224"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="397,323,602,349"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="148,299,338,325"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_x_y_pad.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="138,348,349,374"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_slider.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="400,119,599,145"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_vertical_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="421,169,578,209"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_horizontal_switch.html#af5e4151d575380ad56bf87893631f03d" title="called when a mouse down event occurs " alt="" coords="414,233,585,273"/>
+</map>

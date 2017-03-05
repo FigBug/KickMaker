@@ -1,0 +1,15 @@
+<map id="translate" name="translate">
+<area shape="rect" id="node2" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#a95c121da9f2c59a74a2c45029ee5e6ff" title="translate" alt="" coords="170,66,237,91"/>
+<area shape="rect" id="node3" href="$struct_v_s_t_g_u_i_1_1_c_graphics_transform.html#ac3297fa58a6dced09c5692c5fa0b2463" title="rotate" alt="" coords="177,115,229,141"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad920b8e3821267e2703098459376290a" title="VSTGUI::CView::getGlobal\lTransform" alt="" coords="121,165,286,205"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac3a391a1bf9228dbdf75b5e7910de137" title="VSTGUI::CTextEdit::\lplatformGetFont" alt="" coords="348,101,479,141"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_view.html#ad1bb542701081a3b8e7a2fffcc465e1a" title="VSTGUI::CView::translate\lToGlobal" alt="" coords="334,165,494,205"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_view.html#a701d6a482c7f94c8988bb495b5388e31" title="translates a local coordinate to a global one using parent transforms " alt="" coords="334,229,494,269"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2b3a35e421b7abbc7b5a833ec1751aaa" title="VSTGUI::CLayeredViewContainer\l::updateLayerSize" alt="" coords="542,101,744,141"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ad9f9e3ce4ccc8fced0f56afbe26a2a12" title="VSTGUI::CTextEdit::\lplatformGetSize" alt="" coords="578,165,708,205"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_text_edit.html#ac6723d734158ef4548dbd9dd3b24732f" title="VSTGUI::CTextEdit::\lplatformGetVisibleSize" alt="" coords="572,229,714,269"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a80b16ccff7902bff173730d061e83c0b" title="view is attached to a parent view " alt="" coords="794,5,997,45"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#af80b80a3ff7ae938f7802b4500ca7ccb" title="VSTGUI::CLayeredViewContainer\l::viewContainerTransformChanged" alt="" coords="792,69,999,109"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#a2c74a100fe4ecff75d76053f446fd5bb" title="notification that one of the views parent has changed its size " alt="" coords="794,133,997,173"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_layered_view_container.html#ada1ffb857aa147620f2d01522b37569d" title="set views size " alt="" coords="794,197,997,237"/>
+</map>

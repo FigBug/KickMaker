@@ -1,0 +1,16 @@
+<map id="callMouseObserverMouseEntered" name="callMouseObserverMouseEntered">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a83b0d2d4c489762aa768c5e16b0c72d0" title="checkMouseViews" alt="" coords="256,80,377,106"/>
+<area shape="rect" id="node3" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a25821e254b2ee5fabdda756c1c301fc0" title="called when a mouse up event occurs " alt="" coords="435,5,521,31"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ac8855959285a9555faaa8b0313e07027" title="called when a mouse move event occurs " alt="" coords="425,55,531,80"/>
+<area shape="rect" id="node7" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a6d88a500ad5bcf0664cffac0fc0adac2" title="called if a mouse wheel event is happening over this view " alt="" coords="444,104,512,130"/>
+<area shape="rect" id="node8" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a8702ff2f7885f8d7a93bde675d32f1dc" title="setModalView" alt="" coords="430,185,526,211"/>
+<area shape="rect" id="node4" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a0ce3c0d56e9d044ab559159dfdd1acf7" title="platformOnMouseUp" alt="" coords="599,5,731,31"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a51e758d815b647a1ec3e322d127c184d" title="platformOnMouseMoved" alt="" coords="589,55,741,80"/>
+<area shape="rect" id="node9" href="$class_v_s_t_g_u_i_1_1_c_frame.html#ad1bf70520cdd1e1663d122f8a84d017b" title="~CFrame" alt="" coords="841,107,913,132"/>
+<area shape="rect" id="node10" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a58740e67e93e5e4e275439ae9f6a3c80" title="remove all child views " alt="" coords="628,156,702,182"/>
+<area shape="rect" id="node12" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CSplashScreen\l::unSplash" alt="" coords="587,206,743,246"/>
+<area shape="rect" id="node14" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#aa78e227bab14a431ebf84d338439b02b" title="VSTGUI::CAnimationSplash\lScreen::unSplash" alt="" coords="579,270,751,310"/>
+<area shape="rect" id="node15" href="$class_v_s_t_g_u_i_1_1_c_animation_splash_screen.html#a15414e56ad0060f4b50f81ff44ad2a3e" title="VSTGUI::CAnimationSplash\lScreen::notify" alt="" coords="579,334,751,374"/>
+<area shape="rect" id="node11" href="$class_v_s_t_g_u_i_1_1_c_frame.html#a5ae591df94fc66ccb85cbb6565368bca" title="closes the frame and calls forget " alt="" coords="852,156,901,182"/>
+<area shape="rect" id="node13" href="$class_v_s_t_g_u_i_1_1_c_splash_screen.html#a9e11979012090b0ff41c3f59aef6023d" title="VSTGUI::CSplashScreen\l::valueChanged" alt="" coords="799,206,955,246"/>
+</map>

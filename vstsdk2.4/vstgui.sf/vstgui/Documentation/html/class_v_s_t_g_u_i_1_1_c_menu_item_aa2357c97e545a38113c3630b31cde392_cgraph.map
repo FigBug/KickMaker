@@ -1,0 +1,7 @@
+<map id="CMenuItem" name="CMenuItem">
+<area shape="rect" id="node2" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#afb2daf6d961426423c66598fd8c7f55b" title="set title of menu item " alt="" coords="137,29,196,55"/>
+<area shape="rect" id="node6" href="$class_v_s_t_g_u_i_1_1_c_menu_item.html#a8adf6931b3da23bab76dac845c10b5ee" title="set menu item tag " alt="" coords="138,79,195,104"/>
+<area shape="rect" id="node3" href="$namespace_v_s_t_g_u_i_1_1_string.html#af30ee7f201c1f86d9aceb849d6d08fbf" title="VSTGUI::String::free" alt="" coords="273,5,404,31"/>
+<area shape="rect" id="node4" href="$namespace_v_s_t_g_u_i_1_1_string.html#a83745b23a3d48e4f1e69950977918803" title="VSTGUI::String::newWithString" alt="" coords="244,55,432,80"/>
+<area shape="rect" id="node5" href="$class_v_s_t_g_u_i_1_1_u_t_f8_string_view.html#a67b9d83785a9c0fc5a668303de116803" title="VSTGUI::UTF8StringView\l::calculateByteCount" alt="" coords="480,48,640,87"/>
+</map>
