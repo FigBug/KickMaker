@@ -30,43 +30,40 @@ void cADSRDisplay::draw(CDrawContext *pContext) {
   pContext->setLineWidth(1);
   pContext->setDrawMode(kAntiAliasing);
   
-  CPoint point(size.left, size.bottom);
-  pContext->moveTo(point);
   
-  point(m_attack_x, m_attack_y);
-  pContext->lineTo(point);
-  point(m_decay_x, m_decay_y);
-  pContext->lineTo(point);
-  point(m_sustain_x, m_sustain_y);
-  pContext->lineTo(point);
-  point(m_release_x, m_release_y);
-  pContext->lineTo(point);
+  pContext->drawLine(CPoint(size.left, size.bottom), CPoint(m_attack_x, m_attack_y));
+  pContext->drawLine(CPoint(m_attack_x, m_attack_y), CPoint(m_decay_x, m_decay_y));
+  pContext->drawLine(CPoint(m_decay_x, m_decay_y), CPoint(m_sustain_x, m_sustain_y));
+  pContext->drawLine(CPoint(m_sustain_x, m_sustain_y), CPoint(m_release_x, m_release_y));
   
-  CColor heightcol = { 255, (int)((m_attack_amp - 1.0) * -255), 0, 255 };
+  CColor heightcol (255, (int)((m_attack_amp - 1.0) * -255), 0, 255);
   pContext->setFillColor(heightcol);
-  CPoint pointarr[4];
-  pointarr[0] = CPoint(m_attack_x - 2, m_attack_y - 2);
-  pointarr[1] = CPoint(m_attack_x + 2, m_attack_y - 2);
-  pointarr[2] = CPoint(m_attack_x + 2, m_attack_y + 2);
-  pointarr[3] = CPoint(m_attack_x - 2, m_attack_y + 2);
-  pContext->fillPolygon(pointarr, 4);
+  CDrawContext::PointList pointarr;
+  pointarr.push_back(CPoint(m_attack_x - 2, m_attack_y - 2));
+  pointarr.push_back(CPoint(m_attack_x + 2, m_attack_y - 2));
+  pointarr.push_back(CPoint(m_attack_x + 2, m_attack_y + 2));
+  pointarr.push_back(CPoint(m_attack_x - 2, m_attack_y + 2));
+  pContext->drawPolygon(pointarr, kDrawFilled);
+  pointarr.clear();
   
   heightcol(255, (int)((m_decay_amp - 1.0) * -255), 0, 255);
   pContext->setFillColor(heightcol);
-  pointarr[0] = CPoint(m_decay_x - 2, m_decay_y - 2);
-  pointarr[1] = CPoint(m_decay_x + 2, m_decay_y - 2);
-  pointarr[2] = CPoint(m_decay_x + 2, m_decay_y + 2);
-  pointarr[3] = CPoint(m_decay_x - 2, m_decay_y + 2);
-  pContext->fillPolygon(pointarr, 4);
-  
+  pointarr.push_back(CPoint(m_decay_x - 2, m_decay_y - 2));
+  pointarr.push_back(CPoint(m_decay_x + 2, m_decay_y - 2));
+  pointarr.push_back(CPoint(m_decay_x + 2, m_decay_y + 2));
+  pointarr.push_back(CPoint(m_decay_x - 2, m_decay_y + 2));
+  pContext->drawPolygon(pointarr, kDrawFilled);
+  pointarr.clear();
+    
   heightcol(255, (unsigned char)((m_sustain_amp - 1.0) * -255), 0, 255);
   pContext->setFillColor(heightcol);
-  pointarr[0] = CPoint(m_sustain_x - 2, m_sustain_y - 2);
-  pointarr[1] = CPoint(m_sustain_x + 2, m_sustain_y - 2);
-  pointarr[2] = CPoint(m_sustain_x + 2, m_sustain_y + 2);
-  pointarr[3] = CPoint(m_sustain_x - 2, m_sustain_y + 2);
-  pContext->fillPolygon(pointarr, 4);
-
+  pointarr.push_back(CPoint(m_sustain_x - 2, m_sustain_y - 2));
+  pointarr.push_back(CPoint(m_sustain_x + 2, m_sustain_y - 2));
+  pointarr.push_back(CPoint(m_sustain_x + 2, m_sustain_y + 2));
+  pointarr.push_back(CPoint(m_sustain_x - 2, m_sustain_y + 2));
+  pContext->drawPolygon(pointarr, kDrawFilled);
+  pointarr.clear();
+    
   setDirty(false);
 }
 
@@ -76,7 +73,7 @@ int cADSRDisplay::distance(int x1, int y1, int x2, int y2) const {
 }
 
 void cADSRDisplay::mouse(CDrawContext *pContext, CPoint &where, long buttons) {
-  CView::mouse(pContext, where, buttons);
+  mouse(pContext, where, buttons);
 
   if(distance(where.x, where.y, m_attack_x, m_attack_y) < DEF_MOUSE_TOLERANCE) {
     setValue(1);
@@ -94,11 +91,12 @@ void cADSRDisplay::mouse(CDrawContext *pContext, CPoint &where, long buttons) {
   long button = 0;
   beginEdit();
 	do {
-		button = pContext->getMouseButtons();
-		getMouseLocation(pContext, where);
+        // todo: rmr
+		//button = pContext->getMouseButtons();
+		//getMouseLocation(pContext, where);
     // Force a redraw right away
-		doIdleStuff();
-    listener->valueChanged(pContext, this);    
+		//doIdleStuff(); // todo: rmr
+    listener->valueChanged(this);
 	} while(button & kLButton);
   endEdit();
 }

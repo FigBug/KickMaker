@@ -66,7 +66,8 @@ void cBitmapFont::draw(CDrawContext *pContext) {
     CPoint where(0, 0);
     for(int i = 0; i < m_num_chars; ++i) {
       where.y = m_font_height * m_char_index[i];
-      getBackground()->drawTransparent(pContext, m_sizes[i], where);
+      //getBackground()->drawTransparent(pContext, m_sizes[i], where);
+        // todo: rmr
     }
   }
   setDirty(false);
