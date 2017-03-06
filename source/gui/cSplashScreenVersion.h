@@ -27,7 +27,7 @@
 
 class cSplashScreenVersion : public CControl {
 public:
-  cSplashScreenVersion(const CRect &size, CControlListener *listener, long tag,
+  cSplashScreenVersion(const CRect &size, IControlListener *listener, long tag,
                        CBitmap *splash, CRect &wsize);
   ~cSplashScreenVersion();
   

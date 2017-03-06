@@ -19,7 +19,7 @@
 
 class cNumberBitmap : public cBitmapFont {
 public:
-  cNumberBitmap(const CRect &size, CControlListener *listener, long tag, CBitmap *background,
+  cNumberBitmap(const CRect &size, IControlListener *listener, long tag, CBitmap *background,
                 int spacing, int characters = 12);
   ~cNumberBitmap();
   

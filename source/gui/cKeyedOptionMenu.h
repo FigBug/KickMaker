@@ -18,7 +18,7 @@
 
 class cKeyedOptionMenu : public COptionMenu {
 public:
-  cKeyedOptionMenu(const CRect &size, CControlListener *listener, long tag);
+  cKeyedOptionMenu(const CRect &size, IControlListener *listener, long tag);
   ~cKeyedOptionMenu();
 
   int addKey(const char *name, long value = 0);

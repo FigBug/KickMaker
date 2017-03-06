@@ -22,7 +22,7 @@
 
 class cSmartKnob : public CControl, public eventListener {
 public:
-  cSmartKnob(const CRect &size, CControlListener *listener, long tag, long subPixmaps,
+  cSmartKnob(const CRect &size, IControlListener *listener, long tag, long subPixmaps,
              CCoord heightOfOneImage, CBitmap *background, CBitmap *fontmap, CPoint &offset, CFrame *frame);
   ~cSmartKnob();
   

@@ -25,7 +25,7 @@ using namespace std;
 
 class cLevelDisplayBitmap : public cLevelDisplay {
 public:
-  cLevelDisplayBitmap(const CRect &size, CControlListener *listener, long tag,
+  cLevelDisplayBitmap(const CRect &size, IControlListener *listener, long tag,
                       CBitmap *pBackground, CBitmap *fontmap,
                       int display_offset_x = 0, int display_offset_y = 0);
   ~cLevelDisplayBitmap();

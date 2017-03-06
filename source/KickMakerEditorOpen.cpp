@@ -55,7 +55,7 @@ bool KickMakerEditor::open(void *ptr) {
   m_effect_meter_vu1_1 = new cLevelDisplayBitmap(size, this, -1, 0, rfont, DEF_DISPLAY_OFFSET_X, DEF_DISPLAY_OFFSET_Y);
   frame->addView(m_effect_meter_vu1_1);
   
-  m_effect_meter1_1 = new CHorizontalSlider(size, this, TAG_1_EFFECT_METER1, point, size.width(),
+  m_effect_meter1_1 = new CHorizontalSlider(size, this, TAG_1_EFFECT_METER1, point, size.getWidth(),
                                             meterhandle, 0, point, kLeft);
   m_effect_meter1_1->setTransparency(true);
   frame->addView(m_effect_meter1_1);
@@ -99,7 +99,7 @@ bool KickMakerEditor::open(void *ptr) {
   m_effect_meter_vu1_3 = new cLevelDisplayBitmap(size, this, -1, 0, rfont, DEF_DISPLAY_OFFSET_X, DEF_DISPLAY_OFFSET_Y);
   frame->addView(m_effect_meter_vu1_3);
   
-  m_effect_meter1_3 = new CHorizontalSlider(size, this, TAG_1_EFFECT_METER3, point, size.width(),
+  m_effect_meter1_3 = new CHorizontalSlider(size, this, TAG_1_EFFECT_METER3, point, size.getWidth(),
                                             meterhandle, 0, point, kLeft);
   m_effect_meter1_3->setTransparency(true);
   frame->addView(m_effect_meter1_3);
@@ -121,7 +121,7 @@ bool KickMakerEditor::open(void *ptr) {
   m_effect_meter_vu2_1 = new cLevelDisplayBitmap(size, this, -1, 0, rfont, DEF_DISPLAY_OFFSET_X, DEF_DISPLAY_OFFSET_Y);
   frame->addView(m_effect_meter_vu2_1);
   
-  m_effect_meter2_1 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER1, point, size.width(),
+  m_effect_meter2_1 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER1, point, size.getWidth(),
                                             meterhandle, 0, point, kLeft);
   m_effect_meter2_1->setTransparency(true);
   frame->addView(m_effect_meter2_1);
@@ -143,7 +143,7 @@ bool KickMakerEditor::open(void *ptr) {
   m_effect_meter_vu2_2 = new cLevelDisplayBitmap(size, this, -1, 0, rfont, DEF_DISPLAY_OFFSET_X, DEF_DISPLAY_OFFSET_Y);
   frame->addView(m_effect_meter_vu2_2);
   
-  m_effect_meter2_2 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER2, point, size.width(),
+  m_effect_meter2_2 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER2, point, size.getWidth(),
                                             meterhandle, 0, point, kLeft);
   m_effect_meter2_2->setTransparency(true);
   frame->addView(m_effect_meter2_2);
@@ -165,7 +165,7 @@ bool KickMakerEditor::open(void *ptr) {
   m_effect_meter_vu2_3 = new cLevelDisplayBitmap(size, this, -1, 0, rfont, DEF_DISPLAY_OFFSET_X, DEF_DISPLAY_OFFSET_Y);
   frame->addView(m_effect_meter_vu2_3);
   
-  m_effect_meter2_3 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER3, point, size.width(),
+  m_effect_meter2_3 = new CHorizontalSlider(size, this, TAG_2_EFFECT_METER3, point, size.getWidth(),
                                             meterhandle, 0, point, kLeft);
   m_effect_meter2_3->setTransparency(true);
   frame->addView(m_effect_meter2_3);

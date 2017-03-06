@@ -18,7 +18,7 @@
 
 class cSplashScreen : public CControl, public eventListener {
 public:
-  cSplashScreen(const CRect &size, CControlListener *listener, long tag, CBitmap *splash);
+  cSplashScreen(const CRect &size, IControlListener *listener, long tag, CBitmap *splash);
   ~cSplashScreen();
 
   virtual void draw(CDrawContext *pContext);

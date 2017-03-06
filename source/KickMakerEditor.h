@@ -63,9 +63,8 @@
 #include "coords.h"
 #endif
 
-#ifndef __vstgui__
 #include "vstgui.h"
-#endif
+#include "aeffguieditor.h"
 
 #ifdef USE_PC_AU
 #include <Carbon/Carbon.h>
@@ -75,7 +74,7 @@
 #include <vector>
 #include <string>
 
-class KickMakerEditor : public AEffGUIEditor, public CControlListener {
+class KickMakerEditor : public AEffGUIEditor, public IControlListener {
   public:
 #if PLUGGUI
     KickMakerEditor(void *effect);

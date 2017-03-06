@@ -17,7 +17,7 @@
 
 class cLevelDisplay : public CControl {
 public:
-  cLevelDisplay(const CRect &size, CControlListener *listener, long tag, CBitmap *pBackground);
+  cLevelDisplay(const CRect &size, IControlListener *listener, long tag, CBitmap *pBackground);
   ~cLevelDisplay();
   
   virtual void draw(CDrawContext *pContext);

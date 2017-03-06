@@ -1120,22 +1120,22 @@ void KickMakerEditor::valueChanged(CDrawContext* pContext, CControl* pControl) {
       pControl->getViewSize(r);
       pControl->getMouseLocation(pContext, p);
       
-      if(p.h < r.left) {
-        p.h = r.left;
+      if(p.x < r.left) {
+        p.x = r.left;
       }
-      else if(p.h > r.right) {
-        p.h = r.right;
+      else if(p.x > r.right) {
+        p.x = r.right;
       }
-      if(p.v > r.bottom) {
-        p.v = r.bottom;
+      if(p.y > r.bottom) {
+        p.y = r.bottom;
       }
-      else if(p.v < r.top) {
-        p.v = r.top;
+      else if(p.y < r.top) {
+        p.y = r.top;
       }
       
-      printf("You picked point %d @ %d, %d\n", (int)pControl->getValue(), p.h, p.v);
-      float x = (float)(p.h - r.left) / (float)r.width();
-      float y = 1.0 - (float)(p.v - r.top) / (float)r.height();
+      printf("You picked point %d @ %d, %d\n", (int)pControl->getValue(), p.x, p.y);
+      float x = (float)(p.x - r.left) / (float)r.getWidth();
+      float y = 1.0 - (float)(p.y - r.top) / (float)r.height();
       
       bool lset = false;
       switch((int)pControl->getValue())

@@ -14,7 +14,7 @@
 
 class cTextEditLockable : public CTextEdit {
 public:
-  cTextEditLockable (const CRect &size, CControlListener *listener, long tag,
+  cTextEditLockable (const CRect &size, IControlListener *listener, long tag,
                      const char *txt, CBitmap *background, const long style);
   virtual ~cTextEditLockable ();
   virtual bool getEnabled() const;

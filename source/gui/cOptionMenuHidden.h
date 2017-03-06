@@ -18,7 +18,7 @@
 
 class cOptionMenuHidden : public COptionMenu {
 public:
-  cOptionMenuHidden(const CRect &size, CControlListener *listener, long tag, CBitmap *background = 0,
+  cOptionMenuHidden(const CRect &size, IControlListener *listener, long tag, CBitmap *background = 0,
                     CBitmap *bgWhenClick = 0, const long style = 0);
   ~cOptionMenuHidden();
   
