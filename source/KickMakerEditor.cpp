@@ -1135,7 +1135,7 @@ void KickMakerEditor::valueChanged(CDrawContext* pContext, CControl* pControl) {
       
       printf("You picked point %d @ %d, %d\n", (int)pControl->getValue(), p.x, p.y);
       float x = (float)(p.x - r.left) / (float)r.getWidth();
-      float y = 1.0 - (float)(p.y - r.top) / (float)r.height();
+      float y = 1.0 - (float)(p.y - r.top) / (float)r.getHeight();
       
       bool lset = false;
       switch((int)pControl->getValue())
